@@ -1,0 +1,400 @@
+{"base": "Last week, Phillips replaced Anderson in Toronto.", "kept": "Last week, Anderson was replaced by Phillips in Toronto.", "reversed": "Last week, Anderson replaced Phillips in Toronto."}
+{"base": "Garcia sued Parker at the conference in 2015.", "kept": "Parker was sued by Garcia at the conference in 2015.", "reversed": "Parker sued Garcia at the conference in 2015."}
+{"base": "Anderson hired Turner at the conference in 1999.", "kept": "Turner was hired by Anderson at the conference in 1999.", "reversed": "Turner hired Anderson at the conference in 1999."}
+{"base": "Earlier this year, Taylor helped Kelly in private.", "kept": "Earlier this year, Kelly was helped by Taylor in private.", "reversed": "Earlier this year, Kelly helped Taylor in private."}
+{"base": "Earlier this year, Robinson visited Cohen in private.", "kept": "Earlier this year, Cohen was visited by Robinson in private.", "reversed": "Earlier this year, Cohen visited Robinson in private."}
+{"base": "During 2002, Taylor defeated Hughes in Toronto.", "kept": "During 2002, Hughes was defeated by Taylor in Toronto.", "reversed": "During 2002, Hughes defeated Taylor in Toronto."}
+{"base": "During 2013, Cooper interviewed Anderson in Madrid.", "kept": "During 2013, Anderson was interviewed by Cooper in Madrid.", "reversed": "During 2013, Anderson interviewed Cooper in Madrid."}
+{"base": "Earlier this year, Clarke trained Davis in private.", "kept": "Earlier this year, Davis was trained by Clarke in private.", "reversed": "Earlier this year, Davis trained Clarke in private."}
+{"base": "During 2012, Jackson interviewed Allen in Paris.", "kept": "During 2012, Allen was interviewed by Jackson in Paris.", "reversed": "During 2012, Allen interviewed Jackson in Paris."}
+{"base": "The report says Harris praised Garcia in London.", "kept": "The report says Garcia was praised by Harris in London.", "reversed": "The report says Garcia praised Harris in London."}
+{"base": "During 1998, Johnson criticised Patel in Rome.", "kept": "During 1998, Patel was criticised by Johnson in Rome.", "reversed": "During 1998, Patel criticised Johnson in Rome."}
+{"base": "Last week, Jones hired Smith in Madrid.", "kept": "Last week, Smith was hired by Jones in Madrid.", "reversed": "Last week, Smith hired Jones in Madrid."}
+{"base": "During 2008, Morgan interviewed Patel in Paris.", "kept": "During 2008, Patel was interviewed by Morgan in Paris.", "reversed": "During 2008, Patel interviewed Morgan in Paris."}
+{"base": "Earlier this year, Hughes visited Jackson in private.", "kept": "Earlier this year, Jackson was visited by Hughes in private.", "reversed": "Earlier this year, Jackson visited Hughes in private."}
+{"base": "The report says Smith praised Allen in Paris.", "kept": "The report says Allen was praised by Smith in Paris.", "reversed": "The report says Allen praised Smith in Paris."}
+{"base": "Johnson trained Smith at the conference in 1996.", "kept": "Smith was trained by Johnson at the conference in 1996.", "reversed": "Smith trained Johnson at the conference in 1996."}
+{"base": "Last week, Stewart sued Hughes in Chicago.", "kept": "Last week, Hughes was sued by Stewart in Chicago.", "reversed": "Last week, Hughes sued Stewart in Chicago."}
+{"base": "Walker helped Allen at the conference in 2015.", "kept": "Allen was helped by Walker at the conference in 2015.", "reversed": "Allen helped Walker at the conference in 2015."}
+{"base": "During 1995, Allen invited Edwards in Rome.", "kept": "During 1995, Edwards was invited by Allen in Rome.", "reversed": "During 1995, Edwards invited Allen in Rome."}
+{"base": "Earlier this year, Jones thanked Edwards in private.", "kept": "Earlier this year, Edwards was thanked by Jones in private.", "reversed": "Earlier this year, Edwards thanked Jones in private."}
+{"base": "Earlier this year, Murphy visited Johnson in private.", "kept": "Earlier this year, Johnson was visited by Murphy in private.", "reversed": "Earlier this year, Johnson visited Murphy in private."}
+{"base": "Martin interviewed Smith at the conference in 2019.", "kept": "Smith was interviewed by Martin at the conference in 2019.", "reversed": "Smith interviewed Martin at the conference in 2019."}
+{"base": "The report says Morgan thanked Davies in Paris.", "kept": "The report says Davies was thanked by Morgan in Paris.", "reversed": "The report says Davies thanked Morgan in Paris."}
+{"base": "Lewis criticised Smith at the conference in 2014.", "kept": "Smith was criticised by Lewis at the conference in 2014.", "reversed": "Smith criticised Lewis at the conference in 2014."}
+{"base": "The report says Phillips criticised Walker in Boston.", "kept": "The report says Walker was criticised by Phillips in Boston.", "reversed": "The report says Walker criticised Phillips in Boston."}
+{"base": "Earlier this year, Morgan sued Thompson in private.", "kept": "Earlier this year, Thompson was sued by Morgan in private.", "reversed": "Earlier this year, Thompson sued Morgan in private."}
+{"base": "The report says Cohen trained Lewis in Madrid.", "kept": "The report says Lewis was trained by Cohen in Madrid.", "reversed": "The report says Lewis trained Cohen in Madrid."}
+{"base": "Stewart helped Hughes at the conference in 2016.", "kept": "Hughes was helped by Stewart at the conference in 2016.", "reversed": "Hughes helped Stewart at the conference in 2016."}
+{"base": "Last week, Evans criticised Allen in Paris.", "kept": "Last week, Allen was criticised by Evans in Paris.", "reversed": "Last week, Allen criticised Evans in Paris."}
+{"base": "During 2002, Garcia defeated Martin in Tokyo.", "kept": "During 2002, Martin was defeated by Garcia in Tokyo.", "reversed": "During 2002, Martin defeated Garcia in Tokyo."}
+{"base": "Last week, Allen thanked Kelly in Rome.", "kept": "Last week, Kelly was thanked by Allen in Rome.", "reversed": "Last week, Kelly thanked Allen in Rome."}
+{"base": "Earlier this year, Davies sued Walker in private.", "kept": "Earlier this year, Walker was sued by Davies in private.", "reversed": "Earlier this year, Walker sued Davies in private."}
+{"base": "Earlier this year, Cohen visited Davies in private.", "kept": "Earlier this year, Davies was visited by Cohen in private.", "reversed": "Earlier this year, Davies visited Cohen in private."}
+{"base": "Jones helped Davies at the conference in 2003.", "kept": "Davies was helped by Jones at the conference in 2003.", "reversed": "Davies helped Jones at the conference in 2003."}
+{"base": "Last week, Wilson trained Taylor in Rome.", "kept": "Last week, Taylor was trained by Wilson in Rome.", "reversed": "Last week, Taylor trained Wilson in Rome."}
+{"base": "The report says Murphy replaced Walker in Vienna.", "kept": "The report says Walker was replaced by Murphy in Vienna.", "reversed": "The report says Walker replaced Murphy in Vienna."}
+{"base": "Morris interviewed Miller at the conference in 2013.", "kept": "Miller was interviewed by Morris at the conference in 2013.", "reversed": "Miller interviewed Morris at the conference in 2013."}
+{"base": "Earlier this year, Jones defeated Parker in private.", "kept": "Earlier this year, Parker was defeated by Jones in private.", "reversed": "Earlier this year, Parker defeated Jones in private."}
+{"base": "The report says Jones defeated Kelly in Paris.", "kept": "The report says Kelly was defeated by Jones in Paris.", "reversed": "The report says Kelly defeated Jones in Paris."}
+{"base": "Last week, Turner hired Cooper in Paris.", "kept": "Last week, Cooper was hired by Turner in Paris.", "reversed": "Last week, Cooper hired Turner in Paris."}
+{"base": "During 2018, Collins interviewed Harrison in London.", "kept": "During 2018, Harrison was interviewed by Collins in London.", "reversed": "During 2018, Harrison interviewed Collins in London."}
+{"base": "Watson praised Evans at the conference in 2016.", "kept": "Evans was praised by Watson at the conference in 2016.", "reversed": "Evans praised Watson at the conference in 2016."}
+{"base": "During 2013, Jones invited Davis in London.", "kept": "During 2013, Davis was invited by Jones in London.", "reversed": "During 2013, Davis invited Jones in London."}
+{"base": "Earlier this year, Morgan visited Campbell in private.", "kept": "Earlier this year, Campbell was visited by Morgan in private.", "reversed": "Earlier this year, Campbell visited Morgan in private."}
+{"base": "During 2003, Evans hired Roberts in Dublin.", "kept": "During 2003, Roberts was hired by Evans in Dublin.", "reversed": "During 2003, Roberts hired Evans in Dublin."}
+{"base": "The report says Campbell invited Phillips in Boston.", "kept": "The report says Phillips was invited by Campbell in Boston.", "reversed": "The report says Phillips invited Campbell in Boston."}
+{"base": "Earlier this year, Miller hired Garcia in private.", "kept": "Earlier this year, Garcia was hired by Miller in private.", "reversed": "Earlier this year, Garcia hired Miller in private."}
+{"base": "Earlier this year, Parker hired Jones in private.", "kept": "Earlier this year, Jones was hired by Parker in private.", "reversed": "Earlier this year, Jones hired Parker in private."}
+{"base": "During 2003, Cohen interviewed Davis in London.", "kept": "During 2003, Davis was interviewed by Cohen in London.", "reversed": "During 2003, Davis interviewed Cohen in London."}
+{"base": "The report says Wright thanked Cohen in Chicago.", "kept": "The report says Cohen was thanked by Wright in Chicago.", "reversed": "The report says Cohen thanked Wright in Chicago."}
+{"base": "Anderson praised Davis at the conference in 2002.", "kept": "Davis was praised by Anderson at the conference in 2002.", "reversed": "Davis praised Anderson at the conference in 2002."}
+{"base": "Last week, Martin visited Hughes in Dublin.", "kept": "Last week, Hughes was visited by Martin in Dublin.", "reversed": "Last week, Hughes visited Martin in Dublin."}
+{"base": "Morgan trained Harris at the conference in 2013.", "kept": "Harris was trained by Morgan at the conference in 2013.", "reversed": "Harris trained Morgan at the conference in 2013."}
+{"base": "Walker sued Davis at the conference in 2006.", "kept": "Davis was sued by Walker at the conference in 2006.", "reversed": "Davis sued Walker at the conference in 2006."}
+{"base": "During 2009, Robinson thanked Roberts in Boston.", "kept": "During 2009, Roberts was thanked by Robinson in Boston.", "reversed": "During 2009, Roberts thanked Robinson in Boston."}
+{"base": "The report says Allen trained Morgan in Chicago.", "kept": "The report says Morgan was trained by Allen in Chicago.", "reversed": "The report says Morgan trained Allen in Chicago."}
+{"base": "Last week, Cooper visited Cohen in Vienna.", "kept": "Last week, Cohen was visited by Cooper in Vienna.", "reversed": "Last week, Cohen visited Cooper in Vienna."}
+{"base": "During 1996, Jackson defeated Kelly in Sydney.", "kept": "During 1996, Kelly was defeated by Jackson in Sydney.", "reversed": "During 1996, Kelly defeated Jackson in Sydney."}
+{"base": "The report says Watson criticised Turner in Toronto.", "kept": "The report says Turner was criticised by Watson in Toronto.", "reversed": "The report says Turner criticised Watson in Toronto."}
+{"base": "During 2009, Walker visited Patel in Madrid.", "kept": "During 2009, Patel was visited by Walker in Madrid.", "reversed": "During 2009, Patel visited Walker in Madrid."}
+{"base": "During 2020, Lewis thanked Wright in London.", "kept": "During 2020, Wright was thanked by Lewis in London.", "reversed": "During 2020, Wright thanked Lewis in London."}
+{"base": "During 2015, Johnson interviewed Collins in Sydney.", "kept": "During 2015, Collins was interviewed by Johnson in Sydney.", "reversed": "During 2015, Collins interviewed Johnson in Sydney."}
+{"base": "The report says Hughes hired Parker in Berlin.", "kept": "The report says Parker was hired by Hughes in Berlin.", "reversed": "The report says Parker hired Hughes in Berlin."}
+{"base": "During 2000, Collins interviewed Taylor in Madrid.", "kept": "During 2000, Taylor was interviewed by Collins in Madrid.", "reversed": "During 2000, Taylor interviewed Collins in Madrid."}
+{"base": "The report says Collins praised Miller in Toronto.", "kept": "The report says Miller was praised by Collins in Toronto.", "reversed": "The report says Miller praised Collins in Toronto."}
+{"base": "Harris invited Evans at the conference in 2008.", "kept": "Evans was invited by Harris at the conference in 2008.", "reversed": "Evans invited Harris at the conference in 2008."}
+{"base": "Last week, Anderson sued Phillips in Sydney.", "kept": "Last week, Phillips was sued by Anderson in Sydney.", "reversed": "Last week, Phillips sued Anderson in Sydney."}
+{"base": "During 2015, Stewart invited Murphy in Chicago.", "kept": "During 2015, Murphy was invited by Stewart in Chicago.", "reversed": "During 2015, Murphy invited Stewart in Chicago."}
+{"base": "The report says Cooper interviewed Edwards in Tokyo.", "kept": "The report says Edwards was interviewed by Cooper in Tokyo.", "reversed": "The report says Edwards interviewed Cooper in Tokyo."}
+{"base": "During 1997, Lewis trained Morgan in Rome.", "kept": "During 1997, Morgan was trained by Lewis in Rome.", "reversed": "During 1997, Morgan trained Lewis in Rome."}
+{"base": "Earlier this year, Martin praised Jones in private.", "kept": "Earlier this year, Jones was praised by Martin in private.", "reversed": "Earlier this year, Jones praised Martin in private."}
+{"base": "During 2012, Anderson defeated Morris in Dublin.", "kept": "During 2012, Morris was defeated by Anderson in Dublin.", "reversed": "During 2012, Morris defeated Anderson in Dublin."}
+{"base": "The report says Jones interviewed Edwards in Paris.", "kept": "The report says Edwards was interviewed by Jones in Paris.", "reversed": "The report says Edwards interviewed Jones in Paris."}
+{"base": "Last week, Thompson defeated Collins in Sydney.", "kept": "Last week, Collins was defeated by Thompson in Sydney.", "reversed": "Last week, Collins defeated Thompson in Sydney."}
+{"base": "Wright interviewed Miller at the conference in 2018.", "kept": "Miller was interviewed by Wright at the conference in 2018.", "reversed": "Miller interviewed Wright at the conference in 2018."}
+{"base": "Last week, Campbell interviewed Evans in Madrid.", "kept": "Last week, Evans was interviewed by Campbell in Madrid.", "reversed": "Last week, Evans interviewed Campbell in Madrid."}
+{"base": "Last week, Stewart replaced Clarke in Chicago.", "kept": "Last week, Clarke was replaced by Stewart in Chicago.", "reversed": "Last week, Clarke replaced Stewart in Chicago."}
+{"base": "Garcia replaced Stewart at the conference in 2003.", "kept": "Stewart was replaced by Garcia at the conference in 2003.", "reversed": "Stewart replaced Garcia at the conference in 2003."}
+{"base": "Last week, Edwards criticised Turner in Chicago.", "kept": "Last week, Turner was criticised by Edwards in Chicago.", "reversed": "Last week, Turner criticised Edwards in Chicago."}
+{"base": "Earlier this year, Murphy thanked Davis in private.", "kept": "Earlier this year, Davis was thanked by Murphy in private.", "reversed": "Earlier this year, Davis thanked Murphy in private."}
+{"base": "Earlier this year, Garcia hired Smith in private.", "kept": "Earlier this year, Smith was hired by Garcia in private.", "reversed": "Earlier this year, Smith hired Garcia in private."}
+{"base": "During 2007, Taylor replaced Miller in Chicago.", "kept": "During 2007, Miller was replaced by Taylor in Chicago.", "reversed": "During 2007, Miller replaced Taylor in Chicago."}
+{"base": "Earlier this year, Davis hired Evans in private.", "kept": "Earlier this year, Evans was hired by Davis in private.", "reversed": "Earlier this year, Evans hired Davis in private."}
+{"base": "During 2020, Phillips replaced Allen in Dublin.", "kept": "During 2020, Allen was replaced by Phillips in Dublin.", "reversed": "During 2020, Allen replaced Phillips in Dublin."}
+{"base": "The report says Parker trained Davis in Vienna.", "kept": "The report says Davis was trained by Parker in Vienna.", "reversed": "The report says Davis trained Parker in Vienna."}
+{"base": "Last week, Miller interviewed Cooper in Madrid.", "kept": "Last week, Cooper was interviewed by Miller in Madrid.", "reversed": "Last week, Cooper interviewed Miller in Madrid."}
+{"base": "Last week, Jones criticised Martin in Tokyo.", "kept": "Last week, Martin was criticised by Jones in Tokyo.", "reversed": "Last week, Martin criticised Jones in Tokyo."}
+{"base": "During 2002, Hughes defeated Wright in London.", "kept": "During 2002, Wright was defeated by Hughes in London.", "reversed": "During 2002, Wright defeated Hughes in London."}
+{"base": "The report says Watson praised Lewis in Boston.", "kept": "The report says Lewis was praised by Watson in Boston.", "reversed": "The report says Lewis praised Watson in Boston."}
+{"base": "During 2011, Campbell interviewed Roberts in Toronto.", "kept": "During 2011, Roberts was interviewed by Campbell in Toronto.", "reversed": "During 2011, Roberts interviewed Campbell in Toronto."}
+{"base": "The report says Hughes helped Miller in London.", "kept": "The report says Miller was helped by Hughes in London.", "reversed": "The report says Miller helped Hughes in London."}
+{"base": "Last week, Allen visited Miller in Berlin.", "kept": "Last week, Miller was visited by Allen in Berlin.", "reversed": "Last week, Miller visited Allen in Berlin."}
+{"base": "Earlier this year, Collins trained Edwards in private.", "kept": "Earlier this year, Edwards was trained by Collins in private.", "reversed": "Earlier this year, Edwards trained Collins in private."}
+{"base": "Earlier this year, Campbell criticised Walker in private.", "kept": "Earlier this year, Walker was criticised by Campbell in private.", "reversed": "Earlier this year, Walker criticised Campbell in private."}
+{"base": "The report says Cooper sued Kelly in Madrid.", "kept": "The report says Kelly was sued by Cooper in Madrid.", "reversed": "The report says Kelly sued Cooper in Madrid."}
+{"base": "Johnson trained Walker at the conference in 2002.", "kept": "Walker was trained by Johnson at the conference in 2002.", "reversed": "Walker trained Johnson at the conference in 2002."}
+{"base": "During 2008, Morgan thanked Johnson in Dublin.", "kept": "During 2008, Johnson was thanked by Morgan in Dublin.", "reversed": "During 2008, Johnson thanked Morgan in Dublin."}
+{"base": "Earlier this year, Walker helped Hughes in private.", "kept": "Earlier this year, Hughes was helped by Walker in private.", "reversed": "Earlier this year, Hughes helped Walker in private."}
+{"base": "During 2016, Hughes hired Murphy in Vienna.", "kept": "During 2016, Murphy was hired by Hughes in Vienna.", "reversed": "During 2016, Murphy hired Hughes in Vienna."}
+{"base": "The report says Garcia hired Morris in Sydney.", "kept": "The report says Morris was hired by Garcia in Sydney.", "reversed": "The report says Morris hired Garcia in Sydney."}
+{"base": "Parker hired Johnson at the conference in 1995.", "kept": "Johnson was hired by Parker at the conference in 1995.", "reversed": "Johnson hired Parker at the conference in 1995."}
+{"base": "Earlier this year, Garcia criticised Murphy in private.", "kept": "Earlier this year, Murphy was criticised by Garcia in private.", "reversed": "Earlier this year, Murphy criticised Garcia in private."}
+{"base": "Roberts sued Edwards at the conference in 2000.", "kept": "Edwards was sued by Roberts at the conference in 2000.", "reversed": "Edwards sued Roberts at the conference in 2000."}
+{"base": "The report says Johnson visited Campbell in Berlin.", "kept": "The report says Campbell was visited by Johnson in Berlin.", "reversed": "The report says Campbell visited Johnson in Berlin."}
+{"base": "Last week, Johnson hired Cooper in Boston.", "kept": "Last week, Cooper was hired by Johnson in Boston.", "reversed": "Last week, Cooper hired Johnson in Boston."}
+{"base": "Last week, Watson replaced Mitchell in Toronto.", "kept": "Last week, Mitchell was replaced by Watson in Toronto.", "reversed": "Last week, Mitchell replaced Watson in Toronto."}
+{"base": "The report says Taylor defeated Hughes in Dublin.", "kept": "The report says Hughes was defeated by Taylor in Dublin.", "reversed": "The report says Hughes defeated Taylor in Dublin."}
+{"base": "Last week, Harrison praised Patel in Toronto.", "kept": "Last week, Patel was praised by Harrison in Toronto.", "reversed": "Last week, Patel praised Harrison in Toronto."}
+{"base": "Garcia hired Smith at the conference in 2005.", "kept": "Smith was hired by Garcia at the conference in 2005.", "reversed": "Smith hired Garcia at the conference in 2005."}
+{"base": "Last week, Kelly criticised Hughes in Toronto.", "kept": "Last week, Hughes was criticised by Kelly in Toronto.", "reversed": "Last week, Hughes criticised Kelly in Toronto."}
+{"base": "The report says Jackson thanked Roberts in Tokyo.", "kept": "The report says Roberts was thanked by Jackson in Tokyo.", "reversed": "The report says Roberts thanked Jackson in Tokyo."}
+{"base": "Walker invited Morris at the conference in 2012.", "kept": "Morris was invited by Walker at the conference in 2012.", "reversed": "Morris invited Walker at the conference in 2012."}
+{"base": "The report says Thompson invited Patel in Tokyo.", "kept": "The report says Patel was invited by Thompson in Tokyo.", "reversed": "The report says Patel invited Thompson in Tokyo."}
+{"base": "Morris hired Turner at the conference in 2010.", "kept": "Turner was hired by Morris at the conference in 2010.", "reversed": "Turner hired Morris at the conference in 2010."}
+{"base": "During 2002, Cohen praised Wilson in Rome.", "kept": "During 2002, Wilson was praised by Cohen in Rome.", "reversed": "During 2002, Wilson praised Cohen in Rome."}
+{"base": "The report says Edwards praised Patel in Berlin.", "kept": "The report says Patel was praised by Edwards in Berlin.", "reversed": "The report says Patel praised Edwards in Berlin."}
+{"base": "Earlier this year, Morgan hired Garcia in private.", "kept": "Earlier this year, Garcia was hired by Morgan in private.", "reversed": "Earlier this year, Garcia hired Morgan in private."}
+{"base": "Roberts helped Patel at the conference in 2013.", "kept": "Patel was helped by Roberts at the conference in 2013.", "reversed": "Patel helped Roberts at the conference in 2013."}
+{"base": "During 2003, Johnson criticised Lewis in Boston.", "kept": "During 2003, Lewis was criticised by Johnson in Boston.", "reversed": "During 2003, Lewis criticised Johnson in Boston."}
+{"base": "Last week, Wilson replaced Hughes in Dublin.", "kept": "Last week, Hughes was replaced by Wilson in Dublin.", "reversed": "Last week, Hughes replaced Wilson in Dublin."}
+{"base": "During 2005, Martin hired Jackson in Chicago.", "kept": "During 2005, Jackson was hired by Martin in Chicago.", "reversed": "During 2005, Jackson hired Martin in Chicago."}
+{"base": "Earlier this year, Allen replaced Miller in private.", "kept": "Earlier this year, Miller was replaced by Allen in private.", "reversed": "Earlier this year, Miller replaced Allen in private."}
+{"base": "Last week, Davies visited Stewart in Sydney.", "kept": "Last week, Stewart was visited by Davies in Sydney.", "reversed": "Last week, Stewart visited Davies in Sydney."}
+{"base": "During 2010, Robinson invited Morgan in Berlin.", "kept": "During 2010, Morgan was invited by Robinson in Berlin.", "reversed": "During 2010, Morgan invited Robinson in Berlin."}
+{"base": "Last week, Cohen replaced Kelly in Dublin.", "kept": "Last week, Kelly was replaced by Cohen in Dublin.", "reversed": "Last week, Kelly replaced Cohen in Dublin."}
+{"base": "Last week, Clarke invited Miller in Toronto.", "kept": "Last week, Miller was invited by Clarke in Toronto.", "reversed": "Last week, Miller invited Clarke in Toronto."}
+{"base": "The report says Miller praised Clarke in Sydney.", "kept": "The report says Clarke was praised by Miller in Sydney.", "reversed": "The report says Clarke praised Miller in Sydney."}
+{"base": "The report says Clarke replaced Jones in Madrid.", "kept": "The report says Jones was replaced by Clarke in Madrid.", "reversed": "The report says Jones replaced Clarke in Madrid."}
+{"base": "Earlier this year, Robinson defeated Allen in private.", "kept": "Earlier this year, Allen was defeated by Robinson in private.", "reversed": "Earlier this year, Allen defeated Robinson in private."}
+{"base": "Last week, Cooper defeated Patel in Toronto.", "kept": "Last week, Patel was defeated by Cooper in Toronto.", "reversed": "Last week, Patel defeated Cooper in Toronto."}
+{"base": "The report says Harris hired Mitchell in Boston.", "kept": "The report says Mitchell was hired by Harris in Boston.", "reversed": "The report says Mitchell hired Harris in Boston."}
+{"base": "The report says Taylor trained Miller in Tokyo.", "kept": "The report says Miller was trained by Taylor in Tokyo.", "reversed": "The report says Miller trained Taylor in Tokyo."}
+{"base": "Last week, Lewis sued Kelly in Paris.", "kept": "Last week, Kelly was sued by Lewis in Paris.", "reversed": "Last week, Kelly sued Lewis in Paris."}
+{"base": "During 1998, Allen criticised Phillips in Madrid.", "kept": "During 1998, Phillips was criticised by Allen in Madrid.", "reversed": "During 1998, Phillips criticised Allen in Madrid."}
+{"base": "During 1998, Miller praised Wright in Vienna.", "kept": "During 1998, Wright was praised by Miller in Vienna.", "reversed": "During 1998, Wright praised Miller in Vienna."}
+{"base": "Last week, Allen sued Phillips in Rome.", "kept": "Last week, Phillips was sued by Allen in Rome.", "reversed": "Last week, Phillips sued Allen in Rome."}
+{"base": "Earlier this year, Allen visited Harrison in private.", "kept": "Earlier this year, Harrison was visited by Allen in private.", "reversed": "Earlier this year, Harrison visited Allen in private."}
+{"base": "Earlier this year, Clarke sued Walker in private.", "kept": "Earlier this year, Walker was sued by Clarke in private.", "reversed": "Earlier this year, Walker sued Clarke in private."}
+{"base": "During 2014, Turner replaced Garcia in Vienna.", "kept": "During 2014, Garcia was replaced by Turner in Vienna.", "reversed": "During 2014, Garcia replaced Turner in Vienna."}
+{"base": "The report says Cohen thanked Murphy in Toronto.", "kept": "The report says Murphy was thanked by Cohen in Toronto.", "reversed": "The report says Murphy thanked Cohen in Toronto."}
+{"base": "Jackson visited Lewis at the conference in 2001.", "kept": "Lewis was visited by Jackson at the conference in 2001.", "reversed": "Lewis visited Jackson at the conference in 2001."}
+{"base": "Earlier this year, Hughes visited Taylor in private.", "kept": "Earlier this year, Taylor was visited by Hughes in private.", "reversed": "Earlier this year, Taylor visited Hughes in private."}
+{"base": "During 1995, Martin thanked Mitchell in Toronto.", "kept": "During 1995, Mitchell was thanked by Martin in Toronto.", "reversed": "During 1995, Mitchell thanked Martin in Toronto."}
+{"base": "During 2003, Harris hired Collins in Paris.", "kept": "During 2003, Collins was hired by Harris in Paris.", "reversed": "During 2003, Collins hired Harris in Paris."}
+{"base": "During 2002, Robinson visited Stewart in Sydney.", "kept": "During 2002, Stewart was visited by Robinson in Sydney.", "reversed": "During 2002, Stewart visited Robinson in Sydney."}
+{"base": "The report says Parker interviewed Watson in Vienna.", "kept": "The report says Watson was interviewed by Parker in Vienna.", "reversed": "The report says Watson interviewed Parker in Vienna."}
+{"base": "The report says Walker interviewed Davies in Paris.", "kept": "The report says Davies was interviewed by Walker in Paris.", "reversed": "The report says Davies interviewed Walker in Paris."}
+{"base": "Last week, Edwards criticised Anderson in Tokyo.", "kept": "Last week, Anderson was criticised by Edwards in Tokyo.", "reversed": "Last week, Anderson criticised Edwards in Tokyo."}
+{"base": "The report says Wright invited Harrison in Sydney.", "kept": "The report says Harrison was invited by Wright in Sydney.", "reversed": "The report says Harrison invited Wright in Sydney."}
+{"base": "Earlier this year, Clarke praised Stewart in private.", "kept": "Earlier this year, Stewart was praised by Clarke in private.", "reversed": "Earlier this year, Stewart praised Clarke in private."}
+{"base": "Harrison invited Campbell at the conference in 1998.", "kept": "Campbell was invited by Harrison at the conference in 1998.", "reversed": "Campbell invited Harrison at the conference in 1998."}
+{"base": "The report says Collins hired Evans in Toronto.", "kept": "The report says Evans was hired by Collins in Toronto.", "reversed": "The report says Evans hired Collins in Toronto."}
+{"base": "Earlier this year, Phillips interviewed Turner in private.", "kept": "Earlier this year, Turner was interviewed by Phillips in private.", "reversed": "Earlier this year, Turner interviewed Phillips in private."}
+{"base": "During 1997, Edwards thanked Kelly in Tokyo.", "kept": "During 1997, Kelly was thanked by Edwards in Tokyo.", "reversed": "During 1997, Kelly thanked Edwards in Tokyo."}
+{"base": "The report says Cooper interviewed Clarke in Madrid.", "kept": "The report says Clarke was interviewed by Cooper in Madrid.", "reversed": "The report says Clarke interviewed Cooper in Madrid."}
+{"base": "The report says Cooper visited Harrison in Vienna.", "kept": "The report says Harrison was visited by Cooper in Vienna.", "reversed": "The report says Harrison visited Cooper in Vienna."}
+{"base": "Last week, Kelly criticised Jackson in Chicago.", "kept": "Last week, Jackson was criticised by Kelly in Chicago.", "reversed": "Last week, Jackson criticised Kelly in Chicago."}
+{"base": "The report says Cooper interviewed Harris in Tokyo.", "kept": "The report says Harris was interviewed by Cooper in Tokyo.", "reversed": "The report says Harris interviewed Cooper in Tokyo."}
+{"base": "Earlier this year, Evans trained Harrison in private.", "kept": "Earlier this year, Harrison was trained by Evans in private.", "reversed": "Earlier this year, Harrison trained Evans in private."}
+{"base": "The report says Patel visited Campbell in Madrid.", "kept": "The report says Campbell was visited by Patel in Madrid.", "reversed": "The report says Campbell visited Patel in Madrid."}
+{"base": "Earlier this year, Morgan praised Collins in private.", "kept": "Earlier this year, Collins was praised by Morgan in private.", "reversed": "Earlier this year, Collins praised Morgan in private."}
+{"base": "Earlier this year, Thompson sued Evans in private.", "kept": "Earlier this year, Evans was sued by Thompson in private.", "reversed": "Earlier this year, Evans sued Thompson in private."}
+{"base": "The report says Harris defeated Miller in Chicago.", "kept": "The report says Miller was defeated by Harris in Chicago.", "reversed": "The report says Miller defeated Harris in Chicago."}
+{"base": "Clarke criticised Jones at the conference in 2015.", "kept": "Jones was criticised by Clarke at the conference in 2015.", "reversed": "Jones criticised Clarke at the conference in 2015."}
+{"base": "During 2020, Collins criticised Turner in Chicago.", "kept": "During 2020, Turner was criticised by Collins in Chicago.", "reversed": "During 2020, Turner criticised Collins in Chicago."}
+{"base": "During 2018, Evans praised Jackson in Paris.", "kept": "During 2018, Jackson was praised by Evans in Paris.", "reversed": "During 2018, Jackson praised Evans in Paris."}
+{"base": "The report says Jones hired Wright in Tokyo.", "kept": "The report says Wright was hired by Jones in Tokyo.", "reversed": "The report says Wright hired Jones in Tokyo."}
+{"base": "Last week, Harris trained Davis in Chicago.", "kept": "Last week, Davis was trained by Harris in Chicago.", "reversed": "Last week, Davis trained Harris in Chicago."}
+{"base": "The report says Patel interviewed Watson in Vienna.", "kept": "The report says Watson was interviewed by Patel in Vienna.", "reversed": "The report says Watson interviewed Patel in Vienna."}
+{"base": "Davis interviewed Collins at the conference in 2020.", "kept": "Collins was interviewed by Davis at the conference in 2020.", "reversed": "Collins interviewed Davis at the conference in 2020."}
+{"base": "During 2008, Cohen helped Taylor in Sydney.", "kept": "During 2008, Taylor was helped by Cohen in Sydney.", "reversed": "During 2008, Taylor helped Cohen in Sydney."}
+{"base": "The report says Morgan defeated Evans in Chicago.", "kept": "The report says Evans was defeated by Morgan in Chicago.", "reversed": "The report says Evans defeated Morgan in Chicago."}
+{"base": "During 2020, Harrison replaced Smith in Paris.", "kept": "During 2020, Smith was replaced by Harrison in Paris.", "reversed": "During 2020, Smith replaced Harrison in Paris."}
+{"base": "Last week, Wright invited Lewis in Berlin.", "kept": "Last week, Lewis was invited by Wright in Berlin.", "reversed": "Last week, Lewis invited Wright in Berlin."}
+{"base": "Last week, Robinson visited Cooper in Dublin.", "kept": "Last week, Cooper was visited by Robinson in Dublin.", "reversed": "Last week, Cooper visited Robinson in Dublin."}
+{"base": "Last week, Clarke replaced Jackson in Boston.", "kept": "Last week, Jackson was replaced by Clarke in Boston.", "reversed": "Last week, Jackson replaced Clarke in Boston."}
+{"base": "The report says Roberts helped Turner in Berlin.", "kept": "The report says Turner was helped by Roberts in Berlin.", "reversed": "The report says Turner helped Roberts in Berlin."}
+{"base": "Phillips defeated Jones at the conference in 2013.", "kept": "Jones was defeated by Phillips at the conference in 2013.", "reversed": "Jones defeated Phillips at the conference in 2013."}
+{"base": "During 2000, Johnson praised Hughes in Vienna.", "kept": "During 2000, Hughes was praised by Johnson in Vienna.", "reversed": "During 2000, Hughes praised Johnson in Vienna."}
+{"base": "Lewis criticised Kelly at the conference in 2017.", "kept": "Kelly was criticised by Lewis at the conference in 2017.", "reversed": "Kelly criticised Lewis at the conference in 2017."}
+{"base": "Earlier this year, Harris replaced Anderson in private.", "kept": "Earlier this year, Anderson was replaced by Harris in private.", "reversed": "Earlier this year, Anderson replaced Harris in private."}
+{"base": "Last week, Turner sued Stewart in Boston.", "kept": "Last week, Stewart was sued by Turner in Boston.", "reversed": "Last week, Stewart sued Turner in Boston."}
+{"base": "The report says Patel interviewed Morris in Chicago.", "kept": "The report says Morris was interviewed by Patel in Chicago.", "reversed": "The report says Morris interviewed Patel in Chicago."}
+{"base": "During 1996, Harris interviewed Patel in Madrid.", "kept": "During 1996, Patel was interviewed by Harris in Madrid.", "reversed": "During 1996, Patel interviewed Harris in Madrid."}
+{"base": "Miller invited Jackson at the conference in 2020.", "kept": "Jackson was invited by Miller at the conference in 2020.", "reversed": "Jackson invited Miller at the conference in 2020."}
+{"base": "Parker defeated Harrison at the conference in 2009.", "kept": "Harrison was defeated by Parker at the conference in 2009.", "reversed": "Harrison defeated Parker at the conference in 2009."}
+{"base": "Last week, Robinson criticised Allen in Vienna.", "kept": "Last week, Allen was criticised by Robinson in Vienna.", "reversed": "Last week, Allen criticised Robinson in Vienna."}
+{"base": "Miller thanked Walker at the conference in 2015.", "kept": "Walker was thanked by Miller at the conference in 2015.", "reversed": "Walker thanked Miller at the conference in 2015."}
+{"base": "Earlier this year, Miller thanked Collins in private.", "kept": "Earlier this year, Collins was thanked by Miller in private.", "reversed": "Earlier this year, Collins thanked Miller in private."}
+{"base": "Earlier this year, Smith sued Edwards in private.", "kept": "Earlier this year, Edwards was sued by Smith in private.", "reversed": "Earlier this year, Edwards sued Smith in private."}
+{"base": "During 2017, Jackson praised Cohen in Chicago.", "kept": "During 2017, Cohen was praised by Jackson in Chicago.", "reversed": "During 2017, Cohen praised Jackson in Chicago."}
+{"base": "During 2018, Phillips interviewed Evans in Toronto.", "kept": "During 2018, Evans was interviewed by Phillips in Toronto.", "reversed": "During 2018, Evans interviewed Phillips in Toronto."}
+{"base": "Earlier this year, Turner replaced Jones in private.", "kept": "Earlier this year, Jones was replaced by Turner in private.", "reversed": "Earlier this year, Jones replaced Turner in private."}
+{"base": "Last week, Evans trained Anderson in London.", "kept": "Last week, Anderson was trained by Evans in London.", "reversed": "Last week, Anderson trained Evans in London."}
+{"base": "Earlier this year, Miller invited Davis in private.", "kept": "Earlier this year, Davis was invited by Miller in private.", "reversed": "Earlier this year, Davis invited Miller in private."}
+{"base": "The report says Patel thanked Davies in Rome.", "kept": "The report says Davies was thanked by Patel in Rome.", "reversed": "The report says Davies thanked Patel in Rome."}
+{"base": "Last week, Davies visited Harrison in Sydney.", "kept": "Last week, Harrison was visited by Davies in Sydney.", "reversed": "Last week, Harrison visited Davies in Sydney."}
+{"base": "Patel hired Phillips at the conference in 2018.", "kept": "Phillips was hired by Patel at the conference in 2018.", "reversed": "Phillips hired Patel at the conference in 2018."}
+{"base": "Last week, Morgan defeated Parker in Rome.", "kept": "Last week, Parker was defeated by Morgan in Rome.", "reversed": "Last week, Parker defeated Morgan in Rome."}
+{"base": "Earlier this year, Phillips hired Smith in private.", "kept": "Earlier this year, Smith was hired by Phillips in private.", "reversed": "Earlier this year, Smith hired Phillips in private."}
+{"base": "Wright criticised Clarke at the conference in 2015.", "kept": "Clarke was criticised by Wright at the conference in 2015.", "reversed": "Clarke criticised Wright at the conference in 2015."}
+{"base": "Earlier this year, Turner helped Morris in private.", "kept": "Earlier this year, Morris was helped by Turner in private.", "reversed": "Earlier this year, Morris helped Turner in private."}
+{"base": "Earlier this year, Evans visited Martin in private.", "kept": "Earlier this year, Martin was visited by Evans in private.", "reversed": "Earlier this year, Martin visited Evans in private."}
+{"base": "Last week, Roberts helped Morris in Rome.", "kept": "Last week, Morris was helped by Roberts in Rome.", "reversed": "Last week, Morris helped Roberts in Rome."}
+{"base": "Earlier this year, Morris interviewed Anderson in private.", "kept": "Earlier this year, Anderson was interviewed by Morris in private.", "reversed": "Earlier this year, Anderson interviewed Morris in private."}
+{"base": "During 1999, Cohen sued Johnson in Sydney.", "kept": "During 1999, Johnson was sued by Cohen in Sydney.", "reversed": "During 1999, Johnson sued Cohen in Sydney."}
+{"base": "Hughes sued Patel at the conference in 1996.", "kept": "Patel was sued by Hughes at the conference in 1996.", "reversed": "Patel sued Hughes at the conference in 1996."}
+{"base": "Earlier this year, Evans helped Johnson in private.", "kept": "Earlier this year, Johnson was helped by Evans in private.", "reversed": "Earlier this year, Johnson helped Evans in private."}
+{"base": "Mitchell hired Allen at the conference in 2019.", "kept": "Allen was hired by Mitchell at the conference in 2019.", "reversed": "Allen hired Mitchell at the conference in 2019."}
+{"base": "The report says Garcia invited Walker in Madrid.", "kept": "The report says Walker was invited by Garcia in Madrid.", "reversed": "The report says Walker invited Garcia in Madrid."}
+{"base": "Morgan helped Parker at the conference in 2005.", "kept": "Parker was helped by Morgan at the conference in 2005.", "reversed": "Parker helped Morgan at the conference in 2005."}
+{"base": "Earlier this year, Patel defeated Cohen in private.", "kept": "Earlier this year, Cohen was defeated by Patel in private.", "reversed": "Earlier this year, Cohen defeated Patel in private."}
+{"base": "Kelly visited Miller at the conference in 1995.", "kept": "Miller was visited by Kelly at the conference in 1995.", "reversed": "Miller visited Kelly at the conference in 1995."}
+{"base": "The report says Morris trained Turner in Boston.", "kept": "The report says Turner was trained by Morris in Boston.", "reversed": "The report says Turner trained Morris in Boston."}
+{"base": "During 2011, Morgan replaced Edwards in Vienna.", "kept": "During 2011, Edwards was replaced by Morgan in Vienna.", "reversed": "During 2011, Edwards replaced Morgan in Vienna."}
+{"base": "The report says Cohen hired Robinson in Chicago.", "kept": "The report says Robinson was hired by Cohen in Chicago.", "reversed": "The report says Robinson hired Cohen in Chicago."}
+{"base": "The report says Harris replaced Watson in Chicago.", "kept": "The report says Watson was replaced by Harris in Chicago.", "reversed": "The report says Watson replaced Harris in Chicago."}
+{"base": "Earlier this year, Murphy sued Hughes in private.", "kept": "Earlier this year, Hughes was sued by Murphy in private.", "reversed": "Earlier this year, Hughes sued Murphy in private."}
+{"base": "Jones criticised Hughes at the conference in 2019.", "kept": "Hughes was criticised by Jones at the conference in 2019.", "reversed": "Hughes criticised Jones at the conference in 2019."}
+{"base": "Parker trained Murphy at the conference in 2008.", "kept": "Murphy was trained by Parker at the conference in 2008.", "reversed": "Murphy trained Parker at the conference in 2008."}
+{"base": "The report says Evans praised Harrison in Boston.", "kept": "The report says Harrison was praised by Evans in Boston.", "reversed": "The report says Harrison praised Evans in Boston."}
+{"base": "During 2013, Walker interviewed Lewis in Chicago.", "kept": "During 2013, Lewis was interviewed by Walker in Chicago.", "reversed": "During 2013, Lewis interviewed Walker in Chicago."}
+{"base": "Earlier this year, Davies replaced Stewart in private.", "kept": "Earlier this year, Stewart was replaced by Davies in private.", "reversed": "Earlier this year, Stewart replaced Davies in private."}
+{"base": "The report says Wright criticised Roberts in Rome.", "kept": "The report says Roberts was criticised by Wright in Rome.", "reversed": "The report says Roberts criticised Wright in Rome."}
+{"base": "The report says Murphy trained Harrison in Berlin.", "kept": "The report says Harrison was trained by Murphy in Berlin.", "reversed": "The report says Harrison trained Murphy in Berlin."}
+{"base": "Earlier this year, Davies replaced Phillips in private.", "kept": "Earlier this year, Phillips was replaced by Davies in private.", "reversed": "Earlier this year, Phillips replaced Davies in private."}
+{"base": "Walker visited Turner at the conference in 2019.", "kept": "Turner was visited by Walker at the conference in 2019.", "reversed": "Turner visited Walker at the conference in 2019."}
+{"base": "Last week, Campbell criticised Jones in Madrid.", "kept": "Last week, Jones was criticised by Campbell in Madrid.", "reversed": "Last week, Jones criticised Campbell in Madrid."}
+{"base": "Last week, Taylor interviewed Wright in Dublin.", "kept": "Last week, Wright was interviewed by Taylor in Dublin.", "reversed": "Last week, Wright interviewed Taylor in Dublin."}
+{"base": "During 2005, Patel criticised Thompson in Chicago.", "kept": "During 2005, Thompson was criticised by Patel in Chicago.", "reversed": "During 2005, Thompson criticised Patel in Chicago."}
+{"base": "Lewis thanked Murphy at the conference in 2005.", "kept": "Murphy was thanked by Lewis at the conference in 2005.", "reversed": "Murphy thanked Lewis at the conference in 2005."}
+{"base": "During 2010, Wright helped Patel in Toronto.", "kept": "During 2010, Patel was helped by Wright in Toronto.", "reversed": "During 2010, Patel helped Wright in Toronto."}
+{"base": "During 2014, Watson interviewed Allen in Tokyo.", "kept": "During 2014, Allen was interviewed by Watson in Tokyo.", "reversed": "During 2014, Allen interviewed Watson in Tokyo."}
+{"base": "Earlier this year, Clarke invited Davis in private.", "kept": "Earlier this year, Davis was invited by Clarke in private.", "reversed": "Earlier this year, Davis invited Clarke in private."}
+{"base": "Last week, Roberts invited Murphy in Chicago.", "kept": "Last week, Murphy was invited by Roberts in Chicago.", "reversed": "Last week, Murphy invited Roberts in Chicago."}
+{"base": "The report says Miller replaced Mitchell in London.", "kept": "The report says Mitchell was replaced by Miller in London.", "reversed": "The report says Mitchell replaced Miller in London."}
+{"base": "The report says Clarke defeated Cohen in Tokyo.", "kept": "The report says Cohen was defeated by Clarke in Tokyo.", "reversed": "The report says Cohen defeated Clarke in Tokyo."}
+{"base": "Last week, Cooper criticised Turner in Paris.", "kept": "Last week, Turner was criticised by Cooper in Paris.", "reversed": "Last week, Turner criticised Cooper in Paris."}
+{"base": "Anderson hired Lewis at the conference in 2011.", "kept": "Lewis was hired by Anderson at the conference in 2011.", "reversed": "Lewis hired Anderson at the conference in 2011."}
+{"base": "During 2002, Johnson interviewed Miller in Chicago.", "kept": "During 2002, Miller was interviewed by Johnson in Chicago.", "reversed": "During 2002, Miller interviewed Johnson in Chicago."}
+{"base": "The report says Patel visited Lewis in Tokyo.", "kept": "The report says Lewis was visited by Patel in Tokyo.", "reversed": "The report says Lewis visited Patel in Tokyo."}
+{"base": "The report says Allen replaced Murphy in Berlin.", "kept": "The report says Murphy was replaced by Allen in Berlin.", "reversed": "The report says Murphy replaced Allen in Berlin."}
+{"base": "Allen visited Murphy at the conference in 1998.", "kept": "Murphy was visited by Allen at the conference in 1998.", "reversed": "Murphy visited Allen at the conference in 1998."}
+{"base": "During 2012, Walker replaced Roberts in Toronto.", "kept": "During 2012, Roberts was replaced by Walker in Toronto.", "reversed": "During 2012, Roberts replaced Walker in Toronto."}
+{"base": "Last week, Clarke defeated Lewis in Rome.", "kept": "Last week, Lewis was defeated by Clarke in Rome.", "reversed": "Last week, Lewis defeated Clarke in Rome."}
+{"base": "During 2009, Thompson praised Davies in Boston.", "kept": "During 2009, Davies was praised by Thompson in Boston.", "reversed": "During 2009, Davies praised Thompson in Boston."}
+{"base": "Earlier this year, Wright invited Watson in private.", "kept": "Earlier this year, Watson was invited by Wright in private.", "reversed": "Earlier this year, Watson invited Wright in private."}
+{"base": "Turner defeated Jones at the conference in 2009.", "kept": "Jones was defeated by Turner at the conference in 2009.", "reversed": "Jones defeated Turner at the conference in 2009."}
+{"base": "The report says Davis praised Wright in Boston.", "kept": "The report says Wright was praised by Davis in Boston.", "reversed": "The report says Wright praised Davis in Boston."}
+{"base": "Clarke trained Wilson at the conference in 2001.", "kept": "Wilson was trained by Clarke at the conference in 2001.", "reversed": "Wilson trained Clarke at the conference in 2001."}
+{"base": "The report says Jones interviewed Thompson in Tokyo.", "kept": "The report says Thompson was interviewed by Jones in Tokyo.", "reversed": "The report says Thompson interviewed Jones in Tokyo."}
+{"base": "Earlier this year, Collins trained Lewis in private.", "kept": "Earlier this year, Lewis was trained by Collins in private.", "reversed": "Earlier this year, Lewis trained Collins in private."}
+{"base": "During 2008, Cooper thanked Jackson in Tokyo.", "kept": "During 2008, Jackson was thanked by Cooper in Tokyo.", "reversed": "During 2008, Jackson thanked Cooper in Tokyo."}
+{"base": "Anderson praised Allen at the conference in 1997.", "kept": "Allen was praised by Anderson at the conference in 1997.", "reversed": "Allen praised Anderson at the conference in 1997."}
+{"base": "Roberts thanked Hughes at the conference in 2003.", "kept": "Hughes was thanked by Roberts at the conference in 2003.", "reversed": "Hughes thanked Roberts at the conference in 2003."}
+{"base": "Clarke replaced Jackson at the conference in 2006.", "kept": "Jackson was replaced by Clarke at the conference in 2006.", "reversed": "Jackson replaced Clarke at the conference in 2006."}
+{"base": "Earlier this year, Campbell hired Miller in private.", "kept": "Earlier this year, Miller was hired by Campbell in private.", "reversed": "Earlier this year, Miller hired Campbell in private."}
+{"base": "Harris visited Jackson at the conference in 1999.", "kept": "Jackson was visited by Harris at the conference in 1999.", "reversed": "Jackson visited Harris at the conference in 1999."}
+{"base": "During 2011, Davies interviewed Anderson in Paris.", "kept": "During 2011, Anderson was interviewed by Davies in Paris.", "reversed": "During 2011, Anderson interviewed Davies in Paris."}
+{"base": "Earlier this year, Smith defeated Kelly in private.", "kept": "Earlier this year, Kelly was defeated by Smith in private.", "reversed": "Earlier this year, Kelly defeated Smith in private."}
+{"base": "Earlier this year, Mitchell thanked Murphy in private.", "kept": "Earlier this year, Murphy was thanked by Mitchell in private.", "reversed": "Earlier this year, Murphy thanked Mitchell in private."}
+{"base": "The report says Lewis trained Thompson in Tokyo.", "kept": "The report says Thompson was trained by Lewis in Tokyo.", "reversed": "The report says Thompson trained Lewis in Tokyo."}
+{"base": "Earlier this year, Thompson defeated Wright in private.", "kept": "Earlier this year, Wright was defeated by Thompson in private.", "reversed": "Earlier this year, Wright defeated Thompson in private."}
+{"base": "Last week, Morgan criticised Smith in London.", "kept": "Last week, Smith was criticised by Morgan in London.", "reversed": "Last week, Smith criticised Morgan in London."}
+{"base": "Stewart hired Harrison at the conference in 2005.", "kept": "Harrison was hired by Stewart at the conference in 2005.", "reversed": "Harrison hired Stewart at the conference in 2005."}
+{"base": "Last week, Miller defeated Clarke in Sydney.", "kept": "Last week, Clarke was defeated by Miller in Sydney.", "reversed": "Last week, Clarke defeated Miller in Sydney."}
+{"base": "Earlier this year, Collins helped Thompson in private.", "kept": "Earlier this year, Thompson was helped by Collins in private.", "reversed": "Earlier this year, Thompson helped Collins in private."}
+{"base": "During 2016, Mitchell criticised Lewis in Boston.", "kept": "During 2016, Lewis was criticised by Mitchell in Boston.", "reversed": "During 2016, Lewis criticised Mitchell in Boston."}
+{"base": "Earlier this year, Lewis thanked Martin in private.", "kept": "Earlier this year, Martin was thanked by Lewis in private.", "reversed": "Earlier this year, Martin thanked Lewis in private."}
+{"base": "Kelly criticised Davis at the conference in 2003.", "kept": "Davis was criticised by Kelly at the conference in 2003.", "reversed": "Davis criticised Kelly at the conference in 2003."}
+{"base": "Wilson criticised Murphy at the conference in 2009.", "kept": "Murphy was criticised by Wilson at the conference in 2009.", "reversed": "Murphy criticised Wilson at the conference in 2009."}
+{"base": "The report says Kelly sued Jones in Boston.", "kept": "The report says Jones was sued by Kelly in Boston.", "reversed": "The report says Jones sued Kelly in Boston."}
+{"base": "Last week, Anderson replaced Martin in London.", "kept": "Last week, Martin was replaced by Anderson in London.", "reversed": "Last week, Martin replaced Anderson in London."}
+{"base": "During 2015, Thompson hired Murphy in Chicago.", "kept": "During 2015, Murphy was hired by Thompson in Chicago.", "reversed": "During 2015, Murphy hired Thompson in Chicago."}
+{"base": "Earlier this year, Lewis helped Cohen in private.", "kept": "Earlier this year, Cohen was helped by Lewis in private.", "reversed": "Earlier this year, Cohen helped Lewis in private."}
+{"base": "The report says Taylor invited Cooper in Tokyo.", "kept": "The report says Cooper was invited by Taylor in Tokyo.", "reversed": "The report says Cooper invited Taylor in Tokyo."}
+{"base": "Earlier this year, Campbell thanked Davis in private.", "kept": "Earlier this year, Davis was thanked by Campbell in private.", "reversed": "Earlier this year, Davis thanked Campbell in private."}
+{"base": "Earlier this year, Morgan sued Martin in private.", "kept": "Earlier this year, Martin was sued by Morgan in private.", "reversed": "Earlier this year, Martin sued Morgan in private."}
+{"base": "Last week, Kelly helped Phillips in Vienna.", "kept": "Last week, Phillips was helped by Kelly in Vienna.", "reversed": "Last week, Phillips helped Kelly in Vienna."}
+{"base": "Last week, Harrison interviewed Edwards in London.", "kept": "Last week, Edwards was interviewed by Harrison in London.", "reversed": "Last week, Edwards interviewed Harrison in London."}
+{"base": "Kelly interviewed Walker at the conference in 1999.", "kept": "Walker was interviewed by Kelly at the conference in 1999.", "reversed": "Walker interviewed Kelly at the conference in 1999."}
+{"base": "Last week, Taylor replaced Smith in Dublin.", "kept": "Last week, Smith was replaced by Taylor in Dublin.", "reversed": "Last week, Smith replaced Taylor in Dublin."}
+{"base": "Earlier this year, Evans sued Patel in private.", "kept": "Earlier this year, Patel was sued by Evans in private.", "reversed": "Earlier this year, Patel sued Evans in private."}
+{"base": "Last week, Davies invited Taylor in Tokyo.", "kept": "Last week, Taylor was invited by Davies in Tokyo.", "reversed": "Last week, Taylor invited Davies in Tokyo."}
+{"base": "Earlier this year, Clarke trained Martin in private.", "kept": "Earlier this year, Martin was trained by Clarke in private.", "reversed": "Earlier this year, Martin trained Clarke in private."}
+{"base": "Phillips invited Evans at the conference in 2002.", "kept": "Evans was invited by Phillips at the conference in 2002.", "reversed": "Evans invited Phillips at the conference in 2002."}
+{"base": "The report says Cohen praised Edwards in Berlin.", "kept": "The report says Edwards was praised by Cohen in Berlin.", "reversed": "The report says Edwards praised Cohen in Berlin."}
+{"base": "Last week, Wilson criticised Morris in Tokyo.", "kept": "Last week, Morris was criticised by Wilson in Tokyo.", "reversed": "Last week, Morris criticised Wilson in Tokyo."}
+{"base": "Earlier this year, Phillips sued Patel in private.", "kept": "Earlier this year, Patel was sued by Phillips in private.", "reversed": "Earlier this year, Patel sued Phillips in private."}
+{"base": "Last week, Edwards defeated Allen in Madrid.", "kept": "Last week, Allen was defeated by Edwards in Madrid.", "reversed": "Last week, Allen defeated Edwards in Madrid."}
+{"base": "Robinson replaced Parker at the conference in 2001.", "kept": "Parker was replaced by Robinson at the conference in 2001.", "reversed": "Parker replaced Robinson at the conference in 2001."}
+{"base": "Phillips criticised Turner at the conference in 2010.", "kept": "Turner was criticised by Phillips at the conference in 2010.", "reversed": "Turner criticised Phillips at the conference in 2010."}
+{"base": "Last week, Thompson visited Davis in Chicago.", "kept": "Last week, Davis was visited by Thompson in Chicago.", "reversed": "Last week, Davis visited Thompson in Chicago."}
+{"base": "Last week, Davies invited Wilson in Rome.", "kept": "Last week, Wilson was invited by Davies in Rome.", "reversed": "Last week, Wilson invited Davies in Rome."}
+{"base": "The report says Cohen thanked Jones in Berlin.", "kept": "The report says Jones was thanked by Cohen in Berlin.", "reversed": "The report says Jones thanked Cohen in Berlin."}
+{"base": "The report says Patel replaced Murphy in Tokyo.", "kept": "The report says Murphy was replaced by Patel in Tokyo.", "reversed": "The report says Murphy replaced Patel in Tokyo."}
+{"base": "Johnson thanked Harrison at the conference in 1996.", "kept": "Harrison was thanked by Johnson at the conference in 1996.", "reversed": "Harrison thanked Johnson at the conference in 1996."}
+{"base": "The report says Lewis sued Roberts in Vienna.", "kept": "The report says Roberts was sued by Lewis in Vienna.", "reversed": "The report says Roberts sued Lewis in Vienna."}
+{"base": "Last week, Evans interviewed Morgan in Rome.", "kept": "Last week, Morgan was interviewed by Evans in Rome.", "reversed": "Last week, Morgan interviewed Evans in Rome."}
+{"base": "Earlier this year, Wilson visited Turner in private.", "kept": "Earlier this year, Turner was visited by Wilson in private.", "reversed": "Earlier this year, Turner visited Wilson in private."}
+{"base": "Taylor interviewed Hughes at the conference in 1999.", "kept": "Hughes was interviewed by Taylor at the conference in 1999.", "reversed": "Hughes interviewed Taylor at the conference in 1999."}
+{"base": "Earlier this year, Taylor sued Edwards in private.", "kept": "Earlier this year, Edwards was sued by Taylor in private.", "reversed": "Earlier this year, Edwards sued Taylor in private."}
+{"base": "Last week, Collins interviewed Walker in Tokyo.", "kept": "Last week, Walker was interviewed by Collins in Tokyo.", "reversed": "Last week, Walker interviewed Collins in Tokyo."}
+{"base": "Earlier this year, Cooper thanked Anderson in private.", "kept": "Earlier this year, Anderson was thanked by Cooper in private.", "reversed": "Earlier this year, Anderson thanked Cooper in private."}
+{"base": "Jackson trained Collins at the conference in 2017.", "kept": "Collins was trained by Jackson at the conference in 2017.", "reversed": "Collins trained Jackson at the conference in 2017."}
+{"base": "Last week, Morgan sued Miller in Madrid.", "kept": "Last week, Miller was sued by Morgan in Madrid.", "reversed": "Last week, Miller sued Morgan in Madrid."}
+{"base": "During 2014, Harrison thanked Watson in Madrid.", "kept": "During 2014, Watson was thanked by Harrison in Madrid.", "reversed": "During 2014, Watson thanked Harrison in Madrid."}
+{"base": "Jones defeated Parker at the conference in 2013.", "kept": "Parker was defeated by Jones at the conference in 2013.", "reversed": "Parker defeated Jones at the conference in 2013."}
+{"base": "The report says Davies visited Edwards in Tokyo.", "kept": "The report says Edwards was visited by Davies in Tokyo.", "reversed": "The report says Edwards visited Davies in Tokyo."}
+{"base": "The report says Roberts visited Harrison in Sydney.", "kept": "The report says Harrison was visited by Roberts in Sydney.", "reversed": "The report says Harrison visited Roberts in Sydney."}
+{"base": "The report says Mitchell hired Roberts in Boston.", "kept": "The report says Roberts was hired by Mitchell in Boston.", "reversed": "The report says Roberts hired Mitchell in Boston."}
+{"base": "During 2004, Morgan interviewed Morris in Boston.", "kept": "During 2004, Morris was interviewed by Morgan in Boston.", "reversed": "During 2004, Morris interviewed Morgan in Boston."}
+{"base": "The report says Robinson trained Patel in Boston.", "kept": "The report says Patel was trained by Robinson in Boston.", "reversed": "The report says Patel trained Robinson in Boston."}
+{"base": "Lewis praised Miller at the conference in 1997.", "kept": "Miller was praised by Lewis at the conference in 1997.", "reversed": "Miller praised Lewis at the conference in 1997."}
+{"base": "The report says Wright invited Parker in Rome.", "kept": "The report says Parker was invited by Wright in Rome.", "reversed": "The report says Parker invited Wright in Rome."}
+{"base": "Earlier this year, Jones thanked Patel in private.", "kept": "Earlier this year, Patel was thanked by Jones in private.", "reversed": "Earlier this year, Patel thanked Jones in private."}
+{"base": "During 2007, Jackson invited Wilson in Boston.", "kept": "During 2007, Wilson was invited by Jackson in Boston.", "reversed": "During 2007, Wilson invited Jackson in Boston."}
+{"base": "Earlier this year, Parker thanked Cooper in private.", "kept": "Earlier this year, Cooper was thanked by Parker in private.", "reversed": "Earlier this year, Cooper thanked Parker in private."}
+{"base": "During 2006, Watson defeated Cooper in Toronto.", "kept": "During 2006, Cooper was defeated by Watson in Toronto.", "reversed": "During 2006, Cooper defeated Watson in Toronto."}
+{"base": "The report says Thompson thanked Parker in Toronto.", "kept": "The report says Parker was thanked by Thompson in Toronto.", "reversed": "The report says Parker thanked Thompson in Toronto."}
+{"base": "The report says Jones praised Murphy in Madrid.", "kept": "The report says Murphy was praised by Jones in Madrid.", "reversed": "The report says Murphy praised Jones in Madrid."}
+{"base": "During 2012, Wilson visited Cohen in Dublin.", "kept": "During 2012, Cohen was visited by Wilson in Dublin.", "reversed": "During 2012, Cohen visited Wilson in Dublin."}
+{"base": "Earlier this year, Davies invited Jackson in private.", "kept": "Earlier this year, Jackson was invited by Davies in private.", "reversed": "Earlier this year, Jackson invited Davies in private."}
+{"base": "Last week, Morgan invited Taylor in Berlin.", "kept": "Last week, Taylor was invited by Morgan in Berlin.", "reversed": "Last week, Taylor invited Morgan in Berlin."}
+{"base": "Earlier this year, Turner thanked Davis in private.", "kept": "Earlier this year, Davis was thanked by Turner in private.", "reversed": "Earlier this year, Davis thanked Turner in private."}
+{"base": "During 2003, Kelly sued Hughes in Madrid.", "kept": "During 2003, Hughes was sued by Kelly in Madrid.", "reversed": "During 2003, Hughes sued Kelly in Madrid."}
+{"base": "The report says Harris visited Lewis in London.", "kept": "The report says Lewis was visited by Harris in London.", "reversed": "The report says Lewis visited Harris in London."}
+{"base": "Earlier this year, Smith invited Lewis in private.", "kept": "Earlier this year, Lewis was invited by Smith in private.", "reversed": "Earlier this year, Lewis invited Smith in private."}
+{"base": "Earlier this year, Cohen hired Stewart in private.", "kept": "Earlier this year, Stewart was hired by Cohen in private.", "reversed": "Earlier this year, Stewart hired Cohen in private."}
+{"base": "The report says Johnson praised Jones in Tokyo.", "kept": "The report says Jones was praised by Johnson in Tokyo.", "reversed": "The report says Jones praised Johnson in Tokyo."}
+{"base": "Patel helped Robinson at the conference in 2001.", "kept": "Robinson was helped by Patel at the conference in 2001.", "reversed": "Robinson helped Patel at the conference in 2001."}
+{"base": "Cohen praised Davis at the conference in 2020.", "kept": "Davis was praised by Cohen at the conference in 2020.", "reversed": "Davis praised Cohen at the conference in 2020."}
+{"base": "The report says Allen praised Clarke in Tokyo.", "kept": "The report says Clarke was praised by Allen in Tokyo.", "reversed": "The report says Clarke praised Allen in Tokyo."}
+{"base": "Earlier this year, Lewis interviewed Harrison in private.", "kept": "Earlier this year, Harrison was interviewed by Lewis in private.", "reversed": "Earlier this year, Harrison interviewed Lewis in private."}
+{"base": "Walker replaced Davies at the conference in 1997.", "kept": "Davies was replaced by Walker at the conference in 1997.", "reversed": "Davies replaced Walker at the conference in 1997."}
+{"base": "The report says Anderson hired Garcia in Sydney.", "kept": "The report says Garcia was hired by Anderson in Sydney.", "reversed": "The report says Garcia hired Anderson in Sydney."}
+{"base": "Last week, Robinson defeated Cohen in Boston.", "kept": "Last week, Cohen was defeated by Robinson in Boston.", "reversed": "Last week, Cohen defeated Robinson in Boston."}
+{"base": "During 2011, Martin praised Patel in Tokyo.", "kept": "During 2011, Patel was praised by Martin in Tokyo.", "reversed": "During 2011, Patel praised Martin in Tokyo."}
+{"base": "Last week, Martin thanked Harrison in Sydney.", "kept": "Last week, Harrison was thanked by Martin in Sydney.", "reversed": "Last week, Harrison thanked Martin in Sydney."}
+{"base": "The report says Morris sued Edwards in Berlin.", "kept": "The report says Edwards was sued by Morris in Berlin.", "reversed": "The report says Edwards sued Morris in Berlin."}
+{"base": "Earlier this year, Walker invited Cohen in private.", "kept": "Earlier this year, Cohen was invited by Walker in private.", "reversed": "Earlier this year, Cohen invited Walker in private."}
+{"base": "Hughes sued Morgan at the conference in 2014.", "kept": "Morgan was sued by Hughes at the conference in 2014.", "reversed": "Morgan sued Hughes at the conference in 2014."}
+{"base": "The report says Thompson trained Smith in Toronto.", "kept": "The report says Smith was trained by Thompson in Toronto.", "reversed": "The report says Smith trained Thompson in Toronto."}
+{"base": "Jackson thanked Allen at the conference in 2003.", "kept": "Allen was thanked by Jackson at the conference in 2003.", "reversed": "Allen thanked Jackson at the conference in 2003."}
+{"base": "Last week, Walker invited Wilson in Tokyo.", "kept": "Last week, Wilson was invited by Walker in Tokyo.", "reversed": "Last week, Wilson invited Walker in Tokyo."}
+{"base": "During 2006, Hughes defeated Clarke in Tokyo.", "kept": "During 2006, Clarke was defeated by Hughes in Tokyo.", "reversed": "During 2006, Clarke defeated Hughes in Tokyo."}
+{"base": "Earlier this year, Patel hired Morris in private.", "kept": "Earlier this year, Morris was hired by Patel in private.", "reversed": "Earlier this year, Morris hired Patel in private."}
+{"base": "Last week, Harrison sued Davies in Boston.", "kept": "Last week, Davies was sued by Harrison in Boston.", "reversed": "Last week, Davies sued Harrison in Boston."}
+{"base": "The report says Patel trained Cohen in Berlin.", "kept": "The report says Cohen was trained by Patel in Berlin.", "reversed": "The report says Cohen trained Patel in Berlin."}
+{"base": "Earlier this year, Edwards invited Collins in private.", "kept": "Earlier this year, Collins was invited by Edwards in private.", "reversed": "Earlier this year, Collins invited Edwards in private."}
+{"base": "Last week, Johnson sued Stewart in Boston.", "kept": "Last week, Stewart was sued by Johnson in Boston.", "reversed": "Last week, Stewart sued Johnson in Boston."}
+{"base": "Last week, Wright hired Cooper in Rome.", "kept": "Last week, Cooper was hired by Wright in Rome.", "reversed": "Last week, Cooper hired Wright in Rome."}
+{"base": "Earlier this year, Wright criticised Jackson in private.", "kept": "Earlier this year, Jackson was criticised by Wright in private.", "reversed": "Earlier this year, Jackson criticised Wright in private."}
+{"base": "The report says Harris praised Evans in Madrid.", "kept": "The report says Evans was praised by Harris in Madrid.", "reversed": "The report says Evans praised Harris in Madrid."}
+{"base": "The report says Martin replaced Stewart in Berlin.", "kept": "The report says Stewart was replaced by Martin in Berlin.", "reversed": "The report says Stewart replaced Martin in Berlin."}
+{"base": "During 1995, Turner defeated Evans in Berlin.", "kept": "During 1995, Evans was defeated by Turner in Berlin.", "reversed": "During 1995, Evans defeated Turner in Berlin."}
+{"base": "The report says Walker interviewed Hughes in Boston.", "kept": "The report says Hughes was interviewed by Walker in Boston.", "reversed": "The report says Hughes interviewed Walker in Boston."}
+{"base": "During 2007, Watson invited Stewart in Chicago.", "kept": "During 2007, Stewart was invited by Watson in Chicago.", "reversed": "During 2007, Stewart invited Watson in Chicago."}
+{"base": "During 2016, Stewart trained Cohen in Toronto.", "kept": "During 2016, Cohen was trained by Stewart in Toronto.", "reversed": "During 2016, Cohen trained Stewart in Toronto."}
+{"base": "The report says Hughes thanked Clarke in Boston.", "kept": "The report says Clarke was thanked by Hughes in Boston.", "reversed": "The report says Clarke thanked Hughes in Boston."}
+{"base": "Earlier this year, Wilson helped Thompson in private.", "kept": "Earlier this year, Thompson was helped by Wilson in private.", "reversed": "Earlier this year, Thompson helped Wilson in private."}
+{"base": "Earlier this year, Davies hired Jackson in private.", "kept": "Earlier this year, Jackson was hired by Davies in private.", "reversed": "Earlier this year, Jackson hired Davies in private."}
+{"base": "Earlier this year, Davies thanked Garcia in private.", "kept": "Earlier this year, Garcia was thanked by Davies in private.", "reversed": "Earlier this year, Garcia thanked Davies in private."}
+{"base": "Harrison hired Smith at the conference in 2019.", "kept": "Smith was hired by Harrison at the conference in 2019.", "reversed": "Smith hired Harrison at the conference in 2019."}
+{"base": "The report says Davis trained Patel in Chicago.", "kept": "The report says Patel was trained by Davis in Chicago.", "reversed": "The report says Patel trained Davis in Chicago."}
+{"base": "During 2003, Patel interviewed Allen in Toronto.", "kept": "During 2003, Allen was interviewed by Patel in Toronto.", "reversed": "During 2003, Allen interviewed Patel in Toronto."}
+{"base": "During 2002, Murphy defeated Wright in Vienna.", "kept": "During 2002, Wright was defeated by Murphy in Vienna.", "reversed": "During 2002, Wright defeated Murphy in Vienna."}
+{"base": "Last week, Harrison helped Garcia in Rome.", "kept": "Last week, Garcia was helped by Harrison in Rome.", "reversed": "Last week, Garcia helped Harrison in Rome."}
+{"base": "The report says Anderson visited Watson in Rome.", "kept": "The report says Watson was visited by Anderson in Rome.", "reversed": "The report says Watson visited Anderson in Rome."}
+{"base": "During 1998, Cooper visited Kelly in Rome.", "kept": "During 1998, Kelly was visited by Cooper in Rome.", "reversed": "During 1998, Kelly visited Cooper in Rome."}
+{"base": "The report says Thompson trained Edwards in Tokyo.", "kept": "The report says Edwards was trained by Thompson in Tokyo.", "reversed": "The report says Edwards trained Thompson in Tokyo."}
+{"base": "Turner replaced Edwards at the conference in 2000.", "kept": "Edwards was replaced by Turner at the conference in 2000.", "reversed": "Edwards replaced Turner at the conference in 2000."}
+{"base": "During 2006, Wright sued Harrison in Berlin.", "kept": "During 2006, Harrison was sued by Wright in Berlin.", "reversed": "During 2006, Harrison sued Wright in Berlin."}
+{"base": "Last week, Smith defeated Patel in London.", "kept": "Last week, Patel was defeated by Smith in London.", "reversed": "Last week, Patel defeated Smith in London."}
+{"base": "Last week, Cooper hired Collins in Madrid.", "kept": "Last week, Collins was hired by Cooper in Madrid.", "reversed": "Last week, Collins hired Cooper in Madrid."}
+{"base": "During 2019, Cooper sued Davies in Toronto.", "kept": "During 2019, Davies was sued by Cooper in Toronto.", "reversed": "During 2019, Davies sued Cooper in Toronto."}
+{"base": "During 2010, Cooper criticised Mitchell in Madrid.", "kept": "During 2010, Mitchell was criticised by Cooper in Madrid.", "reversed": "During 2010, Mitchell criticised Cooper in Madrid."}
+{"base": "Last week, Thompson invited Jackson in Sydney.", "kept": "Last week, Jackson was invited by Thompson in Sydney.", "reversed": "Last week, Jackson invited Thompson in Sydney."}
+{"base": "Last week, Thompson praised Watson in London.", "kept": "Last week, Watson was praised by Thompson in London.", "reversed": "Last week, Watson praised Thompson in London."}
+{"base": "Morgan helped Wilson at the conference in 2001.", "kept": "Wilson was helped by Morgan at the conference in 2001.", "reversed": "Wilson helped Morgan at the conference in 2001."}
+{"base": "Earlier this year, Anderson praised Mitchell in private.", "kept": "Earlier this year, Mitchell was praised by Anderson in private.", "reversed": "Earlier this year, Mitchell praised Anderson in private."}
+{"base": "During 2016, Phillips hired Mitchell in Boston.", "kept": "During 2016, Mitchell was hired by Phillips in Boston.", "reversed": "During 2016, Mitchell hired Phillips in Boston."}
+{"base": "Last week, Garcia invited Harris in Toronto.", "kept": "Last week, Harris was invited by Garcia in Toronto.", "reversed": "Last week, Harris invited Garcia in Toronto."}
+{"base": "Earlier this year, Taylor criticised Garcia in private.", "kept": "Earlier this year, Garcia was criticised by Taylor in private.", "reversed": "Earlier this year, Garcia criticised Taylor in private."}
+{"base": "Last week, Clarke interviewed Campbell in Toronto.", "kept": "Last week, Campbell was interviewed by Clarke in Toronto.", "reversed": "Last week, Campbell interviewed Clarke in Toronto."}
+{"base": "During 2009, Wright praised Collins in Vienna.", "kept": "During 2009, Collins was praised by Wright in Vienna.", "reversed": "During 2009, Collins praised Wright in Vienna."}
+{"base": "The report says Cohen helped Cooper in Tokyo.", "kept": "The report says Cooper was helped by Cohen in Tokyo.", "reversed": "The report says Cooper helped Cohen in Tokyo."}
+{"base": "Last week, Patel replaced Wilson in Boston.", "kept": "Last week, Wilson was replaced by Patel in Boston.", "reversed": "Last week, Wilson replaced Patel in Boston."}
+{"base": "During 1998, Thompson trained Wright in Paris.", "kept": "During 1998, Wright was trained by Thompson in Paris.", "reversed": "During 1998, Wright trained Thompson in Paris."}
+{"base": "Earlier this year, Martin thanked Davies in private.", "kept": "Earlier this year, Davies was thanked by Martin in private.", "reversed": "Earlier this year, Davies thanked Martin in private."}
+{"base": "The report says Miller thanked Watson in Madrid.", "kept": "The report says Watson was thanked by Miller in Madrid.", "reversed": "The report says Watson thanked Miller in Madrid."}
+{"base": "Earlier this year, Mitchell defeated Hughes in private.", "kept": "Earlier this year, Hughes was defeated by Mitchell in private.", "reversed": "Earlier this year, Hughes defeated Mitchell in private."}
+{"base": "Johnson hired Stewart at the conference in 2009.", "kept": "Stewart was hired by Johnson at the conference in 2009.", "reversed": "Stewart hired Johnson at the conference in 2009."}
+{"base": "Davis hired Wilson at the conference in 2019.", "kept": "Wilson was hired by Davis at the conference in 2019.", "reversed": "Wilson hired Davis at the conference in 2019."}
+{"base": "During 1998, Harrison sued Thompson in Vienna.", "kept": "During 1998, Thompson was sued by Harrison in Vienna.", "reversed": "During 1998, Thompson sued Harrison in Vienna."}
+{"base": "During 1998, Harris praised Clarke in Dublin.", "kept": "During 1998, Clarke was praised by Harris in Dublin.", "reversed": "During 1998, Clarke praised Harris in Dublin."}
+{"base": "Morgan criticised Jones at the conference in 2016.", "kept": "Jones was criticised by Morgan at the conference in 2016.", "reversed": "Jones criticised Morgan at the conference in 2016."}
+{"base": "Last week, Davies interviewed Evans in Madrid.", "kept": "Last week, Evans was interviewed by Davies in Madrid.", "reversed": "Last week, Evans interviewed Davies in Madrid."}
+{"base": "Earlier this year, Cooper visited Hughes in private.", "kept": "Earlier this year, Hughes was visited by Cooper in private.", "reversed": "Earlier this year, Hughes visited Cooper in private."}
+{"base": "Last week, Smith invited Morris in Vienna.", "kept": "Last week, Morris was invited by Smith in Vienna.", "reversed": "Last week, Morris invited Smith in Vienna."}
