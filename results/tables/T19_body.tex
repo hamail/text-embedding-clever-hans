@@ -1,0 +1,11 @@
+% T19  A positive control: what a scorer that reads both sentences achieves  (generated, do not edit)
+\begin{tabular}{lllrrrr}
+\toprule
+stimulus set & scorer & trained on & score kept & score reversed & ratio & $90\%$ CI \\
+\midrule
+matched twins & \texttt{stsb-roberta-base} & similarity & $0.784$ & $0.807$ & $0.901$ & $0.829$--$0.980$ \\
+matched twins & \texttt{nli-deberta-v3-base} & entailment & $0.134$ & $0.005$ & $1.455$ & $1.332$--$1.589$ \\
+passive contrast & \texttt{stsb-roberta-base} & similarity & $0.994$ & $0.747$ & $44.74$ & $41.11$--$48.69$ \\
+passive contrast & \texttt{nli-deberta-v3-base} & entailment & $0.998$ & $0.013$ & $427.8$ & $407.1$--$449.6$ \\
+\bottomrule
+\end{tabular}
