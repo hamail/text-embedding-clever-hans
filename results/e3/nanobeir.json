@@ -1,0 +1,103 @@
+{
+  "args": {
+    "cmd": "nanobeir",
+    "checkpoints": [
+      "retrained",
+      "ckpt/retrained_neg_role-swap_s42",
+      "ckpt/retrained_neg_role-swap_s1",
+      "ckpt/retrained_neg_role-swap_s2",
+      "ckpt/retrained_neg_none_s42",
+      "ckpt/retrained_neg_none_s1",
+      "ckpt/retrained_neg_none_s2"
+    ],
+    "datasets": [
+      "NanoMSMARCO",
+      "NanoNQ",
+      "NanoNFCorpus",
+      "NanoSciFact",
+      "NanoQuoraRetrieval",
+      "NanoFiQA2018"
+    ],
+    "k": 10,
+    "bs": 64
+  },
+  "results": {
+    "retrained": {
+      "per_dataset": {
+        "NanoMSMARCO": 0.32006954384568614,
+        "NanoNQ": 0.2897323133350386,
+        "NanoNFCorpus": 0.18714033874795624,
+        "NanoSciFact": 0.43083657765975775,
+        "NanoQuoraRetrieval": 0.8699101781627823,
+        "NanoFiQA2018": 0.204081543840252
+      },
+      "mean": 0.3836284159319121
+    },
+    "ckpt/retrained_neg_role-swap_s42": {
+      "per_dataset": {
+        "NanoMSMARCO": 0.28020857382303405,
+        "NanoNQ": 0.2306127897659559,
+        "NanoNFCorpus": 0.16954755295532117,
+        "NanoSciFact": 0.3148594076203799,
+        "NanoQuoraRetrieval": 0.85198592194734,
+        "NanoFiQA2018": 0.15526110319807973
+      },
+      "mean": 0.33374589155168516
+    },
+    "ckpt/retrained_neg_role-swap_s1": {
+      "per_dataset": {
+        "NanoMSMARCO": 0.2471431528466109,
+        "NanoNQ": 0.18768282148359738,
+        "NanoNFCorpus": 0.151869466432922,
+        "NanoSciFact": 0.14935408867841493,
+        "NanoQuoraRetrieval": 0.8047840202564432,
+        "NanoFiQA2018": 0.10882685864075003
+      },
+      "mean": 0.2749434013897898
+    },
+    "ckpt/retrained_neg_role-swap_s2": {
+      "per_dataset": {
+        "NanoMSMARCO": 0.21024845197933545,
+        "NanoNQ": 0.13170030905120714,
+        "NanoNFCorpus": 0.1494521505727479,
+        "NanoSciFact": 0.18038010133068538,
+        "NanoQuoraRetrieval": 0.7967971958477226,
+        "NanoFiQA2018": 0.10094295165169256
+      },
+      "mean": 0.26158686007223186
+    },
+    "ckpt/retrained_neg_none_s42": {
+      "per_dataset": {
+        "NanoMSMARCO": 0.30049991452927777,
+        "NanoNQ": 0.2726291938291431,
+        "NanoNFCorpus": 0.15322425108386442,
+        "NanoSciFact": 0.34547489794167546,
+        "NanoQuoraRetrieval": 0.8741047598013271,
+        "NanoFiQA2018": 0.21847348028878527
+      },
+      "mean": 0.36073441624567887
+    },
+    "ckpt/retrained_neg_none_s1": {
+      "per_dataset": {
+        "NanoMSMARCO": 0.3119480121781411,
+        "NanoNQ": 0.26706064694389564,
+        "NanoNFCorpus": 0.1606108143256492,
+        "NanoSciFact": 0.33983490675753103,
+        "NanoQuoraRetrieval": 0.8739236874615649,
+        "NanoFiQA2018": 0.21510905602981
+      },
+      "mean": 0.36141452061609863
+    },
+    "ckpt/retrained_neg_none_s2": {
+      "per_dataset": {
+        "NanoMSMARCO": 0.31554319021088895,
+        "NanoNQ": 0.2795403840359599,
+        "NanoNFCorpus": 0.15548174545793653,
+        "NanoSciFact": 0.36284644503490654,
+        "NanoQuoraRetrieval": 0.8739236874615649,
+        "NanoFiQA2018": 0.2160971883943695
+      },
+      "mean": 0.36723877343260436
+    }
+  }
+}

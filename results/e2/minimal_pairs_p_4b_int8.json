@@ -1,0 +1,36 @@
+{
+  "margin": 1.25,
+  "results": {
+    "qwen3-4b": {
+      "similarity": {
+        "n": 400,
+        "ratio": 0.8003755286802362,
+        "ci90": [
+          0.7648438825126143,
+          0.8375578357320553
+        ],
+        "p_not_further": 5.801719803700359e-46,
+        "role_blind": true,
+        "p_tost": 0.49320702283601087,
+        "treated_alike": false,
+        "cos_kept": 0.938565194606781,
+        "cos_reversed": 0.947709321975708,
+        "precision": "int8"
+      },
+      "passive contrast": {
+        "n": 400,
+        "ratio": 0.6348103975510201,
+        "ci90": [
+          0.6160130565607219,
+          0.6541813303256846
+        ],
+        "p_not_further": 6.027815364165458e-132,
+        "role_blind": true,
+        "p_tost": 1.0,
+        "treated_alike": false,
+        "d_kept": 0.0644996240735054,
+        "d_reversed": 0.04289574548602104
+      }
+    }
+  }
+}

@@ -1,0 +1,6 @@
+condition,mean,change,fooled
+retrained,0.384,--,--
+ckpt/retrained_neg_shuffled_s1,0.260,--,--
+ckpt/retrained_neg_shuffled_s2,0.266,--,--
+ckpt/retrained_neg_non-role-swap_s1,0.235,--,--
+ckpt/retrained_neg_non-role-swap_s2,0.239,--,--

@@ -1,0 +1,95 @@
+{
+  "margin": 1.25,
+  "results": {
+    "gte-base": {
+      "similarity": {
+        "n": 400,
+        "ratio": 0.8377178408440701,
+        "ci90": [
+          0.7823209975812746,
+          0.8970373836802769
+        ],
+        "p_not_further": 3.17648796043608e-20,
+        "role_blind": true,
+        "p_tost": 0.13379560221951942,
+        "treated_alike": false,
+        "cos_kept": 0.9852690100669861,
+        "cos_reversed": 0.9870542287826538
+      },
+      "passive contrast": {
+        "n": 400,
+        "ratio": 0.4256252511436164,
+        "ci90": [
+          0.40630205113344336,
+          0.44586743755218816
+        ],
+        "p_not_further": 9.098075578323725e-136,
+        "role_blind": true,
+        "p_tost": 1.0,
+        "treated_alike": false,
+        "d_kept": 0.02488933503627777,
+        "d_reversed": 0.011957707814872265
+      }
+    },
+    "mpnet-base": {
+      "similarity": {
+        "n": 400,
+        "ratio": 1.0118253433080726,
+        "ci90": [
+          0.9632074188990755,
+          1.0628972589628398
+        ],
+        "p_not_further": 3.324664802248957e-12,
+        "role_blind": true,
+        "p_tost": 3.324664802248957e-12,
+        "treated_alike": true,
+        "cos_kept": 0.9860137104988098,
+        "cos_reversed": 0.9851332306861877
+      },
+      "passive contrast": {
+        "n": 400,
+        "ratio": 0.37994472062745527,
+        "ci90": [
+          0.3669245634920236,
+          0.3934268923258204
+        ],
+        "p_not_further": 3.0008703251504745e-192,
+        "role_blind": true,
+        "p_tost": 1.0,
+        "treated_alike": false,
+        "d_kept": 0.031240371987223625,
+        "d_reversed": 0.012289914302527905
+      }
+    },
+    "mxbai-large": {
+      "similarity": {
+        "n": 400,
+        "ratio": 0.7140729527906707,
+        "ci90": [
+          0.666614443270151,
+          0.7649101921731785
+        ],
+        "p_not_further": 1.8451612988920504e-34,
+        "role_blind": true,
+        "p_tost": 0.9966328229743494,
+        "treated_alike": false,
+        "cos_kept": 0.9806036949157715,
+        "cos_reversed": 0.985724925994873
+      },
+      "passive contrast": {
+        "n": 400,
+        "ratio": 0.41907180207644745,
+        "ci90": [
+          0.40427549242542693,
+          0.43440965031536366
+        ],
+        "p_not_further": 1.3641014564594568e-174,
+        "role_blind": true,
+        "p_tost": 1.0,
+        "treated_alike": false,
+        "d_kept": 0.032340191304683685,
+        "d_reversed": 0.014359631575644016
+      }
+    }
+  }
+}

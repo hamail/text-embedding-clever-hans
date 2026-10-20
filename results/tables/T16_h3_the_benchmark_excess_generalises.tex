@@ -1,0 +1,19 @@
+% T16  H3  the benchmark excess generalises  (source: e6 blind)
+\begin{table}[t]
+\centering
+\small
+\caption{H3  the benchmark excess generalises. H3: HELD -- registered: encoders positive on >= 5/6; graded below base on >= 5/6. The excess here is larger than on STS-B, so the benchmark-reliance claim generalises and grows. The graded model was tuned on STS-B train, so these six sets are out of domain for it.}
+\begin{tabular}{lrrrrrrr}
+\toprule
+model & sickr & sts12 & sts13 & sts14 & sts15 & sts16 & positive \\
+\midrule
+cross-encoder (reference) & 0.062 & 0.247 & 0.362 & 0.280 & 0.404 & 0.362 & -- \\
+unsup-SimCSE & +0.607 & +0.383 & +0.150 & +0.261 & +0.136 & +0.136 & 6/6 \\
+sup-SimCSE & +0.411 & +0.325 & +0.157 & +0.261 & +0.081 & +0.140 & 6/6 \\
+BGE-base & +0.512 & +0.390 & +0.279 & +0.322 & +0.149 & +0.174 & 6/6 \\
+E5-base & +0.558 & +0.371 & +0.235 & +0.296 & +0.174 & +0.173 & 6/6 \\
+retrained & +0.625 & +0.356 & +0.150 & +0.246 & +0.093 & +0.134 & 6/6 \\
+ckpt/retrained\_stsb\_real\_s42 & +0.527 & +0.301 & -0.038 & +0.083 & -0.107 & +0.072 & 4/6 \\
+\bottomrule
+\end{tabular}
+\end{table}

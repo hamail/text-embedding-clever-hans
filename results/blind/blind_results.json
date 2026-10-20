@@ -1,0 +1,99 @@
+{
+  "protocol_commit": "01337a7",
+  "code_commit": "b6d8322 (UNCOMMITTED CHANGES PRESENT)",
+  "args": {
+    "cmd": "run",
+    "hypotheses": [
+      "H1"
+    ],
+    "encoders": [
+      "unsup-simcse",
+      "sup-simcse",
+      "bge-base",
+      "e5-base",
+      "retrained"
+    ],
+    "qwen3": [
+      "qwen3-0.6b",
+      "qwen3-4b",
+      "qwen3-8b"
+    ],
+    "base": "retrained",
+    "graded": "ckpt/retrained_stsb_real_s42",
+    "entity_ckpt": "ckpt/retrained_neg_role-swap_s{seed}",
+    "control_ckpt": "ckpt/retrained_neg_non-role-swap_s{seed}",
+    "seeds": [
+      42,
+      1,
+      2
+    ],
+    "bs": 64,
+    "force": true
+  },
+  "H1": {
+    "prediction": "every English encoder between 0.40 and 0.60 AUC",
+    "holds": false,
+    "per_model": {
+      "unsup-simcse": {
+        "overall": 0.32248950004577637,
+        "ci": [
+          0.30619547665119173,
+          0.3387230560183525
+        ],
+        "per_subcase": {
+          "ln_passive": 0.5582715272903442,
+          "ln_subject/object_swap": 0.08670750260353088
+        },
+        "holds": false
+      },
+      "sup-simcse": {
+        "overall": 0.36906376481056213,
+        "ci": [
+          0.35086282938718794,
+          0.3868562281131744
+        ],
+        "per_subcase": {
+          "ln_passive": 0.518978476524353,
+          "ln_subject/object_swap": 0.21914899349212646
+        },
+        "holds": false
+      },
+      "bge-base": {
+        "overall": 0.32091251015663147,
+        "ci": [
+          0.30536257326602934,
+          0.33618700653314587
+        ],
+        "per_subcase": {
+          "ln_passive": 0.5007380247116089,
+          "ln_subject/object_swap": 0.14108699560165405
+        },
+        "holds": false
+      },
+      "e5-base": {
+        "overall": 0.5724595189094543,
+        "ci": [
+          0.5531740009784698,
+          0.5894621282815933
+        ],
+        "per_subcase": {
+          "ln_passive": 0.656378984451294,
+          "ln_subject/object_swap": 0.48853999376296997
+        },
+        "holds": true
+      },
+      "retrained": {
+        "overall": 0.29204198718070984,
+        "ci": [
+          0.2778459653258324,
+          0.30790496319532396
+        ],
+        "per_subcase": {
+          "ln_passive": 0.5485569834709167,
+          "ln_subject/object_swap": 0.03552699834108353
+        },
+        "holds": false
+      }
+    }
+  }
+}

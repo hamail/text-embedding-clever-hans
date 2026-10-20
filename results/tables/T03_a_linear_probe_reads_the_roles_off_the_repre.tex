@@ -1,0 +1,26 @@
+% T03  A linear probe reads the roles off the representation  (source: e2 probe)
+\begin{table}[t]
+\centering
+\small
+\caption{A linear probe reads the roles off the representation. Tested on name pairs never seen in training. An order code alone cannot exceed 50\% on both voices, so both$\rightarrow$act and both$\rightarrow$pas above 50\% together mean names are bound to roles. The control task (Hewitt-Liang, random labels) near 50\% excludes memorisation.}
+\begin{tabular}{lrrrrrr}
+\toprule
+features & act$\rightarrow$act & act$\rightarrow$pas & both$\rightarrow$act & both$\rightarrow$pas & control seen & control new \\
+\midrule
+calibration: bag of names & 50.0\% & 50.0\% & 50.0\% & 50.0\% & 100.0\% & 55.1\% \\
+calibration: names by order & 100.0\% & 0.0\% & 50.0\% & 50.0\% & 100.0\% & 53.2\% \\
+calibration: names by role & 100.0\% & 100.0\% & 100.0\% & 100.0\% & 100.0\% & 53.2\% \\
+unsup-SimCSE & 76.0\% & 26.1\% & 65.0\% & 68.0\% & 93.3\% & 52.3\% \\
+sup-SimCSE & 75.9\% & 29.3\% & 66.8\% & 67.3\% & 92.4\% & 53.7\% \\
+BGE-base & 83.9\% & 26.9\% & 75.1\% & 72.9\% & 95.8\% & 50.7\% \\
+E5-base & 81.6\% & 23.2\% & 72.1\% & 68.8\% & 95.7\% & 52.1\% \\
+retrained & 68.0\% & 34.0\% & 60.8\% & 60.8\% & 95.2\% & 53.1\% \\
+Qwen3-0.6B & 98.2\% & 1.1\% & 80.6\% & 75.6\% & 95.8\% & 53.1\% \\
+GTE-base & 82.9\% & 21.8\% & 75.2\% & 70.6\% & 97.8\% & 50.6\% \\
+MPNet-base & 83.1\% & 22.6\% & 76.1\% & 72.6\% & 93.3\% & 53.0\% \\
+mxbai-large & 84.2\% & 24.2\% & 75.8\% & 71.3\% & 93.9\% & 50.9\% \\
+Qwen3-4B & 98.5\% & 1.1\% & 81.2\% & 74.4\% & 95.6\% & 50.7\% \\
+Qwen3-8B & 99.2\% & 5.4\% & 83.8\% & 66.6\% & 93.9\% & 52.2\% \\
+\bottomrule
+\end{tabular}
+\end{table}

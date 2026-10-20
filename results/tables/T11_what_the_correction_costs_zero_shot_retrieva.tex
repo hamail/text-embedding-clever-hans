@@ -1,0 +1,17 @@
+% T11  What the correction costs zero-shot retrieval  (source: e3 nanobeir)
+\begin{table}[t]
+\centering
+\small
+\caption{What the correction costs zero-shot retrieval. NanoBEIR nDCG@10, all conditions trained identically. One seed each except where the caption gives three. The benefit is stable across seeds while the cost varies by a factor of two and a half, so the damage looks incidental rather than intrinsic.}
+\begin{tabular}{lrrr}
+\toprule
+condition & mean & change & fooled \\
+\midrule
+retrained & 0.384 & -- & -- \\
+ckpt/retrained\_neg\_shuffled\_s1 & 0.260 & -- & -- \\
+ckpt/retrained\_neg\_shuffled\_s2 & 0.266 & -- & -- \\
+ckpt/retrained\_neg\_non-role-swap\_s1 & 0.235 & -- & -- \\
+ckpt/retrained\_neg\_non-role-swap\_s2 & 0.239 & -- & -- \\
+\bottomrule
+\end{tabular}
+\end{table}

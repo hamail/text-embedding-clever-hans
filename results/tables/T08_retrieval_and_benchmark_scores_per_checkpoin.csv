@@ -1,0 +1,8 @@
+checkpoint,top-1 clean,top-1 with swap,fooled,STS-B,overlap excess
+retrained,1.000,0.726,0.276,0.818,+0.510
+ckpt/retrained_stsb_real_s42,1.000,0.780,0.220,0.859,+0.387
+ckpt/retrained_stsb_real_s1,1.000,0.766,0.232,0.862,+0.399
+ckpt/retrained_stsb_real_s2,1.000,0.766,0.234,0.866,+0.392
+ckpt/retrained_stsb_shuffled_s42,1.000,0.750,0.250,0.628,+0.651
+ckpt/retrained_stsb_shuffled_s1,1.000,0.780,0.220,0.595,+0.486
+ckpt/retrained_stsb_shuffled_s2,1.000,0.754,0.246,0.608,+0.529

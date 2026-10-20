@@ -1,0 +1,6 @@
+model,overall AUC,90% CI,ln_passive,ln_subject/object_swap
+unsup-SimCSE,0.322,0.306-0.339,0.558,0.087
+sup-SimCSE,0.369,0.351-0.387,0.519,0.219
+BGE-base,0.321,0.305-0.336,0.501,0.141
+E5-base,0.572,0.553-0.589,0.656,0.489
+retrained,0.292,0.278-0.308,0.549,0.036

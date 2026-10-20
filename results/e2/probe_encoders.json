@@ -1,0 +1,388 @@
+{
+  "args": {
+    "cmd": "probe",
+    "models": [
+      "gte-base",
+      "mpnet-base",
+      "mxbai-large"
+    ],
+    "per_pair": 4,
+    "tag": "_encoders",
+    "seed": 11
+  },
+  "n_items": 12480,
+  "results": {
+    "calibration: bag of names": {
+      "trained on active -> active": {
+        "accuracy": 0.5,
+        "ci": [
+          0.4719551282051282,
+          0.5288461538461539
+        ],
+        "n": 1248,
+        "named_one_of_two": 1.0,
+        "p_vs_half": 1.0
+      },
+      "trained on active -> passive": {
+        "accuracy": 0.5,
+        "ci": [
+          0.4719551282051282,
+          0.5288461538461539
+        ],
+        "n": 1248,
+        "named_one_of_two": 1.0,
+        "p_vs_half": 1.0
+      },
+      "trained on both voices -> active": {
+        "accuracy": 0.5,
+        "ci": [
+          0.4719551282051282,
+          0.5296474358974359
+        ],
+        "n": 1248,
+        "named_one_of_two": 1.0,
+        "p_vs_half": 1.0
+      },
+      "trained on both voices -> passive": {
+        "accuracy": 0.5,
+        "ci": [
+          0.4719551282051282,
+          0.5296474358974359
+        ],
+        "n": 1248,
+        "named_one_of_two": 1.0,
+        "p_vs_half": 1.0
+      },
+      "control task -> familiar pairs": {
+        "accuracy": 1.0,
+        "ci": [
+          1.0,
+          1.0
+        ],
+        "n": 2496,
+        "named_one_of_two": 1.0,
+        "p_vs_half": 0.0
+      },
+      "control task -> unseen pairs": {
+        "accuracy": 0.5512820512820513,
+        "ci": [
+          0.5316406250000001,
+          0.5705128205128205
+        ],
+        "n": 2496,
+        "named_one_of_two": 1.0,
+        "p_vs_half": 3.2494967182869265e-07
+      }
+    },
+    "calibration: names by order": {
+      "trained on active -> active": {
+        "accuracy": 1.0,
+        "ci": [
+          1.0,
+          1.0
+        ],
+        "n": 1248,
+        "named_one_of_two": 1.0,
+        "p_vs_half": 0.0
+      },
+      "trained on active -> passive": {
+        "accuracy": 0.0,
+        "ci": [
+          0.0,
+          0.0
+        ],
+        "n": 1248,
+        "named_one_of_two": 1.0,
+        "p_vs_half": 0.0
+      },
+      "trained on both voices -> active": {
+        "accuracy": 0.5,
+        "ci": [
+          0.4719551282051282,
+          0.5296474358974359
+        ],
+        "n": 1248,
+        "named_one_of_two": 1.0,
+        "p_vs_half": 1.0
+      },
+      "trained on both voices -> passive": {
+        "accuracy": 0.5,
+        "ci": [
+          0.4719551282051282,
+          0.5296474358974359
+        ],
+        "n": 1248,
+        "named_one_of_two": 1.0,
+        "p_vs_half": 1.0
+      },
+      "control task -> familiar pairs": {
+        "accuracy": 1.0,
+        "ci": [
+          1.0,
+          1.0
+        ],
+        "n": 2496,
+        "named_one_of_two": 1.0,
+        "p_vs_half": 0.0
+      },
+      "control task -> unseen pairs": {
+        "accuracy": 0.532051282051282,
+        "ci": [
+          0.5120192307692307,
+          0.5508914262820512
+        ],
+        "n": 2496,
+        "named_one_of_two": 1.0,
+        "p_vs_half": 0.001454968543989271
+      }
+    },
+    "calibration: names by role": {
+      "trained on active -> active": {
+        "accuracy": 1.0,
+        "ci": [
+          1.0,
+          1.0
+        ],
+        "n": 1248,
+        "named_one_of_two": 1.0,
+        "p_vs_half": 0.0
+      },
+      "trained on active -> passive": {
+        "accuracy": 1.0,
+        "ci": [
+          1.0,
+          1.0
+        ],
+        "n": 1248,
+        "named_one_of_two": 1.0,
+        "p_vs_half": 0.0
+      },
+      "trained on both voices -> active": {
+        "accuracy": 1.0,
+        "ci": [
+          1.0,
+          1.0
+        ],
+        "n": 1248,
+        "named_one_of_two": 1.0,
+        "p_vs_half": 0.0
+      },
+      "trained on both voices -> passive": {
+        "accuracy": 1.0,
+        "ci": [
+          1.0,
+          1.0
+        ],
+        "n": 1248,
+        "named_one_of_two": 1.0,
+        "p_vs_half": 0.0
+      },
+      "control task -> familiar pairs": {
+        "accuracy": 1.0,
+        "ci": [
+          1.0,
+          1.0
+        ],
+        "n": 2496,
+        "named_one_of_two": 1.0,
+        "p_vs_half": 0.0
+      },
+      "control task -> unseen pairs": {
+        "accuracy": 0.532051282051282,
+        "ci": [
+          0.5120192307692307,
+          0.5508914262820512
+        ],
+        "n": 2496,
+        "named_one_of_two": 1.0,
+        "p_vs_half": 0.001454968543989271
+      }
+    },
+    "gte-base": {
+      "trained on active -> active": {
+        "accuracy": 0.829444891391794,
+        "ci": [
+          0.8069155419093895,
+          0.8501653006838295
+        ],
+        "n": 1243,
+        "named_one_of_two": 0.9959935897435898,
+        "p_vs_half": 1.8764854228660003e-129
+      },
+      "trained on active -> passive": {
+        "accuracy": 0.2180209171359614,
+        "ci": [
+          0.19515785999067986,
+          0.24032335857276216
+        ],
+        "n": 1243,
+        "named_one_of_two": 0.9959935897435898,
+        "p_vs_half": 6.042681504727071e-93
+      },
+      "trained on both voices -> active": {
+        "accuracy": 0.7520585544373285,
+        "ci": [
+          0.7277725608467898,
+          0.7777777777777778
+        ],
+        "n": 1093,
+        "named_one_of_two": 0.875801282051282,
+        "p_vs_half": 5.583126698025514e-65
+      },
+      "trained on both voices -> passive": {
+        "accuracy": 0.7055103884372177,
+        "ci": [
+          0.6797853309481217,
+          0.7328034420289854
+        ],
+        "n": 1107,
+        "named_one_of_two": 0.8870192307692307,
+        "p_vs_half": 1.3063576740022377e-43
+      },
+      "control task -> familiar pairs": {
+        "accuracy": 0.9782608695652174,
+        "ci": [
+          0.9726137736608941,
+          0.983883964544722
+        ],
+        "n": 2484,
+        "named_one_of_two": 0.9951923076923077,
+        "p_vs_half": 0.0
+      },
+      "control task -> unseen pairs": {
+        "accuracy": 0.5061174551386624,
+        "ci": [
+          0.48615522077452045,
+          0.525247398401723
+        ],
+        "n": 2452,
+        "named_one_of_two": 0.9823717948717948,
+        "p_vs_half": 0.5581198852612416
+      }
+    },
+    "mpnet-base": {
+      "trained on active -> active": {
+        "accuracy": 0.8314424635332253,
+        "ci": [
+          0.8102189781021898,
+          0.8519440168916251
+        ],
+        "n": 1234,
+        "named_one_of_two": 0.9887820512820513,
+        "p_vs_half": 3.151116001289048e-130
+      },
+      "trained on active -> passive": {
+        "accuracy": 0.22625928984310487,
+        "ci": [
+          0.2031637020282987,
+          0.24917511971785414
+        ],
+        "n": 1211,
+        "named_one_of_two": 0.9703525641025641,
+        "p_vs_half": 3.6719493113951605e-85
+      },
+      "trained on both voices -> active": {
+        "accuracy": 0.761070110701107,
+        "ci": [
+          0.7357609710550888,
+          0.7865677458258582
+        ],
+        "n": 1084,
+        "named_one_of_two": 0.8685897435897436,
+        "p_vs_half": 2.840858023101606e-69
+      },
+      "trained on both voices -> passive": {
+        "accuracy": 0.7261794634597595,
+        "ci": [
+          0.6984388521626922,
+          0.7527523679771636
+        ],
+        "n": 1081,
+        "named_one_of_two": 0.8661858974358975,
+        "p_vs_half": 1.3099621221476757e-51
+      },
+      "control task -> familiar pairs": {
+        "accuracy": 0.9331723027375202,
+        "ci": [
+          0.9230761482675263,
+          0.9428577175037351
+        ],
+        "n": 2484,
+        "named_one_of_two": 0.9951923076923077,
+        "p_vs_half": 0.0
+      },
+      "control task -> unseen pairs": {
+        "accuracy": 0.5295095594347464,
+        "ci": [
+          0.5095013932262462,
+          0.5491668388429752
+        ],
+        "n": 2406,
+        "named_one_of_two": 0.9639423076923077,
+        "p_vs_half": 0.0040366487767855685
+      }
+    },
+    "mxbai-large": {
+      "trained on active -> active": {
+        "accuracy": 0.8423169750603379,
+        "ci": [
+          0.8223436938172092,
+          0.8621023258532023
+        ],
+        "n": 1243,
+        "named_one_of_two": 0.9959935897435898,
+        "p_vs_half": 9.19665551818804e-141
+      },
+      "trained on active -> passive": {
+        "accuracy": 0.24235104669887278,
+        "ci": [
+          0.21899468949947948,
+          0.2666680096696213
+        ],
+        "n": 1242,
+        "named_one_of_two": 0.9951923076923077,
+        "p_vs_half": 5.164002695405969e-77
+      },
+      "trained on both voices -> active": {
+        "accuracy": 0.7575757575757576,
+        "ci": [
+          0.7322939851317865,
+          0.7817715719862959
+        ],
+        "n": 1155,
+        "named_one_of_two": 0.9254807692307693,
+        "p_vs_half": 1.0878538533417048e-71
+      },
+      "trained on both voices -> passive": {
+        "accuracy": 0.7132987910189983,
+        "ci": [
+          0.6864085833851654,
+          0.739094386019037
+        ],
+        "n": 1158,
+        "named_one_of_two": 0.9278846153846154,
+        "p_vs_half": 4.7327539315850036e-49
+      },
+      "control task -> familiar pairs": {
+        "accuracy": 0.938610662358643,
+        "ci": [
+          0.9287737757992716,
+          0.9474545776887383
+        ],
+        "n": 2476,
+        "named_one_of_two": 0.9919871794871795,
+        "p_vs_half": 0.0
+      },
+      "control task -> unseen pairs": {
+        "accuracy": 0.5086607520067596,
+        "ci": [
+          0.48927196598985895,
+          0.5274880962490054
+        ],
+        "n": 2367,
+        "named_one_of_two": 0.9483173076923077,
+        "p_vs_half": 0.4109863201647573
+      }
+    }
+  }
+}

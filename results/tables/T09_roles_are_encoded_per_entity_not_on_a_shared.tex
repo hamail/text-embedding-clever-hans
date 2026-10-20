@@ -1,0 +1,15 @@
+% T09  Roles are encoded per entity, not on a shared axis  (source: e4 entanglement)
+\begin{table}[t]
+\centering
+\small
+\caption{Roles are encoded per entity, not on a shared axis. Role direction of a name = that name as agent minus that name as patient. Role directions align with each other barely above the random level, and each rides on its own name's identity direction. An edit would need a different direction for every entity.}
+\begin{tabular}{lrrrrrr}
+\toprule
+model & names & role vs role & random level & own name & other names & variance in top directions \\
+\midrule
+unsup-SimCSE & 40 & 0.090 & 0.030 & 0.681 & 0.087 & 53\% \\
+retrained & 40 & 0.096 & 0.030 & 0.527 & 0.089 & 54\% \\
+Qwen3-0.6B & 40 & 0.091 & 0.025 & 0.541 & 0.056 & 55\% \\
+\bottomrule
+\end{tabular}
+\end{table}

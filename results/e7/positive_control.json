@@ -1,0 +1,80 @@
+{
+  "args": {
+    "models": [
+      "cross-encoder/stsb-roberta-base"
+    ],
+    "nli": [
+      "cross-encoder/nli-deberta-v3-base"
+    ],
+    "n_passive": 400,
+    "seed": 11,
+    "limit": 0,
+    "bs": 64
+  },
+  "results": [
+    {
+      "set": "matched twins",
+      "model": "cross-encoder/stsb-roberta-base",
+      "d_kept": 0.21634628087282182,
+      "d_reversed": 0.19273858174681663,
+      "n": 400,
+      "ratio": 0.9012501798473797,
+      "ci90": [
+        0.8287146590736245,
+        0.9801345707856872
+      ],
+      "p_not_further": 1.8530185029095687e-10,
+      "role_blind": true,
+      "p_tost": 0.009846686631261006,
+      "treated_alike": true
+    },
+    {
+      "set": "passive contrast",
+      "model": "cross-encoder/stsb-roberta-base",
+      "d_kept": 0.006007912009954453,
+      "d_reversed": 0.2528052214533091,
+      "n": 400,
+      "ratio": 44.73821337356226,
+      "ci90": [
+        41.11083530375973,
+        48.68564992828886
+      ],
+      "p_not_further": 1.0,
+      "role_blind": false,
+      "p_tost": 1.0,
+      "treated_alike": false
+    },
+    {
+      "set": "matched twins",
+      "model": "cross-encoder/nli-deberta-v3-base",
+      "d_kept": 0.8658351302146912,
+      "d_reversed": 0.9947834610939026,
+      "n": 400,
+      "ratio": 1.454825780736003,
+      "ci90": [
+        1.3318344533303557,
+        1.5891750262216164
+      ],
+      "p_not_further": 0.997572270136695,
+      "role_blind": false,
+      "p_tost": 0.997572270136695,
+      "treated_alike": false
+    },
+    {
+      "set": "passive contrast",
+      "model": "cross-encoder/nli-deberta-v3-base",
+      "d_kept": 0.002251747064292431,
+      "d_reversed": 0.9870697259902954,
+      "n": 400,
+      "ratio": 427.82853494827157,
+      "ci90": [
+        407.1056674396317,
+        449.60625693850454
+      ],
+      "p_not_further": 1.0,
+      "role_blind": false,
+      "p_tost": 1.0,
+      "treated_alike": false
+    }
+  ]
+}

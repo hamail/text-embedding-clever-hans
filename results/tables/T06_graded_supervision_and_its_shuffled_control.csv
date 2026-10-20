@@ -1,0 +1,8 @@
+condition,seed,STS-B,overlap excess,fooled,queries fixed / broken,McNemar P
+base,--,0.818,+0.510,0.276,--,--
+real scores,42,0.859,+0.387,0.220,48 / 20,9.1e-04
+real scores,1,0.862,+0.399,0.232,45 / 23,1.0e-02
+real scores,2,0.866,+0.392,0.234,41 / 20,9.9e-03
+shuffled,42,0.628,+0.651,0.250,54 / 41,2.2e-01
+shuffled,1,0.595,+0.486,0.220,56 / 28,3.0e-03
+shuffled,2,0.608,+0.529,0.246,64 / 49,1.9e-01

@@ -1,0 +1,800 @@
+{"s1": "The report says Patel divorced Wilson in Chicago.", "s2": "The report says Wilson divorced Patel in Chicago.", "label": 1, "match_id": 0, "predicate": "divorced"}
+{"s1": "The report says Patel sued Wilson in Chicago.", "s2": "The report says Wilson sued Patel in Chicago.", "label": 0, "match_id": 0, "predicate": "sued"}
+{"s1": "During 2011, Campbell argued with Wilson in Madrid.", "s2": "During 2011, Wilson argued with Campbell in Madrid.", "label": 1, "match_id": 1, "predicate": "argued with"}
+{"s1": "During 2011, Campbell reported to Wilson in Madrid.", "s2": "During 2011, Wilson reported to Campbell in Madrid.", "label": 0, "match_id": 1, "predicate": "reported to"}
+{"s1": "During 1997, Mitchell married Allen in Madrid.", "s2": "During 1997, Allen married Mitchell in Madrid.", "label": 1, "match_id": 2, "predicate": "married"}
+{"s1": "During 1997, Mitchell hired Allen in Madrid.", "s2": "During 1997, Allen hired Mitchell in Madrid.", "label": 0, "match_id": 2, "predicate": "hired"}
+{"s1": "During 1998, Wilson played against Murphy in Madrid.", "s2": "During 1998, Murphy played against Wilson in Madrid.", "label": 1, "match_id": 3, "predicate": "played against"}
+{"s1": "During 1998, Wilson voted for Murphy in Madrid.", "s2": "During 1998, Murphy voted for Wilson in Madrid.", "label": 0, "match_id": 3, "predicate": "voted for"}
+{"s1": "Earlier this year, Murphy met Campbell in private.", "s2": "Earlier this year, Campbell met Murphy in private.", "label": 1, "match_id": 4, "predicate": "met"}
+{"s1": "Earlier this year, Murphy defeated Campbell in private.", "s2": "Earlier this year, Campbell defeated Murphy in private.", "label": 0, "match_id": 4, "predicate": "defeated"}
+{"s1": "Stewart met Walker at the conference in 2004.", "s2": "Walker met Stewart at the conference in 2004.", "label": 1, "match_id": 5, "predicate": "met"}
+{"s1": "Stewart defeated Walker at the conference in 2004.", "s2": "Walker defeated Stewart at the conference in 2004.", "label": 0, "match_id": 5, "predicate": "defeated"}
+{"s1": "Murphy married Turner at the conference in 2012.", "s2": "Turner married Murphy at the conference in 2012.", "label": 1, "match_id": 6, "predicate": "married"}
+{"s1": "Murphy hired Turner at the conference in 2012.", "s2": "Turner hired Murphy at the conference in 2012.", "label": 0, "match_id": 6, "predicate": "hired"}
+{"s1": "Campbell married Murphy at the conference in 2015.", "s2": "Murphy married Campbell at the conference in 2015.", "label": 1, "match_id": 7, "predicate": "married"}
+{"s1": "Campbell hired Murphy at the conference in 2015.", "s2": "Murphy hired Campbell at the conference in 2015.", "label": 0, "match_id": 7, "predicate": "hired"}
+{"s1": "The report says Stewart married Davies in London.", "s2": "The report says Davies married Stewart in London.", "label": 1, "match_id": 8, "predicate": "married"}
+{"s1": "The report says Stewart hired Davies in London.", "s2": "The report says Davies hired Stewart in London.", "label": 0, "match_id": 8, "predicate": "hired"}
+{"s1": "Earlier this year, Davis fought Collins in private.", "s2": "Earlier this year, Collins fought Davis in private.", "label": 1, "match_id": 9, "predicate": "fought"}
+{"s1": "Earlier this year, Davis trained Collins in private.", "s2": "Earlier this year, Collins trained Davis in private.", "label": 0, "match_id": 9, "predicate": "trained"}
+{"s1": "Last week, Harrison competed against Turner in Berlin.", "s2": "Last week, Turner competed against Harrison in Berlin.", "label": 1, "match_id": 10, "predicate": "competed against"}
+{"s1": "Last week, Harrison wrote to Turner in Berlin.", "s2": "Last week, Turner wrote to Harrison in Berlin.", "label": 0, "match_id": 10, "predicate": "wrote to"}
+{"s1": "Murphy married Turner at the conference in 2011.", "s2": "Turner married Murphy at the conference in 2011.", "label": 1, "match_id": 11, "predicate": "married"}
+{"s1": "Murphy hired Turner at the conference in 2011.", "s2": "Turner hired Murphy at the conference in 2011.", "label": 0, "match_id": 11, "predicate": "hired"}
+{"s1": "The report says Clarke competed against Kelly in Paris.", "s2": "The report says Kelly competed against Clarke in Paris.", "label": 1, "match_id": 12, "predicate": "competed against"}
+{"s1": "The report says Clarke wrote to Kelly in Paris.", "s2": "The report says Kelly wrote to Clarke in Paris.", "label": 0, "match_id": 12, "predicate": "wrote to"}
+{"s1": "Earlier this year, Robinson played against Morris in private.", "s2": "Earlier this year, Morris played against Robinson in private.", "label": 1, "match_id": 13, "predicate": "played against"}
+{"s1": "Earlier this year, Robinson voted for Morris in private.", "s2": "Earlier this year, Morris voted for Robinson in private.", "label": 0, "match_id": 13, "predicate": "voted for"}
+{"s1": "Last week, Davies met Stewart in Vienna.", "s2": "Last week, Stewart met Davies in Vienna.", "label": 1, "match_id": 14, "predicate": "met"}
+{"s1": "Last week, Davies defeated Stewart in Vienna.", "s2": "Last week, Stewart defeated Davies in Vienna.", "label": 0, "match_id": 14, "predicate": "defeated"}
+{"s1": "The report says Kelly argued with Davis in Boston.", "s2": "The report says Davis argued with Kelly in Boston.", "label": 1, "match_id": 15, "predicate": "argued with"}
+{"s1": "The report says Kelly reported to Davis in Boston.", "s2": "The report says Davis reported to Kelly in Boston.", "label": 0, "match_id": 15, "predicate": "reported to"}
+{"s1": "During 2017, Jackson married Parker in Sydney.", "s2": "During 2017, Parker married Jackson in Sydney.", "label": 1, "match_id": 16, "predicate": "married"}
+{"s1": "During 2017, Jackson hired Parker in Sydney.", "s2": "During 2017, Parker hired Jackson in Sydney.", "label": 0, "match_id": 16, "predicate": "hired"}
+{"s1": "During 2016, Turner met Murphy in Boston.", "s2": "During 2016, Murphy met Turner in Boston.", "label": 1, "match_id": 17, "predicate": "met"}
+{"s1": "During 2016, Turner defeated Murphy in Boston.", "s2": "During 2016, Murphy defeated Turner in Boston.", "label": 0, "match_id": 17, "predicate": "defeated"}
+{"s1": "The report says Watson played against Jones in Vienna.", "s2": "The report says Jones played against Watson in Vienna.", "label": 1, "match_id": 18, "predicate": "played against"}
+{"s1": "The report says Watson voted for Jones in Vienna.", "s2": "The report says Jones voted for Watson in Vienna.", "label": 0, "match_id": 18, "predicate": "voted for"}
+{"s1": "Davis married Wilson at the conference in 2001.", "s2": "Wilson married Davis at the conference in 2001.", "label": 1, "match_id": 19, "predicate": "married"}
+{"s1": "Davis hired Wilson at the conference in 2001.", "s2": "Wilson hired Davis at the conference in 2001.", "label": 0, "match_id": 19, "predicate": "hired"}
+{"s1": "Patel fought Davis at the conference in 1997.", "s2": "Davis fought Patel at the conference in 1997.", "label": 1, "match_id": 20, "predicate": "fought"}
+{"s1": "Patel trained Davis at the conference in 1997.", "s2": "Davis trained Patel at the conference in 1997.", "label": 0, "match_id": 20, "predicate": "trained"}
+{"s1": "Last week, Stewart played against Jackson in Dublin.", "s2": "Last week, Jackson played against Stewart in Dublin.", "label": 1, "match_id": 21, "predicate": "played against"}
+{"s1": "Last week, Stewart voted for Jackson in Dublin.", "s2": "Last week, Jackson voted for Stewart in Dublin.", "label": 0, "match_id": 21, "predicate": "voted for"}
+{"s1": "Earlier this year, Allen worked with Watson in private.", "s2": "Earlier this year, Watson worked with Allen in private.", "label": 1, "match_id": 22, "predicate": "worked with"}
+{"s1": "Earlier this year, Allen worked for Watson in private.", "s2": "Earlier this year, Watson worked for Allen in private.", "label": 0, "match_id": 22, "predicate": "worked for"}
+{"s1": "Evans divorced Thompson at the conference in 1999.", "s2": "Thompson divorced Evans at the conference in 1999.", "label": 1, "match_id": 23, "predicate": "divorced"}
+{"s1": "Evans sued Thompson at the conference in 1999.", "s2": "Thompson sued Evans at the conference in 1999.", "label": 0, "match_id": 23, "predicate": "sued"}
+{"s1": "Davis met Campbell at the conference in 2000.", "s2": "Campbell met Davis at the conference in 2000.", "label": 1, "match_id": 24, "predicate": "met"}
+{"s1": "Davis defeated Campbell at the conference in 2000.", "s2": "Campbell defeated Davis at the conference in 2000.", "label": 0, "match_id": 24, "predicate": "defeated"}
+{"s1": "The report says Wright met Allen in Vienna.", "s2": "The report says Allen met Wright in Vienna.", "label": 1, "match_id": 25, "predicate": "met"}
+{"s1": "The report says Wright defeated Allen in Vienna.", "s2": "The report says Allen defeated Wright in Vienna.", "label": 0, "match_id": 25, "predicate": "defeated"}
+{"s1": "Earlier this year, Walker argued with Garcia in private.", "s2": "Earlier this year, Garcia argued with Walker in private.", "label": 1, "match_id": 26, "predicate": "argued with"}
+{"s1": "Earlier this year, Walker reported to Garcia in private.", "s2": "Earlier this year, Garcia reported to Walker in private.", "label": 0, "match_id": 26, "predicate": "reported to"}
+{"s1": "During 2007, Stewart competed against Patel in Dublin.", "s2": "During 2007, Patel competed against Stewart in Dublin.", "label": 1, "match_id": 27, "predicate": "competed against"}
+{"s1": "During 2007, Stewart wrote to Patel in Dublin.", "s2": "During 2007, Patel wrote to Stewart in Dublin.", "label": 0, "match_id": 27, "predicate": "wrote to"}
+{"s1": "Last week, Parker married Patel in Madrid.", "s2": "Last week, Patel married Parker in Madrid.", "label": 1, "match_id": 28, "predicate": "married"}
+{"s1": "Last week, Parker hired Patel in Madrid.", "s2": "Last week, Patel hired Parker in Madrid.", "label": 0, "match_id": 28, "predicate": "hired"}
+{"s1": "During 1998, Anderson fought Robinson in Vienna.", "s2": "During 1998, Robinson fought Anderson in Vienna.", "label": 1, "match_id": 29, "predicate": "fought"}
+{"s1": "During 1998, Anderson trained Robinson in Vienna.", "s2": "During 1998, Robinson trained Anderson in Vienna.", "label": 0, "match_id": 29, "predicate": "trained"}
+{"s1": "Earlier this year, Johnson met Smith in private.", "s2": "Earlier this year, Smith met Johnson in private.", "label": 1, "match_id": 30, "predicate": "met"}
+{"s1": "Earlier this year, Johnson defeated Smith in private.", "s2": "Earlier this year, Smith defeated Johnson in private.", "label": 0, "match_id": 30, "predicate": "defeated"}
+{"s1": "Earlier this year, Harrison married Cohen in private.", "s2": "Earlier this year, Cohen married Harrison in private.", "label": 1, "match_id": 31, "predicate": "married"}
+{"s1": "Earlier this year, Harrison hired Cohen in private.", "s2": "Earlier this year, Cohen hired Harrison in private.", "label": 0, "match_id": 31, "predicate": "hired"}
+{"s1": "Wright played against Martin at the conference in 2006.", "s2": "Martin played against Wright at the conference in 2006.", "label": 1, "match_id": 32, "predicate": "played against"}
+{"s1": "Wright voted for Martin at the conference in 2006.", "s2": "Martin voted for Wright at the conference in 2006.", "label": 0, "match_id": 32, "predicate": "voted for"}
+{"s1": "The report says Roberts competed against Davis in Boston.", "s2": "The report says Davis competed against Roberts in Boston.", "label": 1, "match_id": 33, "predicate": "competed against"}
+{"s1": "The report says Roberts wrote to Davis in Boston.", "s2": "The report says Davis wrote to Roberts in Boston.", "label": 0, "match_id": 33, "predicate": "wrote to"}
+{"s1": "Last week, Evans worked with Wright in Tokyo.", "s2": "Last week, Wright worked with Evans in Tokyo.", "label": 1, "match_id": 34, "predicate": "worked with"}
+{"s1": "Last week, Evans worked for Wright in Tokyo.", "s2": "Last week, Wright worked for Evans in Tokyo.", "label": 0, "match_id": 34, "predicate": "worked for"}
+{"s1": "The report says Parker worked with Robinson in London.", "s2": "The report says Robinson worked with Parker in London.", "label": 1, "match_id": 35, "predicate": "worked with"}
+{"s1": "The report says Parker worked for Robinson in London.", "s2": "The report says Robinson worked for Parker in London.", "label": 0, "match_id": 35, "predicate": "worked for"}
+{"s1": "Wright argued with Collins at the conference in 1995.", "s2": "Collins argued with Wright at the conference in 1995.", "label": 1, "match_id": 36, "predicate": "argued with"}
+{"s1": "Wright reported to Collins at the conference in 1995.", "s2": "Collins reported to Wright at the conference in 1995.", "label": 0, "match_id": 36, "predicate": "reported to"}
+{"s1": "The report says Martin married Miller in Berlin.", "s2": "The report says Miller married Martin in Berlin.", "label": 1, "match_id": 37, "predicate": "married"}
+{"s1": "The report says Martin hired Miller in Berlin.", "s2": "The report says Miller hired Martin in Berlin.", "label": 0, "match_id": 37, "predicate": "hired"}
+{"s1": "The report says Collins fought Garcia in Sydney.", "s2": "The report says Garcia fought Collins in Sydney.", "label": 1, "match_id": 38, "predicate": "fought"}
+{"s1": "The report says Collins trained Garcia in Sydney.", "s2": "The report says Garcia trained Collins in Sydney.", "label": 0, "match_id": 38, "predicate": "trained"}
+{"s1": "Lewis fought Patel at the conference in 2018.", "s2": "Patel fought Lewis at the conference in 2018.", "label": 1, "match_id": 39, "predicate": "fought"}
+{"s1": "Lewis trained Patel at the conference in 2018.", "s2": "Patel trained Lewis at the conference in 2018.", "label": 0, "match_id": 39, "predicate": "trained"}
+{"s1": "Watson competed against Jones at the conference in 1995.", "s2": "Jones competed against Watson at the conference in 1995.", "label": 1, "match_id": 40, "predicate": "competed against"}
+{"s1": "Watson wrote to Jones at the conference in 1995.", "s2": "Jones wrote to Watson at the conference in 1995.", "label": 0, "match_id": 40, "predicate": "wrote to"}
+{"s1": "Last week, Hughes worked with Kelly in Boston.", "s2": "Last week, Kelly worked with Hughes in Boston.", "label": 1, "match_id": 41, "predicate": "worked with"}
+{"s1": "Last week, Hughes worked for Kelly in Boston.", "s2": "Last week, Kelly worked for Hughes in Boston.", "label": 0, "match_id": 41, "predicate": "worked for"}
+{"s1": "The report says Evans argued with Harris in Madrid.", "s2": "The report says Harris argued with Evans in Madrid.", "label": 1, "match_id": 42, "predicate": "argued with"}
+{"s1": "The report says Evans reported to Harris in Madrid.", "s2": "The report says Harris reported to Evans in Madrid.", "label": 0, "match_id": 42, "predicate": "reported to"}
+{"s1": "Last week, Morris fought Edwards in Toronto.", "s2": "Last week, Edwards fought Morris in Toronto.", "label": 1, "match_id": 43, "predicate": "fought"}
+{"s1": "Last week, Morris trained Edwards in Toronto.", "s2": "Last week, Edwards trained Morris in Toronto.", "label": 0, "match_id": 43, "predicate": "trained"}
+{"s1": "Earlier this year, Parker met Watson in private.", "s2": "Earlier this year, Watson met Parker in private.", "label": 1, "match_id": 44, "predicate": "met"}
+{"s1": "Earlier this year, Parker defeated Watson in private.", "s2": "Earlier this year, Watson defeated Parker in private.", "label": 0, "match_id": 44, "predicate": "defeated"}
+{"s1": "During 2010, Morgan married Hughes in Berlin.", "s2": "During 2010, Hughes married Morgan in Berlin.", "label": 1, "match_id": 45, "predicate": "married"}
+{"s1": "During 2010, Morgan hired Hughes in Berlin.", "s2": "During 2010, Hughes hired Morgan in Berlin.", "label": 0, "match_id": 45, "predicate": "hired"}
+{"s1": "Last week, Evans argued with Patel in Dublin.", "s2": "Last week, Patel argued with Evans in Dublin.", "label": 1, "match_id": 46, "predicate": "argued with"}
+{"s1": "Last week, Evans reported to Patel in Dublin.", "s2": "Last week, Patel reported to Evans in Dublin.", "label": 0, "match_id": 46, "predicate": "reported to"}
+{"s1": "During 1995, Robinson divorced Walker in Berlin.", "s2": "During 1995, Walker divorced Robinson in Berlin.", "label": 1, "match_id": 47, "predicate": "divorced"}
+{"s1": "During 1995, Robinson sued Walker in Berlin.", "s2": "During 1995, Walker sued Robinson in Berlin.", "label": 0, "match_id": 47, "predicate": "sued"}
+{"s1": "Earlier this year, Wright competed against Cohen in private.", "s2": "Earlier this year, Cohen competed against Wright in private.", "label": 1, "match_id": 48, "predicate": "competed against"}
+{"s1": "Earlier this year, Wright wrote to Cohen in private.", "s2": "Earlier this year, Cohen wrote to Wright in private.", "label": 0, "match_id": 48, "predicate": "wrote to"}
+{"s1": "The report says Stewart divorced Walker in London.", "s2": "The report says Walker divorced Stewart in London.", "label": 1, "match_id": 49, "predicate": "divorced"}
+{"s1": "The report says Stewart sued Walker in London.", "s2": "The report says Walker sued Stewart in London.", "label": 0, "match_id": 49, "predicate": "sued"}
+{"s1": "During 2001, Mitchell divorced Hughes in London.", "s2": "During 2001, Hughes divorced Mitchell in London.", "label": 1, "match_id": 50, "predicate": "divorced"}
+{"s1": "During 2001, Mitchell sued Hughes in London.", "s2": "During 2001, Hughes sued Mitchell in London.", "label": 0, "match_id": 50, "predicate": "sued"}
+{"s1": "The report says Clarke fought Garcia in Toronto.", "s2": "The report says Garcia fought Clarke in Toronto.", "label": 1, "match_id": 51, "predicate": "fought"}
+{"s1": "The report says Clarke trained Garcia in Toronto.", "s2": "The report says Garcia trained Clarke in Toronto.", "label": 0, "match_id": 51, "predicate": "trained"}
+{"s1": "The report says Collins worked with Allen in London.", "s2": "The report says Allen worked with Collins in London.", "label": 1, "match_id": 52, "predicate": "worked with"}
+{"s1": "The report says Collins worked for Allen in London.", "s2": "The report says Allen worked for Collins in London.", "label": 0, "match_id": 52, "predicate": "worked for"}
+{"s1": "The report says Campbell competed against Miller in Chicago.", "s2": "The report says Miller competed against Campbell in Chicago.", "label": 1, "match_id": 53, "predicate": "competed against"}
+{"s1": "The report says Campbell wrote to Miller in Chicago.", "s2": "The report says Miller wrote to Campbell in Chicago.", "label": 0, "match_id": 53, "predicate": "wrote to"}
+{"s1": "Miller divorced Garcia at the conference in 1995.", "s2": "Garcia divorced Miller at the conference in 1995.", "label": 1, "match_id": 54, "predicate": "divorced"}
+{"s1": "Miller sued Garcia at the conference in 1995.", "s2": "Garcia sued Miller at the conference in 1995.", "label": 0, "match_id": 54, "predicate": "sued"}
+{"s1": "Wright met Thompson at the conference in 1999.", "s2": "Thompson met Wright at the conference in 1999.", "label": 1, "match_id": 55, "predicate": "met"}
+{"s1": "Wright defeated Thompson at the conference in 1999.", "s2": "Thompson defeated Wright at the conference in 1999.", "label": 0, "match_id": 55, "predicate": "defeated"}
+{"s1": "Earlier this year, Stewart married Wilson in private.", "s2": "Earlier this year, Wilson married Stewart in private.", "label": 1, "match_id": 56, "predicate": "married"}
+{"s1": "Earlier this year, Stewart hired Wilson in private.", "s2": "Earlier this year, Wilson hired Stewart in private.", "label": 0, "match_id": 56, "predicate": "hired"}
+{"s1": "Earlier this year, Johnson competed against Stewart in private.", "s2": "Earlier this year, Stewart competed against Johnson in private.", "label": 1, "match_id": 57, "predicate": "competed against"}
+{"s1": "Earlier this year, Johnson wrote to Stewart in private.", "s2": "Earlier this year, Stewart wrote to Johnson in private.", "label": 0, "match_id": 57, "predicate": "wrote to"}
+{"s1": "Taylor worked with Johnson at the conference in 2011.", "s2": "Johnson worked with Taylor at the conference in 2011.", "label": 1, "match_id": 58, "predicate": "worked with"}
+{"s1": "Taylor worked for Johnson at the conference in 2011.", "s2": "Johnson worked for Taylor at the conference in 2011.", "label": 0, "match_id": 58, "predicate": "worked for"}
+{"s1": "Earlier this year, Davies met Anderson in private.", "s2": "Earlier this year, Anderson met Davies in private.", "label": 1, "match_id": 59, "predicate": "met"}
+{"s1": "Earlier this year, Davies defeated Anderson in private.", "s2": "Earlier this year, Anderson defeated Davies in private.", "label": 0, "match_id": 59, "predicate": "defeated"}
+{"s1": "Earlier this year, Jackson fought Anderson in private.", "s2": "Earlier this year, Anderson fought Jackson in private.", "label": 1, "match_id": 60, "predicate": "fought"}
+{"s1": "Earlier this year, Jackson trained Anderson in private.", "s2": "Earlier this year, Anderson trained Jackson in private.", "label": 0, "match_id": 60, "predicate": "trained"}
+{"s1": "Last week, Miller fought Martin in Madrid.", "s2": "Last week, Martin fought Miller in Madrid.", "label": 1, "match_id": 61, "predicate": "fought"}
+{"s1": "Last week, Miller trained Martin in Madrid.", "s2": "Last week, Martin trained Miller in Madrid.", "label": 0, "match_id": 61, "predicate": "trained"}
+{"s1": "Last week, Allen divorced Roberts in Boston.", "s2": "Last week, Roberts divorced Allen in Boston.", "label": 1, "match_id": 62, "predicate": "divorced"}
+{"s1": "Last week, Allen sued Roberts in Boston.", "s2": "Last week, Roberts sued Allen in Boston.", "label": 0, "match_id": 62, "predicate": "sued"}
+{"s1": "The report says Lewis married Mitchell in Madrid.", "s2": "The report says Mitchell married Lewis in Madrid.", "label": 1, "match_id": 63, "predicate": "married"}
+{"s1": "The report says Lewis hired Mitchell in Madrid.", "s2": "The report says Mitchell hired Lewis in Madrid.", "label": 0, "match_id": 63, "predicate": "hired"}
+{"s1": "The report says Wright married Harrison in Rome.", "s2": "The report says Harrison married Wright in Rome.", "label": 1, "match_id": 64, "predicate": "married"}
+{"s1": "The report says Wright hired Harrison in Rome.", "s2": "The report says Harrison hired Wright in Rome.", "label": 0, "match_id": 64, "predicate": "hired"}
+{"s1": "Harris competed against Johnson at the conference in 2007.", "s2": "Johnson competed against Harris at the conference in 2007.", "label": 1, "match_id": 65, "predicate": "competed against"}
+{"s1": "Harris wrote to Johnson at the conference in 2007.", "s2": "Johnson wrote to Harris at the conference in 2007.", "label": 0, "match_id": 65, "predicate": "wrote to"}
+{"s1": "Robinson fought Mitchell at the conference in 2011.", "s2": "Mitchell fought Robinson at the conference in 2011.", "label": 1, "match_id": 66, "predicate": "fought"}
+{"s1": "Robinson trained Mitchell at the conference in 2011.", "s2": "Mitchell trained Robinson at the conference in 2011.", "label": 0, "match_id": 66, "predicate": "trained"}
+{"s1": "The report says Hughes played against Watson in Paris.", "s2": "The report says Watson played against Hughes in Paris.", "label": 1, "match_id": 67, "predicate": "played against"}
+{"s1": "The report says Hughes voted for Watson in Paris.", "s2": "The report says Watson voted for Hughes in Paris.", "label": 0, "match_id": 67, "predicate": "voted for"}
+{"s1": "The report says Morris met Stewart in Boston.", "s2": "The report says Stewart met Morris in Boston.", "label": 1, "match_id": 68, "predicate": "met"}
+{"s1": "The report says Morris defeated Stewart in Boston.", "s2": "The report says Stewart defeated Morris in Boston.", "label": 0, "match_id": 68, "predicate": "defeated"}
+{"s1": "During 2014, Morris played against Miller in Rome.", "s2": "During 2014, Miller played against Morris in Rome.", "label": 1, "match_id": 69, "predicate": "played against"}
+{"s1": "During 2014, Morris voted for Miller in Rome.", "s2": "During 2014, Miller voted for Morris in Rome.", "label": 0, "match_id": 69, "predicate": "voted for"}
+{"s1": "Earlier this year, Roberts married Harris in private.", "s2": "Earlier this year, Harris married Roberts in private.", "label": 1, "match_id": 70, "predicate": "married"}
+{"s1": "Earlier this year, Roberts hired Harris in private.", "s2": "Earlier this year, Harris hired Roberts in private.", "label": 0, "match_id": 70, "predicate": "hired"}
+{"s1": "The report says Taylor worked with Thompson in Berlin.", "s2": "The report says Thompson worked with Taylor in Berlin.", "label": 1, "match_id": 71, "predicate": "worked with"}
+{"s1": "The report says Taylor worked for Thompson in Berlin.", "s2": "The report says Thompson worked for Taylor in Berlin.", "label": 0, "match_id": 71, "predicate": "worked for"}
+{"s1": "Last week, Patel worked with Wright in Chicago.", "s2": "Last week, Wright worked with Patel in Chicago.", "label": 1, "match_id": 72, "predicate": "worked with"}
+{"s1": "Last week, Patel worked for Wright in Chicago.", "s2": "Last week, Wright worked for Patel in Chicago.", "label": 0, "match_id": 72, "predicate": "worked for"}
+{"s1": "Earlier this year, Cooper competed against Evans in private.", "s2": "Earlier this year, Evans competed against Cooper in private.", "label": 1, "match_id": 73, "predicate": "competed against"}
+{"s1": "Earlier this year, Cooper wrote to Evans in private.", "s2": "Earlier this year, Evans wrote to Cooper in private.", "label": 0, "match_id": 73, "predicate": "wrote to"}
+{"s1": "Davies played against Jackson at the conference in 1995.", "s2": "Jackson played against Davies at the conference in 1995.", "label": 1, "match_id": 74, "predicate": "played against"}
+{"s1": "Davies voted for Jackson at the conference in 1995.", "s2": "Jackson voted for Davies at the conference in 1995.", "label": 0, "match_id": 74, "predicate": "voted for"}
+{"s1": "During 2002, Evans worked with Kelly in Paris.", "s2": "During 2002, Kelly worked with Evans in Paris.", "label": 1, "match_id": 75, "predicate": "worked with"}
+{"s1": "During 2002, Evans worked for Kelly in Paris.", "s2": "During 2002, Kelly worked for Evans in Paris.", "label": 0, "match_id": 75, "predicate": "worked for"}
+{"s1": "The report says Phillips married Smith in Chicago.", "s2": "The report says Smith married Phillips in Chicago.", "label": 1, "match_id": 76, "predicate": "married"}
+{"s1": "The report says Phillips hired Smith in Chicago.", "s2": "The report says Smith hired Phillips in Chicago.", "label": 0, "match_id": 76, "predicate": "hired"}
+{"s1": "Last week, Cohen worked with Walker in Chicago.", "s2": "Last week, Walker worked with Cohen in Chicago.", "label": 1, "match_id": 77, "predicate": "worked with"}
+{"s1": "Last week, Cohen worked for Walker in Chicago.", "s2": "Last week, Walker worked for Cohen in Chicago.", "label": 0, "match_id": 77, "predicate": "worked for"}
+{"s1": "Robinson married Martin at the conference in 1996.", "s2": "Martin married Robinson at the conference in 1996.", "label": 1, "match_id": 78, "predicate": "married"}
+{"s1": "Robinson hired Martin at the conference in 1996.", "s2": "Martin hired Robinson at the conference in 1996.", "label": 0, "match_id": 78, "predicate": "hired"}
+{"s1": "Turner worked with Miller at the conference in 2019.", "s2": "Miller worked with Turner at the conference in 2019.", "label": 1, "match_id": 79, "predicate": "worked with"}
+{"s1": "Turner worked for Miller at the conference in 2019.", "s2": "Miller worked for Turner at the conference in 2019.", "label": 0, "match_id": 79, "predicate": "worked for"}
+{"s1": "The report says Garcia competed against Thompson in Vienna.", "s2": "The report says Thompson competed against Garcia in Vienna.", "label": 1, "match_id": 80, "predicate": "competed against"}
+{"s1": "The report says Garcia wrote to Thompson in Vienna.", "s2": "The report says Thompson wrote to Garcia in Vienna.", "label": 0, "match_id": 80, "predicate": "wrote to"}
+{"s1": "During 1995, Taylor worked with Smith in Tokyo.", "s2": "During 1995, Smith worked with Taylor in Tokyo.", "label": 1, "match_id": 81, "predicate": "worked with"}
+{"s1": "During 1995, Taylor worked for Smith in Tokyo.", "s2": "During 1995, Smith worked for Taylor in Tokyo.", "label": 0, "match_id": 81, "predicate": "worked for"}
+{"s1": "Earlier this year, Garcia fought Parker in private.", "s2": "Earlier this year, Parker fought Garcia in private.", "label": 1, "match_id": 82, "predicate": "fought"}
+{"s1": "Earlier this year, Garcia trained Parker in private.", "s2": "Earlier this year, Parker trained Garcia in private.", "label": 0, "match_id": 82, "predicate": "trained"}
+{"s1": "During 2007, Davis played against Collins in Chicago.", "s2": "During 2007, Collins played against Davis in Chicago.", "label": 1, "match_id": 83, "predicate": "played against"}
+{"s1": "During 2007, Davis voted for Collins in Chicago.", "s2": "During 2007, Collins voted for Davis in Chicago.", "label": 0, "match_id": 83, "predicate": "voted for"}
+{"s1": "The report says Harris fought Morris in Tokyo.", "s2": "The report says Morris fought Harris in Tokyo.", "label": 1, "match_id": 84, "predicate": "fought"}
+{"s1": "The report says Harris trained Morris in Tokyo.", "s2": "The report says Morris trained Harris in Tokyo.", "label": 0, "match_id": 84, "predicate": "trained"}
+{"s1": "Watson played against Wilson at the conference in 1999.", "s2": "Wilson played against Watson at the conference in 1999.", "label": 1, "match_id": 85, "predicate": "played against"}
+{"s1": "Watson voted for Wilson at the conference in 1999.", "s2": "Wilson voted for Watson at the conference in 1999.", "label": 0, "match_id": 85, "predicate": "voted for"}
+{"s1": "During 1996, Mitchell worked with Robinson in Paris.", "s2": "During 1996, Robinson worked with Mitchell in Paris.", "label": 1, "match_id": 86, "predicate": "worked with"}
+{"s1": "During 1996, Mitchell worked for Robinson in Paris.", "s2": "During 1996, Robinson worked for Mitchell in Paris.", "label": 0, "match_id": 86, "predicate": "worked for"}
+{"s1": "Last week, Kelly worked with Lewis in Rome.", "s2": "Last week, Lewis worked with Kelly in Rome.", "label": 1, "match_id": 87, "predicate": "worked with"}
+{"s1": "Last week, Kelly worked for Lewis in Rome.", "s2": "Last week, Lewis worked for Kelly in Rome.", "label": 0, "match_id": 87, "predicate": "worked for"}
+{"s1": "During 2003, Thompson competed against Robinson in Boston.", "s2": "During 2003, Robinson competed against Thompson in Boston.", "label": 1, "match_id": 88, "predicate": "competed against"}
+{"s1": "During 2003, Thompson wrote to Robinson in Boston.", "s2": "During 2003, Robinson wrote to Thompson in Boston.", "label": 0, "match_id": 88, "predicate": "wrote to"}
+{"s1": "During 2012, Harrison worked with Morris in Vienna.", "s2": "During 2012, Morris worked with Harrison in Vienna.", "label": 1, "match_id": 89, "predicate": "worked with"}
+{"s1": "During 2012, Harrison worked for Morris in Vienna.", "s2": "During 2012, Morris worked for Harrison in Vienna.", "label": 0, "match_id": 89, "predicate": "worked for"}
+{"s1": "Turner met Edwards at the conference in 2006.", "s2": "Edwards met Turner at the conference in 2006.", "label": 1, "match_id": 90, "predicate": "met"}
+{"s1": "Turner defeated Edwards at the conference in 2006.", "s2": "Edwards defeated Turner at the conference in 2006.", "label": 0, "match_id": 90, "predicate": "defeated"}
+{"s1": "During 2010, Morgan argued with Evans in Rome.", "s2": "During 2010, Evans argued with Morgan in Rome.", "label": 1, "match_id": 91, "predicate": "argued with"}
+{"s1": "During 2010, Morgan reported to Evans in Rome.", "s2": "During 2010, Evans reported to Morgan in Rome.", "label": 0, "match_id": 91, "predicate": "reported to"}
+{"s1": "Earlier this year, Lewis fought Garcia in private.", "s2": "Earlier this year, Garcia fought Lewis in private.", "label": 1, "match_id": 92, "predicate": "fought"}
+{"s1": "Earlier this year, Lewis trained Garcia in private.", "s2": "Earlier this year, Garcia trained Lewis in private.", "label": 0, "match_id": 92, "predicate": "trained"}
+{"s1": "During 2007, Evans worked with Wright in Toronto.", "s2": "During 2007, Wright worked with Evans in Toronto.", "label": 1, "match_id": 93, "predicate": "worked with"}
+{"s1": "During 2007, Evans worked for Wright in Toronto.", "s2": "During 2007, Wright worked for Evans in Toronto.", "label": 0, "match_id": 93, "predicate": "worked for"}
+{"s1": "During 2004, Jones played against Turner in Sydney.", "s2": "During 2004, Turner played against Jones in Sydney.", "label": 1, "match_id": 94, "predicate": "played against"}
+{"s1": "During 2004, Jones voted for Turner in Sydney.", "s2": "During 2004, Turner voted for Jones in Sydney.", "label": 0, "match_id": 94, "predicate": "voted for"}
+{"s1": "Campbell married Miller at the conference in 2019.", "s2": "Miller married Campbell at the conference in 2019.", "label": 1, "match_id": 95, "predicate": "married"}
+{"s1": "Campbell hired Miller at the conference in 2019.", "s2": "Miller hired Campbell at the conference in 2019.", "label": 0, "match_id": 95, "predicate": "hired"}
+{"s1": "Earlier this year, Cooper played against Davis in private.", "s2": "Earlier this year, Davis played against Cooper in private.", "label": 1, "match_id": 96, "predicate": "played against"}
+{"s1": "Earlier this year, Cooper voted for Davis in private.", "s2": "Earlier this year, Davis voted for Cooper in private.", "label": 0, "match_id": 96, "predicate": "voted for"}
+{"s1": "Earlier this year, Taylor divorced Garcia in private.", "s2": "Earlier this year, Garcia divorced Taylor in private.", "label": 1, "match_id": 97, "predicate": "divorced"}
+{"s1": "Earlier this year, Taylor sued Garcia in private.", "s2": "Earlier this year, Garcia sued Taylor in private.", "label": 0, "match_id": 97, "predicate": "sued"}
+{"s1": "Earlier this year, Miller divorced Garcia in private.", "s2": "Earlier this year, Garcia divorced Miller in private.", "label": 1, "match_id": 98, "predicate": "divorced"}
+{"s1": "Earlier this year, Miller sued Garcia in private.", "s2": "Earlier this year, Garcia sued Miller in private.", "label": 0, "match_id": 98, "predicate": "sued"}
+{"s1": "Earlier this year, Evans fought Jones in private.", "s2": "Earlier this year, Jones fought Evans in private.", "label": 1, "match_id": 99, "predicate": "fought"}
+{"s1": "Earlier this year, Evans trained Jones in private.", "s2": "Earlier this year, Jones trained Evans in private.", "label": 0, "match_id": 99, "predicate": "trained"}
+{"s1": "The report says Morgan married Anderson in London.", "s2": "The report says Anderson married Morgan in London.", "label": 1, "match_id": 100, "predicate": "married"}
+{"s1": "The report says Morgan hired Anderson in London.", "s2": "The report says Anderson hired Morgan in London.", "label": 0, "match_id": 100, "predicate": "hired"}
+{"s1": "During 1995, Davis fought Martin in Boston.", "s2": "During 1995, Martin fought Davis in Boston.", "label": 1, "match_id": 101, "predicate": "fought"}
+{"s1": "During 1995, Davis trained Martin in Boston.", "s2": "During 1995, Martin trained Davis in Boston.", "label": 0, "match_id": 101, "predicate": "trained"}
+{"s1": "During 2018, Miller married Davies in Tokyo.", "s2": "During 2018, Davies married Miller in Tokyo.", "label": 1, "match_id": 102, "predicate": "married"}
+{"s1": "During 2018, Miller hired Davies in Tokyo.", "s2": "During 2018, Davies hired Miller in Tokyo.", "label": 0, "match_id": 102, "predicate": "hired"}
+{"s1": "Last week, Davies worked with Martin in Tokyo.", "s2": "Last week, Martin worked with Davies in Tokyo.", "label": 1, "match_id": 103, "predicate": "worked with"}
+{"s1": "Last week, Davies worked for Martin in Tokyo.", "s2": "Last week, Martin worked for Davies in Tokyo.", "label": 0, "match_id": 103, "predicate": "worked for"}
+{"s1": "Phillips fought Davis at the conference in 2007.", "s2": "Davis fought Phillips at the conference in 2007.", "label": 1, "match_id": 104, "predicate": "fought"}
+{"s1": "Phillips trained Davis at the conference in 2007.", "s2": "Davis trained Phillips at the conference in 2007.", "label": 0, "match_id": 104, "predicate": "trained"}
+{"s1": "Last week, Taylor worked with Cohen in Sydney.", "s2": "Last week, Cohen worked with Taylor in Sydney.", "label": 1, "match_id": 105, "predicate": "worked with"}
+{"s1": "Last week, Taylor worked for Cohen in Sydney.", "s2": "Last week, Cohen worked for Taylor in Sydney.", "label": 0, "match_id": 105, "predicate": "worked for"}
+{"s1": "Kelly married Wright at the conference in 2005.", "s2": "Wright married Kelly at the conference in 2005.", "label": 1, "match_id": 106, "predicate": "married"}
+{"s1": "Kelly hired Wright at the conference in 2005.", "s2": "Wright hired Kelly at the conference in 2005.", "label": 0, "match_id": 106, "predicate": "hired"}
+{"s1": "The report says Smith divorced Parker in Boston.", "s2": "The report says Parker divorced Smith in Boston.", "label": 1, "match_id": 107, "predicate": "divorced"}
+{"s1": "The report says Smith sued Parker in Boston.", "s2": "The report says Parker sued Smith in Boston.", "label": 0, "match_id": 107, "predicate": "sued"}
+{"s1": "The report says Edwards married Davis in Tokyo.", "s2": "The report says Davis married Edwards in Tokyo.", "label": 1, "match_id": 108, "predicate": "married"}
+{"s1": "The report says Edwards hired Davis in Tokyo.", "s2": "The report says Davis hired Edwards in Tokyo.", "label": 0, "match_id": 108, "predicate": "hired"}
+{"s1": "Earlier this year, Phillips worked with Roberts in private.", "s2": "Earlier this year, Roberts worked with Phillips in private.", "label": 1, "match_id": 109, "predicate": "worked with"}
+{"s1": "Earlier this year, Phillips worked for Roberts in private.", "s2": "Earlier this year, Roberts worked for Phillips in private.", "label": 0, "match_id": 109, "predicate": "worked for"}
+{"s1": "The report says Parker married Jones in Boston.", "s2": "The report says Jones married Parker in Boston.", "label": 1, "match_id": 110, "predicate": "married"}
+{"s1": "The report says Parker hired Jones in Boston.", "s2": "The report says Jones hired Parker in Boston.", "label": 0, "match_id": 110, "predicate": "hired"}
+{"s1": "During 2001, Jackson competed against Morgan in Madrid.", "s2": "During 2001, Morgan competed against Jackson in Madrid.", "label": 1, "match_id": 111, "predicate": "competed against"}
+{"s1": "During 2001, Jackson wrote to Morgan in Madrid.", "s2": "During 2001, Morgan wrote to Jackson in Madrid.", "label": 0, "match_id": 111, "predicate": "wrote to"}
+{"s1": "During 2003, Wright married Miller in Vienna.", "s2": "During 2003, Miller married Wright in Vienna.", "label": 1, "match_id": 112, "predicate": "married"}
+{"s1": "During 2003, Wright hired Miller in Vienna.", "s2": "During 2003, Miller hired Wright in Vienna.", "label": 0, "match_id": 112, "predicate": "hired"}
+{"s1": "Roberts worked with Harrison at the conference in 2002.", "s2": "Harrison worked with Roberts at the conference in 2002.", "label": 1, "match_id": 113, "predicate": "worked with"}
+{"s1": "Roberts worked for Harrison at the conference in 2002.", "s2": "Harrison worked for Roberts at the conference in 2002.", "label": 0, "match_id": 113, "predicate": "worked for"}
+{"s1": "Last week, Jones played against Robinson in Boston.", "s2": "Last week, Robinson played against Jones in Boston.", "label": 1, "match_id": 114, "predicate": "played against"}
+{"s1": "Last week, Jones voted for Robinson in Boston.", "s2": "Last week, Robinson voted for Jones in Boston.", "label": 0, "match_id": 114, "predicate": "voted for"}
+{"s1": "Last week, Turner played against Wright in Vienna.", "s2": "Last week, Wright played against Turner in Vienna.", "label": 1, "match_id": 115, "predicate": "played against"}
+{"s1": "Last week, Turner voted for Wright in Vienna.", "s2": "Last week, Wright voted for Turner in Vienna.", "label": 0, "match_id": 115, "predicate": "voted for"}
+{"s1": "Last week, Roberts argued with Morris in Vienna.", "s2": "Last week, Morris argued with Roberts in Vienna.", "label": 1, "match_id": 116, "predicate": "argued with"}
+{"s1": "Last week, Roberts reported to Morris in Vienna.", "s2": "Last week, Morris reported to Roberts in Vienna.", "label": 0, "match_id": 116, "predicate": "reported to"}
+{"s1": "The report says Roberts played against Hughes in London.", "s2": "The report says Hughes played against Roberts in London.", "label": 1, "match_id": 117, "predicate": "played against"}
+{"s1": "The report says Roberts voted for Hughes in London.", "s2": "The report says Hughes voted for Roberts in London.", "label": 0, "match_id": 117, "predicate": "voted for"}
+{"s1": "The report says Harrison worked with Davies in Dublin.", "s2": "The report says Davies worked with Harrison in Dublin.", "label": 1, "match_id": 118, "predicate": "worked with"}
+{"s1": "The report says Harrison worked for Davies in Dublin.", "s2": "The report says Davies worked for Harrison in Dublin.", "label": 0, "match_id": 118, "predicate": "worked for"}
+{"s1": "Earlier this year, Harrison married Mitchell in private.", "s2": "Earlier this year, Mitchell married Harrison in private.", "label": 1, "match_id": 119, "predicate": "married"}
+{"s1": "Earlier this year, Harrison hired Mitchell in private.", "s2": "Earlier this year, Mitchell hired Harrison in private.", "label": 0, "match_id": 119, "predicate": "hired"}
+{"s1": "During 2016, Johnson worked with Wilson in Rome.", "s2": "During 2016, Wilson worked with Johnson in Rome.", "label": 1, "match_id": 120, "predicate": "worked with"}
+{"s1": "During 2016, Johnson worked for Wilson in Rome.", "s2": "During 2016, Wilson worked for Johnson in Rome.", "label": 0, "match_id": 120, "predicate": "worked for"}
+{"s1": "Jackson fought Mitchell at the conference in 2011.", "s2": "Mitchell fought Jackson at the conference in 2011.", "label": 1, "match_id": 121, "predicate": "fought"}
+{"s1": "Jackson trained Mitchell at the conference in 2011.", "s2": "Mitchell trained Jackson at the conference in 2011.", "label": 0, "match_id": 121, "predicate": "trained"}
+{"s1": "Mitchell argued with Jones at the conference in 2020.", "s2": "Jones argued with Mitchell at the conference in 2020.", "label": 1, "match_id": 122, "predicate": "argued with"}
+{"s1": "Mitchell reported to Jones at the conference in 2020.", "s2": "Jones reported to Mitchell at the conference in 2020.", "label": 0, "match_id": 122, "predicate": "reported to"}
+{"s1": "Last week, Evans fought Wilson in Dublin.", "s2": "Last week, Wilson fought Evans in Dublin.", "label": 1, "match_id": 123, "predicate": "fought"}
+{"s1": "Last week, Evans trained Wilson in Dublin.", "s2": "Last week, Wilson trained Evans in Dublin.", "label": 0, "match_id": 123, "predicate": "trained"}
+{"s1": "Last week, Clarke divorced Davis in Chicago.", "s2": "Last week, Davis divorced Clarke in Chicago.", "label": 1, "match_id": 124, "predicate": "divorced"}
+{"s1": "Last week, Clarke sued Davis in Chicago.", "s2": "Last week, Davis sued Clarke in Chicago.", "label": 0, "match_id": 124, "predicate": "sued"}
+{"s1": "Parker divorced Allen at the conference in 2005.", "s2": "Allen divorced Parker at the conference in 2005.", "label": 1, "match_id": 125, "predicate": "divorced"}
+{"s1": "Parker sued Allen at the conference in 2005.", "s2": "Allen sued Parker at the conference in 2005.", "label": 0, "match_id": 125, "predicate": "sued"}
+{"s1": "The report says Martin worked with Patel in Madrid.", "s2": "The report says Patel worked with Martin in Madrid.", "label": 1, "match_id": 126, "predicate": "worked with"}
+{"s1": "The report says Martin worked for Patel in Madrid.", "s2": "The report says Patel worked for Martin in Madrid.", "label": 0, "match_id": 126, "predicate": "worked for"}
+{"s1": "The report says Stewart competed against Patel in Berlin.", "s2": "The report says Patel competed against Stewart in Berlin.", "label": 1, "match_id": 127, "predicate": "competed against"}
+{"s1": "The report says Stewart wrote to Patel in Berlin.", "s2": "The report says Patel wrote to Stewart in Berlin.", "label": 0, "match_id": 127, "predicate": "wrote to"}
+{"s1": "Edwards married Garcia at the conference in 2020.", "s2": "Garcia married Edwards at the conference in 2020.", "label": 1, "match_id": 128, "predicate": "married"}
+{"s1": "Edwards hired Garcia at the conference in 2020.", "s2": "Garcia hired Edwards at the conference in 2020.", "label": 0, "match_id": 128, "predicate": "hired"}
+{"s1": "Earlier this year, Anderson fought Morris in private.", "s2": "Earlier this year, Morris fought Anderson in private.", "label": 1, "match_id": 129, "predicate": "fought"}
+{"s1": "Earlier this year, Anderson trained Morris in private.", "s2": "Earlier this year, Morris trained Anderson in private.", "label": 0, "match_id": 129, "predicate": "trained"}
+{"s1": "Last week, Stewart divorced Hughes in Paris.", "s2": "Last week, Hughes divorced Stewart in Paris.", "label": 1, "match_id": 130, "predicate": "divorced"}
+{"s1": "Last week, Stewart sued Hughes in Paris.", "s2": "Last week, Hughes sued Stewart in Paris.", "label": 0, "match_id": 130, "predicate": "sued"}
+{"s1": "Stewart argued with Evans at the conference in 2005.", "s2": "Evans argued with Stewart at the conference in 2005.", "label": 1, "match_id": 131, "predicate": "argued with"}
+{"s1": "Stewart reported to Evans at the conference in 2005.", "s2": "Evans reported to Stewart at the conference in 2005.", "label": 0, "match_id": 131, "predicate": "reported to"}
+{"s1": "The report says Murphy worked with Hughes in Tokyo.", "s2": "The report says Hughes worked with Murphy in Tokyo.", "label": 1, "match_id": 132, "predicate": "worked with"}
+{"s1": "The report says Murphy worked for Hughes in Tokyo.", "s2": "The report says Hughes worked for Murphy in Tokyo.", "label": 0, "match_id": 132, "predicate": "worked for"}
+{"s1": "Last week, Allen played against Miller in Dublin.", "s2": "Last week, Miller played against Allen in Dublin.", "label": 1, "match_id": 133, "predicate": "played against"}
+{"s1": "Last week, Allen voted for Miller in Dublin.", "s2": "Last week, Miller voted for Allen in Dublin.", "label": 0, "match_id": 133, "predicate": "voted for"}
+{"s1": "The report says Wilson argued with Davis in Toronto.", "s2": "The report says Davis argued with Wilson in Toronto.", "label": 1, "match_id": 134, "predicate": "argued with"}
+{"s1": "The report says Wilson reported to Davis in Toronto.", "s2": "The report says Davis reported to Wilson in Toronto.", "label": 0, "match_id": 134, "predicate": "reported to"}
+{"s1": "The report says Garcia divorced Miller in Madrid.", "s2": "The report says Miller divorced Garcia in Madrid.", "label": 1, "match_id": 135, "predicate": "divorced"}
+{"s1": "The report says Garcia sued Miller in Madrid.", "s2": "The report says Miller sued Garcia in Madrid.", "label": 0, "match_id": 135, "predicate": "sued"}
+{"s1": "During 2007, Lewis worked with Morgan in Sydney.", "s2": "During 2007, Morgan worked with Lewis in Sydney.", "label": 1, "match_id": 136, "predicate": "worked with"}
+{"s1": "During 2007, Lewis worked for Morgan in Sydney.", "s2": "During 2007, Morgan worked for Lewis in Sydney.", "label": 0, "match_id": 136, "predicate": "worked for"}
+{"s1": "Last week, Turner played against Jones in London.", "s2": "Last week, Jones played against Turner in London.", "label": 1, "match_id": 137, "predicate": "played against"}
+{"s1": "Last week, Turner voted for Jones in London.", "s2": "Last week, Jones voted for Turner in London.", "label": 0, "match_id": 137, "predicate": "voted for"}
+{"s1": "Last week, Campbell competed against Davis in Paris.", "s2": "Last week, Davis competed against Campbell in Paris.", "label": 1, "match_id": 138, "predicate": "competed against"}
+{"s1": "Last week, Campbell wrote to Davis in Paris.", "s2": "Last week, Davis wrote to Campbell in Paris.", "label": 0, "match_id": 138, "predicate": "wrote to"}
+{"s1": "Last week, Anderson competed against Lewis in Paris.", "s2": "Last week, Lewis competed against Anderson in Paris.", "label": 1, "match_id": 139, "predicate": "competed against"}
+{"s1": "Last week, Anderson wrote to Lewis in Paris.", "s2": "Last week, Lewis wrote to Anderson in Paris.", "label": 0, "match_id": 139, "predicate": "wrote to"}
+{"s1": "Wright divorced Miller at the conference in 2016.", "s2": "Miller divorced Wright at the conference in 2016.", "label": 1, "match_id": 140, "predicate": "divorced"}
+{"s1": "Wright sued Miller at the conference in 2016.", "s2": "Miller sued Wright at the conference in 2016.", "label": 0, "match_id": 140, "predicate": "sued"}
+{"s1": "Last week, Stewart married Taylor in Berlin.", "s2": "Last week, Taylor married Stewart in Berlin.", "label": 1, "match_id": 141, "predicate": "married"}
+{"s1": "Last week, Stewart hired Taylor in Berlin.", "s2": "Last week, Taylor hired Stewart in Berlin.", "label": 0, "match_id": 141, "predicate": "hired"}
+{"s1": "Turner met Walker at the conference in 2015.", "s2": "Walker met Turner at the conference in 2015.", "label": 1, "match_id": 142, "predicate": "met"}
+{"s1": "Turner defeated Walker at the conference in 2015.", "s2": "Walker defeated Turner at the conference in 2015.", "label": 0, "match_id": 142, "predicate": "defeated"}
+{"s1": "Earlier this year, Roberts played against Johnson in private.", "s2": "Earlier this year, Johnson played against Roberts in private.", "label": 1, "match_id": 143, "predicate": "played against"}
+{"s1": "Earlier this year, Roberts voted for Johnson in private.", "s2": "Earlier this year, Johnson voted for Roberts in private.", "label": 0, "match_id": 143, "predicate": "voted for"}
+{"s1": "Earlier this year, Morgan fought Martin in private.", "s2": "Earlier this year, Martin fought Morgan in private.", "label": 1, "match_id": 144, "predicate": "fought"}
+{"s1": "Earlier this year, Morgan trained Martin in private.", "s2": "Earlier this year, Martin trained Morgan in private.", "label": 0, "match_id": 144, "predicate": "trained"}
+{"s1": "During 2009, Collins met Turner in Rome.", "s2": "During 2009, Turner met Collins in Rome.", "label": 1, "match_id": 145, "predicate": "met"}
+{"s1": "During 2009, Collins defeated Turner in Rome.", "s2": "During 2009, Turner defeated Collins in Rome.", "label": 0, "match_id": 145, "predicate": "defeated"}
+{"s1": "The report says Parker fought Miller in Chicago.", "s2": "The report says Miller fought Parker in Chicago.", "label": 1, "match_id": 146, "predicate": "fought"}
+{"s1": "The report says Parker trained Miller in Chicago.", "s2": "The report says Miller trained Parker in Chicago.", "label": 0, "match_id": 146, "predicate": "trained"}
+{"s1": "Allen met Turner at the conference in 1996.", "s2": "Turner met Allen at the conference in 1996.", "label": 1, "match_id": 147, "predicate": "met"}
+{"s1": "Allen defeated Turner at the conference in 1996.", "s2": "Turner defeated Allen at the conference in 1996.", "label": 0, "match_id": 147, "predicate": "defeated"}
+{"s1": "Allen competed against Evans at the conference in 2003.", "s2": "Evans competed against Allen at the conference in 2003.", "label": 1, "match_id": 148, "predicate": "competed against"}
+{"s1": "Allen wrote to Evans at the conference in 2003.", "s2": "Evans wrote to Allen at the conference in 2003.", "label": 0, "match_id": 148, "predicate": "wrote to"}
+{"s1": "Last week, Harris argued with Davis in Tokyo.", "s2": "Last week, Davis argued with Harris in Tokyo.", "label": 1, "match_id": 149, "predicate": "argued with"}
+{"s1": "Last week, Harris reported to Davis in Tokyo.", "s2": "Last week, Davis reported to Harris in Tokyo.", "label": 0, "match_id": 149, "predicate": "reported to"}
+{"s1": "The report says Harrison played against Patel in London.", "s2": "The report says Patel played against Harrison in London.", "label": 1, "match_id": 150, "predicate": "played against"}
+{"s1": "The report says Harrison voted for Patel in London.", "s2": "The report says Patel voted for Harrison in London.", "label": 0, "match_id": 150, "predicate": "voted for"}
+{"s1": "The report says Edwards married Davis in Rome.", "s2": "The report says Davis married Edwards in Rome.", "label": 1, "match_id": 151, "predicate": "married"}
+{"s1": "The report says Edwards hired Davis in Rome.", "s2": "The report says Davis hired Edwards in Rome.", "label": 0, "match_id": 151, "predicate": "hired"}
+{"s1": "Phillips fought Harris at the conference in 2003.", "s2": "Harris fought Phillips at the conference in 2003.", "label": 1, "match_id": 152, "predicate": "fought"}
+{"s1": "Phillips trained Harris at the conference in 2003.", "s2": "Harris trained Phillips at the conference in 2003.", "label": 0, "match_id": 152, "predicate": "trained"}
+{"s1": "During 2002, Cohen competed against Thompson in Boston.", "s2": "During 2002, Thompson competed against Cohen in Boston.", "label": 1, "match_id": 153, "predicate": "competed against"}
+{"s1": "During 2002, Cohen wrote to Thompson in Boston.", "s2": "During 2002, Thompson wrote to Cohen in Boston.", "label": 0, "match_id": 153, "predicate": "wrote to"}
+{"s1": "Last week, Kelly met Wright in London.", "s2": "Last week, Wright met Kelly in London.", "label": 1, "match_id": 154, "predicate": "met"}
+{"s1": "Last week, Kelly defeated Wright in London.", "s2": "Last week, Wright defeated Kelly in London.", "label": 0, "match_id": 154, "predicate": "defeated"}
+{"s1": "Kelly met Wright at the conference in 2008.", "s2": "Wright met Kelly at the conference in 2008.", "label": 1, "match_id": 155, "predicate": "met"}
+{"s1": "Kelly defeated Wright at the conference in 2008.", "s2": "Wright defeated Kelly at the conference in 2008.", "label": 0, "match_id": 155, "predicate": "defeated"}
+{"s1": "During 2017, Patel divorced Anderson in Vienna.", "s2": "During 2017, Anderson divorced Patel in Vienna.", "label": 1, "match_id": 156, "predicate": "divorced"}
+{"s1": "During 2017, Patel sued Anderson in Vienna.", "s2": "During 2017, Anderson sued Patel in Vienna.", "label": 0, "match_id": 156, "predicate": "sued"}
+{"s1": "During 2001, Robinson married Morris in Berlin.", "s2": "During 2001, Morris married Robinson in Berlin.", "label": 1, "match_id": 157, "predicate": "married"}
+{"s1": "During 2001, Robinson hired Morris in Berlin.", "s2": "During 2001, Morris hired Robinson in Berlin.", "label": 0, "match_id": 157, "predicate": "hired"}
+{"s1": "Earlier this year, Taylor competed against Turner in private.", "s2": "Earlier this year, Turner competed against Taylor in private.", "label": 1, "match_id": 158, "predicate": "competed against"}
+{"s1": "Earlier this year, Taylor wrote to Turner in private.", "s2": "Earlier this year, Turner wrote to Taylor in private.", "label": 0, "match_id": 158, "predicate": "wrote to"}
+{"s1": "Last week, Morris argued with Anderson in Paris.", "s2": "Last week, Anderson argued with Morris in Paris.", "label": 1, "match_id": 159, "predicate": "argued with"}
+{"s1": "Last week, Morris reported to Anderson in Paris.", "s2": "Last week, Anderson reported to Morris in Paris.", "label": 0, "match_id": 159, "predicate": "reported to"}
+{"s1": "During 2006, Jackson married Evans in Dublin.", "s2": "During 2006, Evans married Jackson in Dublin.", "label": 1, "match_id": 160, "predicate": "married"}
+{"s1": "During 2006, Jackson hired Evans in Dublin.", "s2": "During 2006, Evans hired Jackson in Dublin.", "label": 0, "match_id": 160, "predicate": "hired"}
+{"s1": "During 2019, Morgan fought Watson in Rome.", "s2": "During 2019, Watson fought Morgan in Rome.", "label": 1, "match_id": 161, "predicate": "fought"}
+{"s1": "During 2019, Morgan trained Watson in Rome.", "s2": "During 2019, Watson trained Morgan in Rome.", "label": 0, "match_id": 161, "predicate": "trained"}
+{"s1": "Last week, Wilson married Parker in Vienna.", "s2": "Last week, Parker married Wilson in Vienna.", "label": 1, "match_id": 162, "predicate": "married"}
+{"s1": "Last week, Wilson hired Parker in Vienna.", "s2": "Last week, Parker hired Wilson in Vienna.", "label": 0, "match_id": 162, "predicate": "hired"}
+{"s1": "Earlier this year, Hughes competed against Cooper in private.", "s2": "Earlier this year, Cooper competed against Hughes in private.", "label": 1, "match_id": 163, "predicate": "competed against"}
+{"s1": "Earlier this year, Hughes wrote to Cooper in private.", "s2": "Earlier this year, Cooper wrote to Hughes in private.", "label": 0, "match_id": 163, "predicate": "wrote to"}
+{"s1": "Last week, Allen met Lewis in Sydney.", "s2": "Last week, Lewis met Allen in Sydney.", "label": 1, "match_id": 164, "predicate": "met"}
+{"s1": "Last week, Allen defeated Lewis in Sydney.", "s2": "Last week, Lewis defeated Allen in Sydney.", "label": 0, "match_id": 164, "predicate": "defeated"}
+{"s1": "Last week, Morgan met Taylor in Paris.", "s2": "Last week, Taylor met Morgan in Paris.", "label": 1, "match_id": 165, "predicate": "met"}
+{"s1": "Last week, Morgan defeated Taylor in Paris.", "s2": "Last week, Taylor defeated Morgan in Paris.", "label": 0, "match_id": 165, "predicate": "defeated"}
+{"s1": "During 2014, Hughes worked with Davies in Vienna.", "s2": "During 2014, Davies worked with Hughes in Vienna.", "label": 1, "match_id": 166, "predicate": "worked with"}
+{"s1": "During 2014, Hughes worked for Davies in Vienna.", "s2": "During 2014, Davies worked for Hughes in Vienna.", "label": 0, "match_id": 166, "predicate": "worked for"}
+{"s1": "The report says Morris worked with Cohen in Rome.", "s2": "The report says Cohen worked with Morris in Rome.", "label": 1, "match_id": 167, "predicate": "worked with"}
+{"s1": "The report says Morris worked for Cohen in Rome.", "s2": "The report says Cohen worked for Morris in Rome.", "label": 0, "match_id": 167, "predicate": "worked for"}
+{"s1": "The report says Turner worked with Smith in Toronto.", "s2": "The report says Smith worked with Turner in Toronto.", "label": 1, "match_id": 168, "predicate": "worked with"}
+{"s1": "The report says Turner worked for Smith in Toronto.", "s2": "The report says Smith worked for Turner in Toronto.", "label": 0, "match_id": 168, "predicate": "worked for"}
+{"s1": "During 2010, Harris met Johnson in Tokyo.", "s2": "During 2010, Johnson met Harris in Tokyo.", "label": 1, "match_id": 169, "predicate": "met"}
+{"s1": "During 2010, Harris defeated Johnson in Tokyo.", "s2": "During 2010, Johnson defeated Harris in Tokyo.", "label": 0, "match_id": 169, "predicate": "defeated"}
+{"s1": "Last week, Martin played against Mitchell in Berlin.", "s2": "Last week, Mitchell played against Martin in Berlin.", "label": 1, "match_id": 170, "predicate": "played against"}
+{"s1": "Last week, Martin voted for Mitchell in Berlin.", "s2": "Last week, Mitchell voted for Martin in Berlin.", "label": 0, "match_id": 170, "predicate": "voted for"}
+{"s1": "Last week, Smith divorced Turner in Berlin.", "s2": "Last week, Turner divorced Smith in Berlin.", "label": 1, "match_id": 171, "predicate": "divorced"}
+{"s1": "Last week, Smith sued Turner in Berlin.", "s2": "Last week, Turner sued Smith in Berlin.", "label": 0, "match_id": 171, "predicate": "sued"}
+{"s1": "Earlier this year, Cooper fought Phillips in private.", "s2": "Earlier this year, Phillips fought Cooper in private.", "label": 1, "match_id": 172, "predicate": "fought"}
+{"s1": "Earlier this year, Cooper trained Phillips in private.", "s2": "Earlier this year, Phillips trained Cooper in private.", "label": 0, "match_id": 172, "predicate": "trained"}
+{"s1": "During 2002, Patel fought Robinson in Dublin.", "s2": "During 2002, Robinson fought Patel in Dublin.", "label": 1, "match_id": 173, "predicate": "fought"}
+{"s1": "During 2002, Patel trained Robinson in Dublin.", "s2": "During 2002, Robinson trained Patel in Dublin.", "label": 0, "match_id": 173, "predicate": "trained"}
+{"s1": "During 2012, Parker met Stewart in Vienna.", "s2": "During 2012, Stewart met Parker in Vienna.", "label": 1, "match_id": 174, "predicate": "met"}
+{"s1": "During 2012, Parker defeated Stewart in Vienna.", "s2": "During 2012, Stewart defeated Parker in Vienna.", "label": 0, "match_id": 174, "predicate": "defeated"}
+{"s1": "Johnson played against Davies at the conference in 2003.", "s2": "Davies played against Johnson at the conference in 2003.", "label": 1, "match_id": 175, "predicate": "played against"}
+{"s1": "Johnson voted for Davies at the conference in 2003.", "s2": "Davies voted for Johnson at the conference in 2003.", "label": 0, "match_id": 175, "predicate": "voted for"}
+{"s1": "During 2010, Johnson fought Allen in Tokyo.", "s2": "During 2010, Allen fought Johnson in Tokyo.", "label": 1, "match_id": 176, "predicate": "fought"}
+{"s1": "During 2010, Johnson trained Allen in Tokyo.", "s2": "During 2010, Allen trained Johnson in Tokyo.", "label": 0, "match_id": 176, "predicate": "trained"}
+{"s1": "Last week, Harris divorced Walker in Boston.", "s2": "Last week, Walker divorced Harris in Boston.", "label": 1, "match_id": 177, "predicate": "divorced"}
+{"s1": "Last week, Harris sued Walker in Boston.", "s2": "Last week, Walker sued Harris in Boston.", "label": 0, "match_id": 177, "predicate": "sued"}
+{"s1": "Earlier this year, Collins fought Roberts in private.", "s2": "Earlier this year, Roberts fought Collins in private.", "label": 1, "match_id": 178, "predicate": "fought"}
+{"s1": "Earlier this year, Collins trained Roberts in private.", "s2": "Earlier this year, Roberts trained Collins in private.", "label": 0, "match_id": 178, "predicate": "trained"}
+{"s1": "The report says Murphy worked with Jackson in Rome.", "s2": "The report says Jackson worked with Murphy in Rome.", "label": 1, "match_id": 179, "predicate": "worked with"}
+{"s1": "The report says Murphy worked for Jackson in Rome.", "s2": "The report says Jackson worked for Murphy in Rome.", "label": 0, "match_id": 179, "predicate": "worked for"}
+{"s1": "The report says Anderson fought Lewis in Madrid.", "s2": "The report says Lewis fought Anderson in Madrid.", "label": 1, "match_id": 180, "predicate": "fought"}
+{"s1": "The report says Anderson trained Lewis in Madrid.", "s2": "The report says Lewis trained Anderson in Madrid.", "label": 0, "match_id": 180, "predicate": "trained"}
+{"s1": "Clarke divorced Campbell at the conference in 2001.", "s2": "Campbell divorced Clarke at the conference in 2001.", "label": 1, "match_id": 181, "predicate": "divorced"}
+{"s1": "Clarke sued Campbell at the conference in 2001.", "s2": "Campbell sued Clarke at the conference in 2001.", "label": 0, "match_id": 181, "predicate": "sued"}
+{"s1": "During 2011, Martin played against Lewis in Chicago.", "s2": "During 2011, Lewis played against Martin in Chicago.", "label": 1, "match_id": 182, "predicate": "played against"}
+{"s1": "During 2011, Martin voted for Lewis in Chicago.", "s2": "During 2011, Lewis voted for Martin in Chicago.", "label": 0, "match_id": 182, "predicate": "voted for"}
+{"s1": "Phillips married Taylor at the conference in 1998.", "s2": "Taylor married Phillips at the conference in 1998.", "label": 1, "match_id": 183, "predicate": "married"}
+{"s1": "Phillips hired Taylor at the conference in 1998.", "s2": "Taylor hired Phillips at the conference in 1998.", "label": 0, "match_id": 183, "predicate": "hired"}
+{"s1": "Last week, Anderson fought Harrison in Rome.", "s2": "Last week, Harrison fought Anderson in Rome.", "label": 1, "match_id": 184, "predicate": "fought"}
+{"s1": "Last week, Anderson trained Harrison in Rome.", "s2": "Last week, Harrison trained Anderson in Rome.", "label": 0, "match_id": 184, "predicate": "trained"}
+{"s1": "Wilson married Hughes at the conference in 2014.", "s2": "Hughes married Wilson at the conference in 2014.", "label": 1, "match_id": 185, "predicate": "married"}
+{"s1": "Wilson hired Hughes at the conference in 2014.", "s2": "Hughes hired Wilson at the conference in 2014.", "label": 0, "match_id": 185, "predicate": "hired"}
+{"s1": "Harrison married Garcia at the conference in 2000.", "s2": "Garcia married Harrison at the conference in 2000.", "label": 1, "match_id": 186, "predicate": "married"}
+{"s1": "Harrison hired Garcia at the conference in 2000.", "s2": "Garcia hired Harrison at the conference in 2000.", "label": 0, "match_id": 186, "predicate": "hired"}
+{"s1": "Earlier this year, Smith worked with Johnson in private.", "s2": "Earlier this year, Johnson worked with Smith in private.", "label": 1, "match_id": 187, "predicate": "worked with"}
+{"s1": "Earlier this year, Smith worked for Johnson in private.", "s2": "Earlier this year, Johnson worked for Smith in private.", "label": 0, "match_id": 187, "predicate": "worked for"}
+{"s1": "Earlier this year, Edwards argued with Taylor in private.", "s2": "Earlier this year, Taylor argued with Edwards in private.", "label": 1, "match_id": 188, "predicate": "argued with"}
+{"s1": "Earlier this year, Edwards reported to Taylor in private.", "s2": "Earlier this year, Taylor reported to Edwards in private.", "label": 0, "match_id": 188, "predicate": "reported to"}
+{"s1": "Edwards met Martin at the conference in 1996.", "s2": "Martin met Edwards at the conference in 1996.", "label": 1, "match_id": 189, "predicate": "met"}
+{"s1": "Edwards defeated Martin at the conference in 1996.", "s2": "Martin defeated Edwards at the conference in 1996.", "label": 0, "match_id": 189, "predicate": "defeated"}
+{"s1": "Cooper met Allen at the conference in 2016.", "s2": "Allen met Cooper at the conference in 2016.", "label": 1, "match_id": 190, "predicate": "met"}
+{"s1": "Cooper defeated Allen at the conference in 2016.", "s2": "Allen defeated Cooper at the conference in 2016.", "label": 0, "match_id": 190, "predicate": "defeated"}
+{"s1": "Davies worked with Edwards at the conference in 1996.", "s2": "Edwards worked with Davies at the conference in 1996.", "label": 1, "match_id": 191, "predicate": "worked with"}
+{"s1": "Davies worked for Edwards at the conference in 1996.", "s2": "Edwards worked for Davies at the conference in 1996.", "label": 0, "match_id": 191, "predicate": "worked for"}
+{"s1": "Earlier this year, Davies competed against Allen in private.", "s2": "Earlier this year, Allen competed against Davies in private.", "label": 1, "match_id": 192, "predicate": "competed against"}
+{"s1": "Earlier this year, Davies wrote to Allen in private.", "s2": "Earlier this year, Allen wrote to Davies in private.", "label": 0, "match_id": 192, "predicate": "wrote to"}
+{"s1": "Earlier this year, Collins divorced Evans in private.", "s2": "Earlier this year, Evans divorced Collins in private.", "label": 1, "match_id": 193, "predicate": "divorced"}
+{"s1": "Earlier this year, Collins sued Evans in private.", "s2": "Earlier this year, Evans sued Collins in private.", "label": 0, "match_id": 193, "predicate": "sued"}
+{"s1": "Last week, Allen worked with Clarke in Rome.", "s2": "Last week, Clarke worked with Allen in Rome.", "label": 1, "match_id": 194, "predicate": "worked with"}
+{"s1": "Last week, Allen worked for Clarke in Rome.", "s2": "Last week, Clarke worked for Allen in Rome.", "label": 0, "match_id": 194, "predicate": "worked for"}
+{"s1": "Last week, Turner met Murphy in Dublin.", "s2": "Last week, Murphy met Turner in Dublin.", "label": 1, "match_id": 195, "predicate": "met"}
+{"s1": "Last week, Turner defeated Murphy in Dublin.", "s2": "Last week, Murphy defeated Turner in Dublin.", "label": 0, "match_id": 195, "predicate": "defeated"}
+{"s1": "Last week, Harrison met Hughes in Tokyo.", "s2": "Last week, Hughes met Harrison in Tokyo.", "label": 1, "match_id": 196, "predicate": "met"}
+{"s1": "Last week, Harrison defeated Hughes in Tokyo.", "s2": "Last week, Hughes defeated Harrison in Tokyo.", "label": 0, "match_id": 196, "predicate": "defeated"}
+{"s1": "Last week, Smith fought Mitchell in Dublin.", "s2": "Last week, Mitchell fought Smith in Dublin.", "label": 1, "match_id": 197, "predicate": "fought"}
+{"s1": "Last week, Smith trained Mitchell in Dublin.", "s2": "Last week, Mitchell trained Smith in Dublin.", "label": 0, "match_id": 197, "predicate": "trained"}
+{"s1": "During 2006, Patel married Murphy in Boston.", "s2": "During 2006, Murphy married Patel in Boston.", "label": 1, "match_id": 198, "predicate": "married"}
+{"s1": "During 2006, Patel hired Murphy in Boston.", "s2": "During 2006, Murphy hired Patel in Boston.", "label": 0, "match_id": 198, "predicate": "hired"}
+{"s1": "Smith divorced Wilson at the conference in 2012.", "s2": "Wilson divorced Smith at the conference in 2012.", "label": 1, "match_id": 199, "predicate": "divorced"}
+{"s1": "Smith sued Wilson at the conference in 2012.", "s2": "Wilson sued Smith at the conference in 2012.", "label": 0, "match_id": 199, "predicate": "sued"}
+{"s1": "Last week, Murphy married Cohen in Tokyo.", "s2": "Last week, Cohen married Murphy in Tokyo.", "label": 1, "match_id": 200, "predicate": "married"}
+{"s1": "Last week, Murphy hired Cohen in Tokyo.", "s2": "Last week, Cohen hired Murphy in Tokyo.", "label": 0, "match_id": 200, "predicate": "hired"}
+{"s1": "Earlier this year, Wright divorced Watson in private.", "s2": "Earlier this year, Watson divorced Wright in private.", "label": 1, "match_id": 201, "predicate": "divorced"}
+{"s1": "Earlier this year, Wright sued Watson in private.", "s2": "Earlier this year, Watson sued Wright in private.", "label": 0, "match_id": 201, "predicate": "sued"}
+{"s1": "Earlier this year, Davies divorced Johnson in private.", "s2": "Earlier this year, Johnson divorced Davies in private.", "label": 1, "match_id": 202, "predicate": "divorced"}
+{"s1": "Earlier this year, Davies sued Johnson in private.", "s2": "Earlier this year, Johnson sued Davies in private.", "label": 0, "match_id": 202, "predicate": "sued"}
+{"s1": "Walker worked with Taylor at the conference in 2010.", "s2": "Taylor worked with Walker at the conference in 2010.", "label": 1, "match_id": 203, "predicate": "worked with"}
+{"s1": "Walker worked for Taylor at the conference in 2010.", "s2": "Taylor worked for Walker at the conference in 2010.", "label": 0, "match_id": 203, "predicate": "worked for"}
+{"s1": "During 2017, Evans played against Cohen in Berlin.", "s2": "During 2017, Cohen played against Evans in Berlin.", "label": 1, "match_id": 204, "predicate": "played against"}
+{"s1": "During 2017, Evans voted for Cohen in Berlin.", "s2": "During 2017, Cohen voted for Evans in Berlin.", "label": 0, "match_id": 204, "predicate": "voted for"}
+{"s1": "Cohen played against Hughes at the conference in 2010.", "s2": "Hughes played against Cohen at the conference in 2010.", "label": 1, "match_id": 205, "predicate": "played against"}
+{"s1": "Cohen voted for Hughes at the conference in 2010.", "s2": "Hughes voted for Cohen at the conference in 2010.", "label": 0, "match_id": 205, "predicate": "voted for"}
+{"s1": "Earlier this year, Taylor fought Patel in private.", "s2": "Earlier this year, Patel fought Taylor in private.", "label": 1, "match_id": 206, "predicate": "fought"}
+{"s1": "Earlier this year, Taylor trained Patel in private.", "s2": "Earlier this year, Patel trained Taylor in private.", "label": 0, "match_id": 206, "predicate": "trained"}
+{"s1": "Last week, Roberts argued with Wright in Tokyo.", "s2": "Last week, Wright argued with Roberts in Tokyo.", "label": 1, "match_id": 207, "predicate": "argued with"}
+{"s1": "Last week, Roberts reported to Wright in Tokyo.", "s2": "Last week, Wright reported to Roberts in Tokyo.", "label": 0, "match_id": 207, "predicate": "reported to"}
+{"s1": "Stewart met Taylor at the conference in 2016.", "s2": "Taylor met Stewart at the conference in 2016.", "label": 1, "match_id": 208, "predicate": "met"}
+{"s1": "Stewart defeated Taylor at the conference in 2016.", "s2": "Taylor defeated Stewart at the conference in 2016.", "label": 0, "match_id": 208, "predicate": "defeated"}
+{"s1": "During 2012, Kelly played against Phillips in Sydney.", "s2": "During 2012, Phillips played against Kelly in Sydney.", "label": 1, "match_id": 209, "predicate": "played against"}
+{"s1": "During 2012, Kelly voted for Phillips in Sydney.", "s2": "During 2012, Phillips voted for Kelly in Sydney.", "label": 0, "match_id": 209, "predicate": "voted for"}
+{"s1": "The report says Turner played against Campbell in Dublin.", "s2": "The report says Campbell played against Turner in Dublin.", "label": 1, "match_id": 210, "predicate": "played against"}
+{"s1": "The report says Turner voted for Campbell in Dublin.", "s2": "The report says Campbell voted for Turner in Dublin.", "label": 0, "match_id": 210, "predicate": "voted for"}
+{"s1": "Last week, Anderson argued with Garcia in Berlin.", "s2": "Last week, Garcia argued with Anderson in Berlin.", "label": 1, "match_id": 211, "predicate": "argued with"}
+{"s1": "Last week, Anderson reported to Garcia in Berlin.", "s2": "Last week, Garcia reported to Anderson in Berlin.", "label": 0, "match_id": 211, "predicate": "reported to"}
+{"s1": "During 2009, Cohen met Davis in Madrid.", "s2": "During 2009, Davis met Cohen in Madrid.", "label": 1, "match_id": 212, "predicate": "met"}
+{"s1": "During 2009, Cohen defeated Davis in Madrid.", "s2": "During 2009, Davis defeated Cohen in Madrid.", "label": 0, "match_id": 212, "predicate": "defeated"}
+{"s1": "Last week, Thompson competed against Parker in Paris.", "s2": "Last week, Parker competed against Thompson in Paris.", "label": 1, "match_id": 213, "predicate": "competed against"}
+{"s1": "Last week, Thompson wrote to Parker in Paris.", "s2": "Last week, Parker wrote to Thompson in Paris.", "label": 0, "match_id": 213, "predicate": "wrote to"}
+{"s1": "During 2006, Watson divorced Mitchell in Paris.", "s2": "During 2006, Mitchell divorced Watson in Paris.", "label": 1, "match_id": 214, "predicate": "divorced"}
+{"s1": "During 2006, Watson sued Mitchell in Paris.", "s2": "During 2006, Mitchell sued Watson in Paris.", "label": 0, "match_id": 214, "predicate": "sued"}
+{"s1": "Last week, Taylor met Walker in Tokyo.", "s2": "Last week, Walker met Taylor in Tokyo.", "label": 1, "match_id": 215, "predicate": "met"}
+{"s1": "Last week, Taylor defeated Walker in Tokyo.", "s2": "Last week, Walker defeated Taylor in Tokyo.", "label": 0, "match_id": 215, "predicate": "defeated"}
+{"s1": "The report says Wilson married Garcia in Sydney.", "s2": "The report says Garcia married Wilson in Sydney.", "label": 1, "match_id": 216, "predicate": "married"}
+{"s1": "The report says Wilson hired Garcia in Sydney.", "s2": "The report says Garcia hired Wilson in Sydney.", "label": 0, "match_id": 216, "predicate": "hired"}
+{"s1": "Davies met Cohen at the conference in 2018.", "s2": "Cohen met Davies at the conference in 2018.", "label": 1, "match_id": 217, "predicate": "met"}
+{"s1": "Davies defeated Cohen at the conference in 2018.", "s2": "Cohen defeated Davies at the conference in 2018.", "label": 0, "match_id": 217, "predicate": "defeated"}
+{"s1": "During 2004, Walker fought Davis in Berlin.", "s2": "During 2004, Davis fought Walker in Berlin.", "label": 1, "match_id": 218, "predicate": "fought"}
+{"s1": "During 2004, Walker trained Davis in Berlin.", "s2": "During 2004, Davis trained Walker in Berlin.", "label": 0, "match_id": 218, "predicate": "trained"}
+{"s1": "Watson married Cohen at the conference in 2019.", "s2": "Cohen married Watson at the conference in 2019.", "label": 1, "match_id": 219, "predicate": "married"}
+{"s1": "Watson hired Cohen at the conference in 2019.", "s2": "Cohen hired Watson at the conference in 2019.", "label": 0, "match_id": 219, "predicate": "hired"}
+{"s1": "Cohen argued with Jackson at the conference in 2009.", "s2": "Jackson argued with Cohen at the conference in 2009.", "label": 1, "match_id": 220, "predicate": "argued with"}
+{"s1": "Cohen reported to Jackson at the conference in 2009.", "s2": "Jackson reported to Cohen at the conference in 2009.", "label": 0, "match_id": 220, "predicate": "reported to"}
+{"s1": "The report says Edwards competed against Campbell in Toronto.", "s2": "The report says Campbell competed against Edwards in Toronto.", "label": 1, "match_id": 221, "predicate": "competed against"}
+{"s1": "The report says Edwards wrote to Campbell in Toronto.", "s2": "The report says Campbell wrote to Edwards in Toronto.", "label": 0, "match_id": 221, "predicate": "wrote to"}
+{"s1": "Earlier this year, Cooper fought Harrison in private.", "s2": "Earlier this year, Harrison fought Cooper in private.", "label": 1, "match_id": 222, "predicate": "fought"}
+{"s1": "Earlier this year, Cooper trained Harrison in private.", "s2": "Earlier this year, Harrison trained Cooper in private.", "label": 0, "match_id": 222, "predicate": "trained"}
+{"s1": "Robinson played against Jackson at the conference in 2016.", "s2": "Jackson played against Robinson at the conference in 2016.", "label": 1, "match_id": 223, "predicate": "played against"}
+{"s1": "Robinson voted for Jackson at the conference in 2016.", "s2": "Jackson voted for Robinson at the conference in 2016.", "label": 0, "match_id": 223, "predicate": "voted for"}
+{"s1": "Last week, Martin divorced Roberts in Chicago.", "s2": "Last week, Roberts divorced Martin in Chicago.", "label": 1, "match_id": 224, "predicate": "divorced"}
+{"s1": "Last week, Martin sued Roberts in Chicago.", "s2": "Last week, Roberts sued Martin in Chicago.", "label": 0, "match_id": 224, "predicate": "sued"}
+{"s1": "During 2011, Anderson argued with Stewart in Toronto.", "s2": "During 2011, Stewart argued with Anderson in Toronto.", "label": 1, "match_id": 225, "predicate": "argued with"}
+{"s1": "During 2011, Anderson reported to Stewart in Toronto.", "s2": "During 2011, Stewart reported to Anderson in Toronto.", "label": 0, "match_id": 225, "predicate": "reported to"}
+{"s1": "During 2018, Collins worked with Patel in Vienna.", "s2": "During 2018, Patel worked with Collins in Vienna.", "label": 1, "match_id": 226, "predicate": "worked with"}
+{"s1": "During 2018, Collins worked for Patel in Vienna.", "s2": "During 2018, Patel worked for Collins in Vienna.", "label": 0, "match_id": 226, "predicate": "worked for"}
+{"s1": "The report says Harrison played against Murphy in Vienna.", "s2": "The report says Murphy played against Harrison in Vienna.", "label": 1, "match_id": 227, "predicate": "played against"}
+{"s1": "The report says Harrison voted for Murphy in Vienna.", "s2": "The report says Murphy voted for Harrison in Vienna.", "label": 0, "match_id": 227, "predicate": "voted for"}
+{"s1": "The report says Anderson married Harris in Toronto.", "s2": "The report says Harris married Anderson in Toronto.", "label": 1, "match_id": 228, "predicate": "married"}
+{"s1": "The report says Anderson hired Harris in Toronto.", "s2": "The report says Harris hired Anderson in Toronto.", "label": 0, "match_id": 228, "predicate": "hired"}
+{"s1": "During 2004, Miller worked with Martin in Sydney.", "s2": "During 2004, Martin worked with Miller in Sydney.", "label": 1, "match_id": 229, "predicate": "worked with"}
+{"s1": "During 2004, Miller worked for Martin in Sydney.", "s2": "During 2004, Martin worked for Miller in Sydney.", "label": 0, "match_id": 229, "predicate": "worked for"}
+{"s1": "Earlier this year, Smith argued with Taylor in private.", "s2": "Earlier this year, Taylor argued with Smith in private.", "label": 1, "match_id": 230, "predicate": "argued with"}
+{"s1": "Earlier this year, Smith reported to Taylor in private.", "s2": "Earlier this year, Taylor reported to Smith in private.", "label": 0, "match_id": 230, "predicate": "reported to"}
+{"s1": "The report says Allen played against Garcia in London.", "s2": "The report says Garcia played against Allen in London.", "label": 1, "match_id": 231, "predicate": "played against"}
+{"s1": "The report says Allen voted for Garcia in London.", "s2": "The report says Garcia voted for Allen in London.", "label": 0, "match_id": 231, "predicate": "voted for"}
+{"s1": "Harris competed against Cohen at the conference in 2015.", "s2": "Cohen competed against Harris at the conference in 2015.", "label": 1, "match_id": 232, "predicate": "competed against"}
+{"s1": "Harris wrote to Cohen at the conference in 2015.", "s2": "Cohen wrote to Harris at the conference in 2015.", "label": 0, "match_id": 232, "predicate": "wrote to"}
+{"s1": "During 2006, Smith met Murphy in Rome.", "s2": "During 2006, Murphy met Smith in Rome.", "label": 1, "match_id": 233, "predicate": "met"}
+{"s1": "During 2006, Smith defeated Murphy in Rome.", "s2": "During 2006, Murphy defeated Smith in Rome.", "label": 0, "match_id": 233, "predicate": "defeated"}
+{"s1": "During 2008, Collins argued with Harris in Toronto.", "s2": "During 2008, Harris argued with Collins in Toronto.", "label": 1, "match_id": 234, "predicate": "argued with"}
+{"s1": "During 2008, Collins reported to Harris in Toronto.", "s2": "During 2008, Harris reported to Collins in Toronto.", "label": 0, "match_id": 234, "predicate": "reported to"}
+{"s1": "The report says Edwards divorced Harrison in Boston.", "s2": "The report says Harrison divorced Edwards in Boston.", "label": 1, "match_id": 235, "predicate": "divorced"}
+{"s1": "The report says Edwards sued Harrison in Boston.", "s2": "The report says Harrison sued Edwards in Boston.", "label": 0, "match_id": 235, "predicate": "sued"}
+{"s1": "Smith divorced Lewis at the conference in 2017.", "s2": "Lewis divorced Smith at the conference in 2017.", "label": 1, "match_id": 236, "predicate": "divorced"}
+{"s1": "Smith sued Lewis at the conference in 2017.", "s2": "Lewis sued Smith at the conference in 2017.", "label": 0, "match_id": 236, "predicate": "sued"}
+{"s1": "Last week, Davies married Wright in Rome.", "s2": "Last week, Wright married Davies in Rome.", "label": 1, "match_id": 237, "predicate": "married"}
+{"s1": "Last week, Davies hired Wright in Rome.", "s2": "Last week, Wright hired Davies in Rome.", "label": 0, "match_id": 237, "predicate": "hired"}
+{"s1": "Last week, Smith worked with Wilson in Chicago.", "s2": "Last week, Wilson worked with Smith in Chicago.", "label": 1, "match_id": 238, "predicate": "worked with"}
+{"s1": "Last week, Smith worked for Wilson in Chicago.", "s2": "Last week, Wilson worked for Smith in Chicago.", "label": 0, "match_id": 238, "predicate": "worked for"}
+{"s1": "The report says Kelly competed against Miller in Boston.", "s2": "The report says Miller competed against Kelly in Boston.", "label": 1, "match_id": 239, "predicate": "competed against"}
+{"s1": "The report says Kelly wrote to Miller in Boston.", "s2": "The report says Miller wrote to Kelly in Boston.", "label": 0, "match_id": 239, "predicate": "wrote to"}
+{"s1": "Smith divorced Taylor at the conference in 1996.", "s2": "Taylor divorced Smith at the conference in 1996.", "label": 1, "match_id": 240, "predicate": "divorced"}
+{"s1": "Smith sued Taylor at the conference in 1996.", "s2": "Taylor sued Smith at the conference in 1996.", "label": 0, "match_id": 240, "predicate": "sued"}
+{"s1": "During 2000, Thompson played against Lewis in London.", "s2": "During 2000, Lewis played against Thompson in London.", "label": 1, "match_id": 241, "predicate": "played against"}
+{"s1": "During 2000, Thompson voted for Lewis in London.", "s2": "During 2000, Lewis voted for Thompson in London.", "label": 0, "match_id": 241, "predicate": "voted for"}
+{"s1": "During 2016, Cohen met Stewart in Madrid.", "s2": "During 2016, Stewart met Cohen in Madrid.", "label": 1, "match_id": 242, "predicate": "met"}
+{"s1": "During 2016, Cohen defeated Stewart in Madrid.", "s2": "During 2016, Stewart defeated Cohen in Madrid.", "label": 0, "match_id": 242, "predicate": "defeated"}
+{"s1": "Hughes played against Miller at the conference in 2014.", "s2": "Miller played against Hughes at the conference in 2014.", "label": 1, "match_id": 243, "predicate": "played against"}
+{"s1": "Hughes voted for Miller at the conference in 2014.", "s2": "Miller voted for Hughes at the conference in 2014.", "label": 0, "match_id": 243, "predicate": "voted for"}
+{"s1": "Earlier this year, Cohen played against Thompson in private.", "s2": "Earlier this year, Thompson played against Cohen in private.", "label": 1, "match_id": 244, "predicate": "played against"}
+{"s1": "Earlier this year, Cohen voted for Thompson in private.", "s2": "Earlier this year, Thompson voted for Cohen in private.", "label": 0, "match_id": 244, "predicate": "voted for"}
+{"s1": "During 2017, Wilson worked with Parker in Chicago.", "s2": "During 2017, Parker worked with Wilson in Chicago.", "label": 1, "match_id": 245, "predicate": "worked with"}
+{"s1": "During 2017, Wilson worked for Parker in Chicago.", "s2": "During 2017, Parker worked for Wilson in Chicago.", "label": 0, "match_id": 245, "predicate": "worked for"}
+{"s1": "During 1997, Mitchell played against Phillips in Tokyo.", "s2": "During 1997, Phillips played against Mitchell in Tokyo.", "label": 1, "match_id": 246, "predicate": "played against"}
+{"s1": "During 1997, Mitchell voted for Phillips in Tokyo.", "s2": "During 1997, Phillips voted for Mitchell in Tokyo.", "label": 0, "match_id": 246, "predicate": "voted for"}
+{"s1": "Last week, Harris divorced Johnson in Madrid.", "s2": "Last week, Johnson divorced Harris in Madrid.", "label": 1, "match_id": 247, "predicate": "divorced"}
+{"s1": "Last week, Harris sued Johnson in Madrid.", "s2": "Last week, Johnson sued Harris in Madrid.", "label": 0, "match_id": 247, "predicate": "sued"}
+{"s1": "During 2017, Morris married Martin in London.", "s2": "During 2017, Martin married Morris in London.", "label": 1, "match_id": 248, "predicate": "married"}
+{"s1": "During 2017, Morris hired Martin in London.", "s2": "During 2017, Martin hired Morris in London.", "label": 0, "match_id": 248, "predicate": "hired"}
+{"s1": "The report says Miller played against Martin in Sydney.", "s2": "The report says Martin played against Miller in Sydney.", "label": 1, "match_id": 249, "predicate": "played against"}
+{"s1": "The report says Miller voted for Martin in Sydney.", "s2": "The report says Martin voted for Miller in Sydney.", "label": 0, "match_id": 249, "predicate": "voted for"}
+{"s1": "Garcia married Smith at the conference in 2000.", "s2": "Smith married Garcia at the conference in 2000.", "label": 1, "match_id": 250, "predicate": "married"}
+{"s1": "Garcia hired Smith at the conference in 2000.", "s2": "Smith hired Garcia at the conference in 2000.", "label": 0, "match_id": 250, "predicate": "hired"}
+{"s1": "Robinson fought Cooper at the conference in 2001.", "s2": "Cooper fought Robinson at the conference in 2001.", "label": 1, "match_id": 251, "predicate": "fought"}
+{"s1": "Robinson trained Cooper at the conference in 2001.", "s2": "Cooper trained Robinson at the conference in 2001.", "label": 0, "match_id": 251, "predicate": "trained"}
+{"s1": "The report says Morgan fought Collins in Boston.", "s2": "The report says Collins fought Morgan in Boston.", "label": 1, "match_id": 252, "predicate": "fought"}
+{"s1": "The report says Morgan trained Collins in Boston.", "s2": "The report says Collins trained Morgan in Boston.", "label": 0, "match_id": 252, "predicate": "trained"}
+{"s1": "Earlier this year, Jones met Mitchell in private.", "s2": "Earlier this year, Mitchell met Jones in private.", "label": 1, "match_id": 253, "predicate": "met"}
+{"s1": "Earlier this year, Jones defeated Mitchell in private.", "s2": "Earlier this year, Mitchell defeated Jones in private.", "label": 0, "match_id": 253, "predicate": "defeated"}
+{"s1": "Earlier this year, Edwards worked with Patel in private.", "s2": "Earlier this year, Patel worked with Edwards in private.", "label": 1, "match_id": 254, "predicate": "worked with"}
+{"s1": "Earlier this year, Edwards worked for Patel in private.", "s2": "Earlier this year, Patel worked for Edwards in private.", "label": 0, "match_id": 254, "predicate": "worked for"}
+{"s1": "During 1995, Wright divorced Taylor in Paris.", "s2": "During 1995, Taylor divorced Wright in Paris.", "label": 1, "match_id": 255, "predicate": "divorced"}
+{"s1": "During 1995, Wright sued Taylor in Paris.", "s2": "During 1995, Taylor sued Wright in Paris.", "label": 0, "match_id": 255, "predicate": "sued"}
+{"s1": "During 2017, Watson divorced Wright in London.", "s2": "During 2017, Wright divorced Watson in London.", "label": 1, "match_id": 256, "predicate": "divorced"}
+{"s1": "During 2017, Watson sued Wright in London.", "s2": "During 2017, Wright sued Watson in London.", "label": 0, "match_id": 256, "predicate": "sued"}
+{"s1": "During 2017, Walker met Taylor in Paris.", "s2": "During 2017, Taylor met Walker in Paris.", "label": 1, "match_id": 257, "predicate": "met"}
+{"s1": "During 2017, Walker defeated Taylor in Paris.", "s2": "During 2017, Taylor defeated Walker in Paris.", "label": 0, "match_id": 257, "predicate": "defeated"}
+{"s1": "During 2001, Campbell married Harrison in Chicago.", "s2": "During 2001, Harrison married Campbell in Chicago.", "label": 1, "match_id": 258, "predicate": "married"}
+{"s1": "During 2001, Campbell hired Harrison in Chicago.", "s2": "During 2001, Harrison hired Campbell in Chicago.", "label": 0, "match_id": 258, "predicate": "hired"}
+{"s1": "During 2001, Johnson played against Lewis in Madrid.", "s2": "During 2001, Lewis played against Johnson in Madrid.", "label": 1, "match_id": 259, "predicate": "played against"}
+{"s1": "During 2001, Johnson voted for Lewis in Madrid.", "s2": "During 2001, Lewis voted for Johnson in Madrid.", "label": 0, "match_id": 259, "predicate": "voted for"}
+{"s1": "During 2019, Taylor met Evans in Sydney.", "s2": "During 2019, Evans met Taylor in Sydney.", "label": 1, "match_id": 260, "predicate": "met"}
+{"s1": "During 2019, Taylor defeated Evans in Sydney.", "s2": "During 2019, Evans defeated Taylor in Sydney.", "label": 0, "match_id": 260, "predicate": "defeated"}
+{"s1": "The report says Johnson competed against Walker in Sydney.", "s2": "The report says Walker competed against Johnson in Sydney.", "label": 1, "match_id": 261, "predicate": "competed against"}
+{"s1": "The report says Johnson wrote to Walker in Sydney.", "s2": "The report says Walker wrote to Johnson in Sydney.", "label": 0, "match_id": 261, "predicate": "wrote to"}
+{"s1": "Cooper worked with Morris at the conference in 2008.", "s2": "Morris worked with Cooper at the conference in 2008.", "label": 1, "match_id": 262, "predicate": "worked with"}
+{"s1": "Cooper worked for Morris at the conference in 2008.", "s2": "Morris worked for Cooper at the conference in 2008.", "label": 0, "match_id": 262, "predicate": "worked for"}
+{"s1": "During 1996, Martin argued with Clarke in Tokyo.", "s2": "During 1996, Clarke argued with Martin in Tokyo.", "label": 1, "match_id": 263, "predicate": "argued with"}
+{"s1": "During 1996, Martin reported to Clarke in Tokyo.", "s2": "During 1996, Clarke reported to Martin in Tokyo.", "label": 0, "match_id": 263, "predicate": "reported to"}
+{"s1": "The report says Kelly argued with Garcia in Rome.", "s2": "The report says Garcia argued with Kelly in Rome.", "label": 1, "match_id": 264, "predicate": "argued with"}
+{"s1": "The report says Kelly reported to Garcia in Rome.", "s2": "The report says Garcia reported to Kelly in Rome.", "label": 0, "match_id": 264, "predicate": "reported to"}
+{"s1": "Earlier this year, Allen met Jones in private.", "s2": "Earlier this year, Jones met Allen in private.", "label": 1, "match_id": 265, "predicate": "met"}
+{"s1": "Earlier this year, Allen defeated Jones in private.", "s2": "Earlier this year, Jones defeated Allen in private.", "label": 0, "match_id": 265, "predicate": "defeated"}
+{"s1": "During 2012, Parker argued with Wilson in Toronto.", "s2": "During 2012, Wilson argued with Parker in Toronto.", "label": 1, "match_id": 266, "predicate": "argued with"}
+{"s1": "During 2012, Parker reported to Wilson in Toronto.", "s2": "During 2012, Wilson reported to Parker in Toronto.", "label": 0, "match_id": 266, "predicate": "reported to"}
+{"s1": "Murphy married Clarke at the conference in 2000.", "s2": "Clarke married Murphy at the conference in 2000.", "label": 1, "match_id": 267, "predicate": "married"}
+{"s1": "Murphy hired Clarke at the conference in 2000.", "s2": "Clarke hired Murphy at the conference in 2000.", "label": 0, "match_id": 267, "predicate": "hired"}
+{"s1": "During 1995, Clarke fought Wilson in Vienna.", "s2": "During 1995, Wilson fought Clarke in Vienna.", "label": 1, "match_id": 268, "predicate": "fought"}
+{"s1": "During 1995, Clarke trained Wilson in Vienna.", "s2": "During 1995, Wilson trained Clarke in Vienna.", "label": 0, "match_id": 268, "predicate": "trained"}
+{"s1": "Last week, Davis married Thompson in Toronto.", "s2": "Last week, Thompson married Davis in Toronto.", "label": 1, "match_id": 269, "predicate": "married"}
+{"s1": "Last week, Davis hired Thompson in Toronto.", "s2": "Last week, Thompson hired Davis in Toronto.", "label": 0, "match_id": 269, "predicate": "hired"}
+{"s1": "The report says Murphy worked with Robinson in Madrid.", "s2": "The report says Robinson worked with Murphy in Madrid.", "label": 1, "match_id": 270, "predicate": "worked with"}
+{"s1": "The report says Murphy worked for Robinson in Madrid.", "s2": "The report says Robinson worked for Murphy in Madrid.", "label": 0, "match_id": 270, "predicate": "worked for"}
+{"s1": "Robinson competed against Roberts at the conference in 2015.", "s2": "Roberts competed against Robinson at the conference in 2015.", "label": 1, "match_id": 271, "predicate": "competed against"}
+{"s1": "Robinson wrote to Roberts at the conference in 2015.", "s2": "Roberts wrote to Robinson at the conference in 2015.", "label": 0, "match_id": 271, "predicate": "wrote to"}
+{"s1": "Last week, Cooper married Watson in Dublin.", "s2": "Last week, Watson married Cooper in Dublin.", "label": 1, "match_id": 272, "predicate": "married"}
+{"s1": "Last week, Cooper hired Watson in Dublin.", "s2": "Last week, Watson hired Cooper in Dublin.", "label": 0, "match_id": 272, "predicate": "hired"}
+{"s1": "Last week, Mitchell married Jones in Madrid.", "s2": "Last week, Jones married Mitchell in Madrid.", "label": 1, "match_id": 273, "predicate": "married"}
+{"s1": "Last week, Mitchell hired Jones in Madrid.", "s2": "Last week, Jones hired Mitchell in Madrid.", "label": 0, "match_id": 273, "predicate": "hired"}
+{"s1": "The report says Mitchell worked with Collins in Berlin.", "s2": "The report says Collins worked with Mitchell in Berlin.", "label": 1, "match_id": 274, "predicate": "worked with"}
+{"s1": "The report says Mitchell worked for Collins in Berlin.", "s2": "The report says Collins worked for Mitchell in Berlin.", "label": 0, "match_id": 274, "predicate": "worked for"}
+{"s1": "Last week, Phillips fought Walker in Toronto.", "s2": "Last week, Walker fought Phillips in Toronto.", "label": 1, "match_id": 275, "predicate": "fought"}
+{"s1": "Last week, Phillips trained Walker in Toronto.", "s2": "Last week, Walker trained Phillips in Toronto.", "label": 0, "match_id": 275, "predicate": "trained"}
+{"s1": "Earlier this year, Watson met Campbell in private.", "s2": "Earlier this year, Campbell met Watson in private.", "label": 1, "match_id": 276, "predicate": "met"}
+{"s1": "Earlier this year, Watson defeated Campbell in private.", "s2": "Earlier this year, Campbell defeated Watson in private.", "label": 0, "match_id": 276, "predicate": "defeated"}
+{"s1": "Stewart competed against Cooper at the conference in 2000.", "s2": "Cooper competed against Stewart at the conference in 2000.", "label": 1, "match_id": 277, "predicate": "competed against"}
+{"s1": "Stewart wrote to Cooper at the conference in 2000.", "s2": "Cooper wrote to Stewart at the conference in 2000.", "label": 0, "match_id": 277, "predicate": "wrote to"}
+{"s1": "Last week, Campbell worked with Harris in Vienna.", "s2": "Last week, Harris worked with Campbell in Vienna.", "label": 1, "match_id": 278, "predicate": "worked with"}
+{"s1": "Last week, Campbell worked for Harris in Vienna.", "s2": "Last week, Harris worked for Campbell in Vienna.", "label": 0, "match_id": 278, "predicate": "worked for"}
+{"s1": "Last week, Garcia fought Hughes in Rome.", "s2": "Last week, Hughes fought Garcia in Rome.", "label": 1, "match_id": 279, "predicate": "fought"}
+{"s1": "Last week, Garcia trained Hughes in Rome.", "s2": "Last week, Hughes trained Garcia in Rome.", "label": 0, "match_id": 279, "predicate": "trained"}
+{"s1": "Earlier this year, Wright divorced Lewis in private.", "s2": "Earlier this year, Lewis divorced Wright in private.", "label": 1, "match_id": 280, "predicate": "divorced"}
+{"s1": "Earlier this year, Wright sued Lewis in private.", "s2": "Earlier this year, Lewis sued Wright in private.", "label": 0, "match_id": 280, "predicate": "sued"}
+{"s1": "Earlier this year, Robinson argued with Lewis in private.", "s2": "Earlier this year, Lewis argued with Robinson in private.", "label": 1, "match_id": 281, "predicate": "argued with"}
+{"s1": "Earlier this year, Robinson reported to Lewis in private.", "s2": "Earlier this year, Lewis reported to Robinson in private.", "label": 0, "match_id": 281, "predicate": "reported to"}
+{"s1": "The report says Robinson married Johnson in Dublin.", "s2": "The report says Johnson married Robinson in Dublin.", "label": 1, "match_id": 282, "predicate": "married"}
+{"s1": "The report says Robinson hired Johnson in Dublin.", "s2": "The report says Johnson hired Robinson in Dublin.", "label": 0, "match_id": 282, "predicate": "hired"}
+{"s1": "Turner divorced Mitchell at the conference in 2003.", "s2": "Mitchell divorced Turner at the conference in 2003.", "label": 1, "match_id": 283, "predicate": "divorced"}
+{"s1": "Turner sued Mitchell at the conference in 2003.", "s2": "Mitchell sued Turner at the conference in 2003.", "label": 0, "match_id": 283, "predicate": "sued"}
+{"s1": "During 2007, Jackson married Edwards in Boston.", "s2": "During 2007, Edwards married Jackson in Boston.", "label": 1, "match_id": 284, "predicate": "married"}
+{"s1": "During 2007, Jackson hired Edwards in Boston.", "s2": "During 2007, Edwards hired Jackson in Boston.", "label": 0, "match_id": 284, "predicate": "hired"}
+{"s1": "During 2017, Patel met Mitchell in Madrid.", "s2": "During 2017, Mitchell met Patel in Madrid.", "label": 1, "match_id": 285, "predicate": "met"}
+{"s1": "During 2017, Patel defeated Mitchell in Madrid.", "s2": "During 2017, Mitchell defeated Patel in Madrid.", "label": 0, "match_id": 285, "predicate": "defeated"}
+{"s1": "Earlier this year, Phillips worked with Jones in private.", "s2": "Earlier this year, Jones worked with Phillips in private.", "label": 1, "match_id": 286, "predicate": "worked with"}
+{"s1": "Earlier this year, Phillips worked for Jones in private.", "s2": "Earlier this year, Jones worked for Phillips in private.", "label": 0, "match_id": 286, "predicate": "worked for"}
+{"s1": "Earlier this year, Smith played against Lewis in private.", "s2": "Earlier this year, Lewis played against Smith in private.", "label": 1, "match_id": 287, "predicate": "played against"}
+{"s1": "Earlier this year, Smith voted for Lewis in private.", "s2": "Earlier this year, Lewis voted for Smith in private.", "label": 0, "match_id": 287, "predicate": "voted for"}
+{"s1": "Earlier this year, Harris played against Campbell in private.", "s2": "Earlier this year, Campbell played against Harris in private.", "label": 1, "match_id": 288, "predicate": "played against"}
+{"s1": "Earlier this year, Harris voted for Campbell in private.", "s2": "Earlier this year, Campbell voted for Harris in private.", "label": 0, "match_id": 288, "predicate": "voted for"}
+{"s1": "Phillips married Mitchell at the conference in 2005.", "s2": "Mitchell married Phillips at the conference in 2005.", "label": 1, "match_id": 289, "predicate": "married"}
+{"s1": "Phillips hired Mitchell at the conference in 2005.", "s2": "Mitchell hired Phillips at the conference in 2005.", "label": 0, "match_id": 289, "predicate": "hired"}
+{"s1": "During 2017, Lewis played against Patel in Tokyo.", "s2": "During 2017, Patel played against Lewis in Tokyo.", "label": 1, "match_id": 290, "predicate": "played against"}
+{"s1": "During 2017, Lewis voted for Patel in Tokyo.", "s2": "During 2017, Patel voted for Lewis in Tokyo.", "label": 0, "match_id": 290, "predicate": "voted for"}
+{"s1": "Mitchell worked with Parker at the conference in 2009.", "s2": "Parker worked with Mitchell at the conference in 2009.", "label": 1, "match_id": 291, "predicate": "worked with"}
+{"s1": "Mitchell worked for Parker at the conference in 2009.", "s2": "Parker worked for Mitchell at the conference in 2009.", "label": 0, "match_id": 291, "predicate": "worked for"}
+{"s1": "Earlier this year, Miller played against Thompson in private.", "s2": "Earlier this year, Thompson played against Miller in private.", "label": 1, "match_id": 292, "predicate": "played against"}
+{"s1": "Earlier this year, Miller voted for Thompson in private.", "s2": "Earlier this year, Thompson voted for Miller in private.", "label": 0, "match_id": 292, "predicate": "voted for"}
+{"s1": "During 1996, Davis played against Johnson in Rome.", "s2": "During 1996, Johnson played against Davis in Rome.", "label": 1, "match_id": 293, "predicate": "played against"}
+{"s1": "During 1996, Davis voted for Johnson in Rome.", "s2": "During 1996, Johnson voted for Davis in Rome.", "label": 0, "match_id": 293, "predicate": "voted for"}
+{"s1": "Earlier this year, Robinson fought Hughes in private.", "s2": "Earlier this year, Hughes fought Robinson in private.", "label": 1, "match_id": 294, "predicate": "fought"}
+{"s1": "Earlier this year, Robinson trained Hughes in private.", "s2": "Earlier this year, Hughes trained Robinson in private.", "label": 0, "match_id": 294, "predicate": "trained"}
+{"s1": "During 2017, Collins competed against Edwards in Boston.", "s2": "During 2017, Edwards competed against Collins in Boston.", "label": 1, "match_id": 295, "predicate": "competed against"}
+{"s1": "During 2017, Collins wrote to Edwards in Boston.", "s2": "During 2017, Edwards wrote to Collins in Boston.", "label": 0, "match_id": 295, "predicate": "wrote to"}
+{"s1": "Earlier this year, Harrison met Miller in private.", "s2": "Earlier this year, Miller met Harrison in private.", "label": 1, "match_id": 296, "predicate": "met"}
+{"s1": "Earlier this year, Harrison defeated Miller in private.", "s2": "Earlier this year, Miller defeated Harrison in private.", "label": 0, "match_id": 296, "predicate": "defeated"}
+{"s1": "Last week, Thompson fought Patel in Paris.", "s2": "Last week, Patel fought Thompson in Paris.", "label": 1, "match_id": 297, "predicate": "fought"}
+{"s1": "Last week, Thompson trained Patel in Paris.", "s2": "Last week, Patel trained Thompson in Paris.", "label": 0, "match_id": 297, "predicate": "trained"}
+{"s1": "Earlier this year, Wilson argued with Martin in private.", "s2": "Earlier this year, Martin argued with Wilson in private.", "label": 1, "match_id": 298, "predicate": "argued with"}
+{"s1": "Earlier this year, Wilson reported to Martin in private.", "s2": "Earlier this year, Martin reported to Wilson in private.", "label": 0, "match_id": 298, "predicate": "reported to"}
+{"s1": "Last week, Smith met Davies in Dublin.", "s2": "Last week, Davies met Smith in Dublin.", "label": 1, "match_id": 299, "predicate": "met"}
+{"s1": "Last week, Smith defeated Davies in Dublin.", "s2": "Last week, Davies defeated Smith in Dublin.", "label": 0, "match_id": 299, "predicate": "defeated"}
+{"s1": "The report says Johnson worked with Harris in Tokyo.", "s2": "The report says Harris worked with Johnson in Tokyo.", "label": 1, "match_id": 300, "predicate": "worked with"}
+{"s1": "The report says Johnson worked for Harris in Tokyo.", "s2": "The report says Harris worked for Johnson in Tokyo.", "label": 0, "match_id": 300, "predicate": "worked for"}
+{"s1": "Last week, Patel fought Phillips in Berlin.", "s2": "Last week, Phillips fought Patel in Berlin.", "label": 1, "match_id": 301, "predicate": "fought"}
+{"s1": "Last week, Patel trained Phillips in Berlin.", "s2": "Last week, Phillips trained Patel in Berlin.", "label": 0, "match_id": 301, "predicate": "trained"}
+{"s1": "Hughes married Parker at the conference in 2015.", "s2": "Parker married Hughes at the conference in 2015.", "label": 1, "match_id": 302, "predicate": "married"}
+{"s1": "Hughes hired Parker at the conference in 2015.", "s2": "Parker hired Hughes at the conference in 2015.", "label": 0, "match_id": 302, "predicate": "hired"}
+{"s1": "Watson divorced Allen at the conference in 2009.", "s2": "Allen divorced Watson at the conference in 2009.", "label": 1, "match_id": 303, "predicate": "divorced"}
+{"s1": "Watson sued Allen at the conference in 2009.", "s2": "Allen sued Watson at the conference in 2009.", "label": 0, "match_id": 303, "predicate": "sued"}
+{"s1": "Earlier this year, Parker divorced Watson in private.", "s2": "Earlier this year, Watson divorced Parker in private.", "label": 1, "match_id": 304, "predicate": "divorced"}
+{"s1": "Earlier this year, Parker sued Watson in private.", "s2": "Earlier this year, Watson sued Parker in private.", "label": 0, "match_id": 304, "predicate": "sued"}
+{"s1": "The report says Martin played against Mitchell in Berlin.", "s2": "The report says Mitchell played against Martin in Berlin.", "label": 1, "match_id": 305, "predicate": "played against"}
+{"s1": "The report says Martin voted for Mitchell in Berlin.", "s2": "The report says Mitchell voted for Martin in Berlin.", "label": 0, "match_id": 305, "predicate": "voted for"}
+{"s1": "Last week, Jackson met Watson in Sydney.", "s2": "Last week, Watson met Jackson in Sydney.", "label": 1, "match_id": 306, "predicate": "met"}
+{"s1": "Last week, Jackson defeated Watson in Sydney.", "s2": "Last week, Watson defeated Jackson in Sydney.", "label": 0, "match_id": 306, "predicate": "defeated"}
+{"s1": "The report says Parker argued with Davis in Toronto.", "s2": "The report says Davis argued with Parker in Toronto.", "label": 1, "match_id": 307, "predicate": "argued with"}
+{"s1": "The report says Parker reported to Davis in Toronto.", "s2": "The report says Davis reported to Parker in Toronto.", "label": 0, "match_id": 307, "predicate": "reported to"}
+{"s1": "During 2007, Wright argued with Turner in London.", "s2": "During 2007, Turner argued with Wright in London.", "label": 1, "match_id": 308, "predicate": "argued with"}
+{"s1": "During 2007, Wright reported to Turner in London.", "s2": "During 2007, Turner reported to Wright in London.", "label": 0, "match_id": 308, "predicate": "reported to"}
+{"s1": "During 2006, Walker argued with Miller in Sydney.", "s2": "During 2006, Miller argued with Walker in Sydney.", "label": 1, "match_id": 309, "predicate": "argued with"}
+{"s1": "During 2006, Walker reported to Miller in Sydney.", "s2": "During 2006, Miller reported to Walker in Sydney.", "label": 0, "match_id": 309, "predicate": "reported to"}
+{"s1": "Earlier this year, Smith met Edwards in private.", "s2": "Earlier this year, Edwards met Smith in private.", "label": 1, "match_id": 310, "predicate": "met"}
+{"s1": "Earlier this year, Smith defeated Edwards in private.", "s2": "Earlier this year, Edwards defeated Smith in private.", "label": 0, "match_id": 310, "predicate": "defeated"}
+{"s1": "The report says Kelly worked with Johnson in Berlin.", "s2": "The report says Johnson worked with Kelly in Berlin.", "label": 1, "match_id": 311, "predicate": "worked with"}
+{"s1": "The report says Kelly worked for Johnson in Berlin.", "s2": "The report says Johnson worked for Kelly in Berlin.", "label": 0, "match_id": 311, "predicate": "worked for"}
+{"s1": "Anderson divorced Watson at the conference in 2020.", "s2": "Watson divorced Anderson at the conference in 2020.", "label": 1, "match_id": 312, "predicate": "divorced"}
+{"s1": "Anderson sued Watson at the conference in 2020.", "s2": "Watson sued Anderson at the conference in 2020.", "label": 0, "match_id": 312, "predicate": "sued"}
+{"s1": "Collins played against Robinson at the conference in 2014.", "s2": "Robinson played against Collins at the conference in 2014.", "label": 1, "match_id": 313, "predicate": "played against"}
+{"s1": "Collins voted for Robinson at the conference in 2014.", "s2": "Robinson voted for Collins at the conference in 2014.", "label": 0, "match_id": 313, "predicate": "voted for"}
+{"s1": "Earlier this year, Stewart married Turner in private.", "s2": "Earlier this year, Turner married Stewart in private.", "label": 1, "match_id": 314, "predicate": "married"}
+{"s1": "Earlier this year, Stewart hired Turner in private.", "s2": "Earlier this year, Turner hired Stewart in private.", "label": 0, "match_id": 314, "predicate": "hired"}
+{"s1": "Anderson married Roberts at the conference in 2012.", "s2": "Roberts married Anderson at the conference in 2012.", "label": 1, "match_id": 315, "predicate": "married"}
+{"s1": "Anderson hired Roberts at the conference in 2012.", "s2": "Roberts hired Anderson at the conference in 2012.", "label": 0, "match_id": 315, "predicate": "hired"}
+{"s1": "The report says Harris played against Walker in Boston.", "s2": "The report says Walker played against Harris in Boston.", "label": 1, "match_id": 316, "predicate": "played against"}
+{"s1": "The report says Harris voted for Walker in Boston.", "s2": "The report says Walker voted for Harris in Boston.", "label": 0, "match_id": 316, "predicate": "voted for"}
+{"s1": "Earlier this year, Parker met Phillips in private.", "s2": "Earlier this year, Phillips met Parker in private.", "label": 1, "match_id": 317, "predicate": "met"}
+{"s1": "Earlier this year, Parker defeated Phillips in private.", "s2": "Earlier this year, Phillips defeated Parker in private.", "label": 0, "match_id": 317, "predicate": "defeated"}
+{"s1": "Last week, Davis fought Robinson in Toronto.", "s2": "Last week, Robinson fought Davis in Toronto.", "label": 1, "match_id": 318, "predicate": "fought"}
+{"s1": "Last week, Davis trained Robinson in Toronto.", "s2": "Last week, Robinson trained Davis in Toronto.", "label": 0, "match_id": 318, "predicate": "trained"}
+{"s1": "During 2017, Cooper divorced Phillips in Toronto.", "s2": "During 2017, Phillips divorced Cooper in Toronto.", "label": 1, "match_id": 319, "predicate": "divorced"}
+{"s1": "During 2017, Cooper sued Phillips in Toronto.", "s2": "During 2017, Phillips sued Cooper in Toronto.", "label": 0, "match_id": 319, "predicate": "sued"}
+{"s1": "Last week, Phillips worked with Harrison in Dublin.", "s2": "Last week, Harrison worked with Phillips in Dublin.", "label": 1, "match_id": 320, "predicate": "worked with"}
+{"s1": "Last week, Phillips worked for Harrison in Dublin.", "s2": "Last week, Harrison worked for Phillips in Dublin.", "label": 0, "match_id": 320, "predicate": "worked for"}
+{"s1": "During 1995, Harrison divorced Jones in Toronto.", "s2": "During 1995, Jones divorced Harrison in Toronto.", "label": 1, "match_id": 321, "predicate": "divorced"}
+{"s1": "During 1995, Harrison sued Jones in Toronto.", "s2": "During 1995, Jones sued Harrison in Toronto.", "label": 0, "match_id": 321, "predicate": "sued"}
+{"s1": "During 2010, Johnson argued with Garcia in Boston.", "s2": "During 2010, Garcia argued with Johnson in Boston.", "label": 1, "match_id": 322, "predicate": "argued with"}
+{"s1": "During 2010, Johnson reported to Garcia in Boston.", "s2": "During 2010, Garcia reported to Johnson in Boston.", "label": 0, "match_id": 322, "predicate": "reported to"}
+{"s1": "Edwards met Allen at the conference in 2015.", "s2": "Allen met Edwards at the conference in 2015.", "label": 1, "match_id": 323, "predicate": "met"}
+{"s1": "Edwards defeated Allen at the conference in 2015.", "s2": "Allen defeated Edwards at the conference in 2015.", "label": 0, "match_id": 323, "predicate": "defeated"}
+{"s1": "The report says Harrison married Morris in Chicago.", "s2": "The report says Morris married Harrison in Chicago.", "label": 1, "match_id": 324, "predicate": "married"}
+{"s1": "The report says Harrison hired Morris in Chicago.", "s2": "The report says Morris hired Harrison in Chicago.", "label": 0, "match_id": 324, "predicate": "hired"}
+{"s1": "Earlier this year, Clarke fought Mitchell in private.", "s2": "Earlier this year, Mitchell fought Clarke in private.", "label": 1, "match_id": 325, "predicate": "fought"}
+{"s1": "Earlier this year, Clarke trained Mitchell in private.", "s2": "Earlier this year, Mitchell trained Clarke in private.", "label": 0, "match_id": 325, "predicate": "trained"}
+{"s1": "The report says Clarke met Watson in Dublin.", "s2": "The report says Watson met Clarke in Dublin.", "label": 1, "match_id": 326, "predicate": "met"}
+{"s1": "The report says Clarke defeated Watson in Dublin.", "s2": "The report says Watson defeated Clarke in Dublin.", "label": 0, "match_id": 326, "predicate": "defeated"}
+{"s1": "The report says Garcia worked with Watson in Sydney.", "s2": "The report says Watson worked with Garcia in Sydney.", "label": 1, "match_id": 327, "predicate": "worked with"}
+{"s1": "The report says Garcia worked for Watson in Sydney.", "s2": "The report says Watson worked for Garcia in Sydney.", "label": 0, "match_id": 327, "predicate": "worked for"}
+{"s1": "Last week, Morris married Hughes in Tokyo.", "s2": "Last week, Hughes married Morris in Tokyo.", "label": 1, "match_id": 328, "predicate": "married"}
+{"s1": "Last week, Morris hired Hughes in Tokyo.", "s2": "Last week, Hughes hired Morris in Tokyo.", "label": 0, "match_id": 328, "predicate": "hired"}
+{"s1": "The report says Campbell divorced Evans in London.", "s2": "The report says Evans divorced Campbell in London.", "label": 1, "match_id": 329, "predicate": "divorced"}
+{"s1": "The report says Campbell sued Evans in London.", "s2": "The report says Evans sued Campbell in London.", "label": 0, "match_id": 329, "predicate": "sued"}
+{"s1": "Last week, Collins played against Murphy in Dublin.", "s2": "Last week, Murphy played against Collins in Dublin.", "label": 1, "match_id": 330, "predicate": "played against"}
+{"s1": "Last week, Collins voted for Murphy in Dublin.", "s2": "Last week, Murphy voted for Collins in Dublin.", "label": 0, "match_id": 330, "predicate": "voted for"}
+{"s1": "The report says Smith married Taylor in Boston.", "s2": "The report says Taylor married Smith in Boston.", "label": 1, "match_id": 331, "predicate": "married"}
+{"s1": "The report says Smith hired Taylor in Boston.", "s2": "The report says Taylor hired Smith in Boston.", "label": 0, "match_id": 331, "predicate": "hired"}
+{"s1": "Earlier this year, Garcia met Collins in private.", "s2": "Earlier this year, Collins met Garcia in private.", "label": 1, "match_id": 332, "predicate": "met"}
+{"s1": "Earlier this year, Garcia defeated Collins in private.", "s2": "Earlier this year, Collins defeated Garcia in private.", "label": 0, "match_id": 332, "predicate": "defeated"}
+{"s1": "Earlier this year, Kelly divorced Evans in private.", "s2": "Earlier this year, Evans divorced Kelly in private.", "label": 1, "match_id": 333, "predicate": "divorced"}
+{"s1": "Earlier this year, Kelly sued Evans in private.", "s2": "Earlier this year, Evans sued Kelly in private.", "label": 0, "match_id": 333, "predicate": "sued"}
+{"s1": "Last week, Johnson divorced Thompson in Dublin.", "s2": "Last week, Thompson divorced Johnson in Dublin.", "label": 1, "match_id": 334, "predicate": "divorced"}
+{"s1": "Last week, Johnson sued Thompson in Dublin.", "s2": "Last week, Thompson sued Johnson in Dublin.", "label": 0, "match_id": 334, "predicate": "sued"}
+{"s1": "During 2020, Harrison met Walker in Rome.", "s2": "During 2020, Walker met Harrison in Rome.", "label": 1, "match_id": 335, "predicate": "met"}
+{"s1": "During 2020, Harrison defeated Walker in Rome.", "s2": "During 2020, Walker defeated Harrison in Rome.", "label": 0, "match_id": 335, "predicate": "defeated"}
+{"s1": "Earlier this year, Turner worked with Thompson in private.", "s2": "Earlier this year, Thompson worked with Turner in private.", "label": 1, "match_id": 336, "predicate": "worked with"}
+{"s1": "Earlier this year, Turner worked for Thompson in private.", "s2": "Earlier this year, Thompson worked for Turner in private.", "label": 0, "match_id": 336, "predicate": "worked for"}
+{"s1": "The report says Mitchell met Murphy in Toronto.", "s2": "The report says Murphy met Mitchell in Toronto.", "label": 1, "match_id": 337, "predicate": "met"}
+{"s1": "The report says Mitchell defeated Murphy in Toronto.", "s2": "The report says Murphy defeated Mitchell in Toronto.", "label": 0, "match_id": 337, "predicate": "defeated"}
+{"s1": "During 1996, Murphy competed against Miller in Paris.", "s2": "During 1996, Miller competed against Murphy in Paris.", "label": 1, "match_id": 338, "predicate": "competed against"}
+{"s1": "During 1996, Murphy wrote to Miller in Paris.", "s2": "During 1996, Miller wrote to Murphy in Paris.", "label": 0, "match_id": 338, "predicate": "wrote to"}
+{"s1": "Last week, Anderson played against Davies in Sydney.", "s2": "Last week, Davies played against Anderson in Sydney.", "label": 1, "match_id": 339, "predicate": "played against"}
+{"s1": "Last week, Anderson voted for Davies in Sydney.", "s2": "Last week, Davies voted for Anderson in Sydney.", "label": 0, "match_id": 339, "predicate": "voted for"}
+{"s1": "Last week, Parker divorced Allen in Paris.", "s2": "Last week, Allen divorced Parker in Paris.", "label": 1, "match_id": 340, "predicate": "divorced"}
+{"s1": "Last week, Parker sued Allen in Paris.", "s2": "Last week, Allen sued Parker in Paris.", "label": 0, "match_id": 340, "predicate": "sued"}
+{"s1": "During 2015, Edwards competed against Wright in London.", "s2": "During 2015, Wright competed against Edwards in London.", "label": 1, "match_id": 341, "predicate": "competed against"}
+{"s1": "During 2015, Edwards wrote to Wright in London.", "s2": "During 2015, Wright wrote to Edwards in London.", "label": 0, "match_id": 341, "predicate": "wrote to"}
+{"s1": "Last week, Smith met Roberts in Madrid.", "s2": "Last week, Roberts met Smith in Madrid.", "label": 1, "match_id": 342, "predicate": "met"}
+{"s1": "Last week, Smith defeated Roberts in Madrid.", "s2": "Last week, Roberts defeated Smith in Madrid.", "label": 0, "match_id": 342, "predicate": "defeated"}
+{"s1": "During 2003, Parker divorced Jones in Tokyo.", "s2": "During 2003, Jones divorced Parker in Tokyo.", "label": 1, "match_id": 343, "predicate": "divorced"}
+{"s1": "During 2003, Parker sued Jones in Tokyo.", "s2": "During 2003, Jones sued Parker in Tokyo.", "label": 0, "match_id": 343, "predicate": "sued"}
+{"s1": "Earlier this year, Anderson fought Thompson in private.", "s2": "Earlier this year, Thompson fought Anderson in private.", "label": 1, "match_id": 344, "predicate": "fought"}
+{"s1": "Earlier this year, Anderson trained Thompson in private.", "s2": "Earlier this year, Thompson trained Anderson in private.", "label": 0, "match_id": 344, "predicate": "trained"}
+{"s1": "Clarke married Stewart at the conference in 2017.", "s2": "Stewart married Clarke at the conference in 2017.", "label": 1, "match_id": 345, "predicate": "married"}
+{"s1": "Clarke hired Stewart at the conference in 2017.", "s2": "Stewart hired Clarke at the conference in 2017.", "label": 0, "match_id": 345, "predicate": "hired"}
+{"s1": "Last week, Wilson worked with Taylor in London.", "s2": "Last week, Taylor worked with Wilson in London.", "label": 1, "match_id": 346, "predicate": "worked with"}
+{"s1": "Last week, Wilson worked for Taylor in London.", "s2": "Last week, Taylor worked for Wilson in London.", "label": 0, "match_id": 346, "predicate": "worked for"}
+{"s1": "During 2004, Morgan married Turner in Tokyo.", "s2": "During 2004, Turner married Morgan in Tokyo.", "label": 1, "match_id": 347, "predicate": "married"}
+{"s1": "During 2004, Morgan hired Turner in Tokyo.", "s2": "During 2004, Turner hired Morgan in Tokyo.", "label": 0, "match_id": 347, "predicate": "hired"}
+{"s1": "Earlier this year, Davis divorced Kelly in private.", "s2": "Earlier this year, Kelly divorced Davis in private.", "label": 1, "match_id": 348, "predicate": "divorced"}
+{"s1": "Earlier this year, Davis sued Kelly in private.", "s2": "Earlier this year, Kelly sued Davis in private.", "label": 0, "match_id": 348, "predicate": "sued"}
+{"s1": "The report says Parker competed against Robinson in Paris.", "s2": "The report says Robinson competed against Parker in Paris.", "label": 1, "match_id": 349, "predicate": "competed against"}
+{"s1": "The report says Parker wrote to Robinson in Paris.", "s2": "The report says Robinson wrote to Parker in Paris.", "label": 0, "match_id": 349, "predicate": "wrote to"}
+{"s1": "The report says Allen divorced Parker in Boston.", "s2": "The report says Parker divorced Allen in Boston.", "label": 1, "match_id": 350, "predicate": "divorced"}
+{"s1": "The report says Allen sued Parker in Boston.", "s2": "The report says Parker sued Allen in Boston.", "label": 0, "match_id": 350, "predicate": "sued"}
+{"s1": "The report says Clarke argued with Jackson in Toronto.", "s2": "The report says Jackson argued with Clarke in Toronto.", "label": 1, "match_id": 351, "predicate": "argued with"}
+{"s1": "The report says Clarke reported to Jackson in Toronto.", "s2": "The report says Jackson reported to Clarke in Toronto.", "label": 0, "match_id": 351, "predicate": "reported to"}
+{"s1": "Earlier this year, Kelly argued with Smith in private.", "s2": "Earlier this year, Smith argued with Kelly in private.", "label": 1, "match_id": 352, "predicate": "argued with"}
+{"s1": "Earlier this year, Kelly reported to Smith in private.", "s2": "Earlier this year, Smith reported to Kelly in private.", "label": 0, "match_id": 352, "predicate": "reported to"}
+{"s1": "The report says Lewis played against Morgan in Sydney.", "s2": "The report says Morgan played against Lewis in Sydney.", "label": 1, "match_id": 353, "predicate": "played against"}
+{"s1": "The report says Lewis voted for Morgan in Sydney.", "s2": "The report says Morgan voted for Lewis in Sydney.", "label": 0, "match_id": 353, "predicate": "voted for"}
+{"s1": "Last week, Anderson fought Clarke in London.", "s2": "Last week, Clarke fought Anderson in London.", "label": 1, "match_id": 354, "predicate": "fought"}
+{"s1": "Last week, Anderson trained Clarke in London.", "s2": "Last week, Clarke trained Anderson in London.", "label": 0, "match_id": 354, "predicate": "trained"}
+{"s1": "The report says Jackson worked with Mitchell in Toronto.", "s2": "The report says Mitchell worked with Jackson in Toronto.", "label": 1, "match_id": 355, "predicate": "worked with"}
+{"s1": "The report says Jackson worked for Mitchell in Toronto.", "s2": "The report says Mitchell worked for Jackson in Toronto.", "label": 0, "match_id": 355, "predicate": "worked for"}
+{"s1": "During 1999, Wright worked with Murphy in Rome.", "s2": "During 1999, Murphy worked with Wright in Rome.", "label": 1, "match_id": 356, "predicate": "worked with"}
+{"s1": "During 1999, Wright worked for Murphy in Rome.", "s2": "During 1999, Murphy worked for Wright in Rome.", "label": 0, "match_id": 356, "predicate": "worked for"}
+{"s1": "Earlier this year, Watson competed against Collins in private.", "s2": "Earlier this year, Collins competed against Watson in private.", "label": 1, "match_id": 357, "predicate": "competed against"}
+{"s1": "Earlier this year, Watson wrote to Collins in private.", "s2": "Earlier this year, Collins wrote to Watson in private.", "label": 0, "match_id": 357, "predicate": "wrote to"}
+{"s1": "Earlier this year, Morgan competed against Hughes in private.", "s2": "Earlier this year, Hughes competed against Morgan in private.", "label": 1, "match_id": 358, "predicate": "competed against"}
+{"s1": "Earlier this year, Morgan wrote to Hughes in private.", "s2": "Earlier this year, Hughes wrote to Morgan in private.", "label": 0, "match_id": 358, "predicate": "wrote to"}
+{"s1": "Kelly worked with Wilson at the conference in 2016.", "s2": "Wilson worked with Kelly at the conference in 2016.", "label": 1, "match_id": 359, "predicate": "worked with"}
+{"s1": "Kelly worked for Wilson at the conference in 2016.", "s2": "Wilson worked for Kelly at the conference in 2016.", "label": 0, "match_id": 359, "predicate": "worked for"}
+{"s1": "Last week, Martin fought Campbell in London.", "s2": "Last week, Campbell fought Martin in London.", "label": 1, "match_id": 360, "predicate": "fought"}
+{"s1": "Last week, Martin trained Campbell in London.", "s2": "Last week, Campbell trained Martin in London.", "label": 0, "match_id": 360, "predicate": "trained"}
+{"s1": "Last week, Collins competed against Evans in Vienna.", "s2": "Last week, Evans competed against Collins in Vienna.", "label": 1, "match_id": 361, "predicate": "competed against"}
+{"s1": "Last week, Collins wrote to Evans in Vienna.", "s2": "Last week, Evans wrote to Collins in Vienna.", "label": 0, "match_id": 361, "predicate": "wrote to"}
+{"s1": "During 2011, Patel fought Campbell in Rome.", "s2": "During 2011, Campbell fought Patel in Rome.", "label": 1, "match_id": 362, "predicate": "fought"}
+{"s1": "During 2011, Patel trained Campbell in Rome.", "s2": "During 2011, Campbell trained Patel in Rome.", "label": 0, "match_id": 362, "predicate": "trained"}
+{"s1": "Earlier this year, Parker argued with Garcia in private.", "s2": "Earlier this year, Garcia argued with Parker in private.", "label": 1, "match_id": 363, "predicate": "argued with"}
+{"s1": "Earlier this year, Parker reported to Garcia in private.", "s2": "Earlier this year, Garcia reported to Parker in private.", "label": 0, "match_id": 363, "predicate": "reported to"}
+{"s1": "Hughes fought Evans at the conference in 2000.", "s2": "Evans fought Hughes at the conference in 2000.", "label": 1, "match_id": 364, "predicate": "fought"}
+{"s1": "Hughes trained Evans at the conference in 2000.", "s2": "Evans trained Hughes at the conference in 2000.", "label": 0, "match_id": 364, "predicate": "trained"}
+{"s1": "The report says Murphy argued with Watson in Chicago.", "s2": "The report says Watson argued with Murphy in Chicago.", "label": 1, "match_id": 365, "predicate": "argued with"}
+{"s1": "The report says Murphy reported to Watson in Chicago.", "s2": "The report says Watson reported to Murphy in Chicago.", "label": 0, "match_id": 365, "predicate": "reported to"}
+{"s1": "Taylor fought Davis at the conference in 2006.", "s2": "Davis fought Taylor at the conference in 2006.", "label": 1, "match_id": 366, "predicate": "fought"}
+{"s1": "Taylor trained Davis at the conference in 2006.", "s2": "Davis trained Taylor at the conference in 2006.", "label": 0, "match_id": 366, "predicate": "trained"}
+{"s1": "The report says Evans competed against Wright in Toronto.", "s2": "The report says Wright competed against Evans in Toronto.", "label": 1, "match_id": 367, "predicate": "competed against"}
+{"s1": "The report says Evans wrote to Wright in Toronto.", "s2": "The report says Wright wrote to Evans in Toronto.", "label": 0, "match_id": 367, "predicate": "wrote to"}
+{"s1": "During 2014, Jackson argued with Miller in London.", "s2": "During 2014, Miller argued with Jackson in London.", "label": 1, "match_id": 368, "predicate": "argued with"}
+{"s1": "During 2014, Jackson reported to Miller in London.", "s2": "During 2014, Miller reported to Jackson in London.", "label": 0, "match_id": 368, "predicate": "reported to"}
+{"s1": "During 2010, Edwards met Murphy in Toronto.", "s2": "During 2010, Murphy met Edwards in Toronto.", "label": 1, "match_id": 369, "predicate": "met"}
+{"s1": "During 2010, Edwards defeated Murphy in Toronto.", "s2": "During 2010, Murphy defeated Edwards in Toronto.", "label": 0, "match_id": 369, "predicate": "defeated"}
+{"s1": "Earlier this year, Martin fought Jackson in private.", "s2": "Earlier this year, Jackson fought Martin in private.", "label": 1, "match_id": 370, "predicate": "fought"}
+{"s1": "Earlier this year, Martin trained Jackson in private.", "s2": "Earlier this year, Jackson trained Martin in private.", "label": 0, "match_id": 370, "predicate": "trained"}
+{"s1": "Last week, Martin divorced Taylor in Madrid.", "s2": "Last week, Taylor divorced Martin in Madrid.", "label": 1, "match_id": 371, "predicate": "divorced"}
+{"s1": "Last week, Martin sued Taylor in Madrid.", "s2": "Last week, Taylor sued Martin in Madrid.", "label": 0, "match_id": 371, "predicate": "sued"}
+{"s1": "Evans played against Jones at the conference in 1996.", "s2": "Jones played against Evans at the conference in 1996.", "label": 1, "match_id": 372, "predicate": "played against"}
+{"s1": "Evans voted for Jones at the conference in 1996.", "s2": "Jones voted for Evans at the conference in 1996.", "label": 0, "match_id": 372, "predicate": "voted for"}
+{"s1": "Earlier this year, Phillips argued with Davis in private.", "s2": "Earlier this year, Davis argued with Phillips in private.", "label": 1, "match_id": 373, "predicate": "argued with"}
+{"s1": "Earlier this year, Phillips reported to Davis in private.", "s2": "Earlier this year, Davis reported to Phillips in private.", "label": 0, "match_id": 373, "predicate": "reported to"}
+{"s1": "Last week, Evans married Martin in Toronto.", "s2": "Last week, Martin married Evans in Toronto.", "label": 1, "match_id": 374, "predicate": "married"}
+{"s1": "Last week, Evans hired Martin in Toronto.", "s2": "Last week, Martin hired Evans in Toronto.", "label": 0, "match_id": 374, "predicate": "hired"}
+{"s1": "Garcia married Patel at the conference in 2000.", "s2": "Patel married Garcia at the conference in 2000.", "label": 1, "match_id": 375, "predicate": "married"}
+{"s1": "Garcia hired Patel at the conference in 2000.", "s2": "Patel hired Garcia at the conference in 2000.", "label": 0, "match_id": 375, "predicate": "hired"}
+{"s1": "Lewis argued with Harris at the conference in 2000.", "s2": "Harris argued with Lewis at the conference in 2000.", "label": 1, "match_id": 376, "predicate": "argued with"}
+{"s1": "Lewis reported to Harris at the conference in 2000.", "s2": "Harris reported to Lewis at the conference in 2000.", "label": 0, "match_id": 376, "predicate": "reported to"}
+{"s1": "The report says Wilson argued with Stewart in London.", "s2": "The report says Stewart argued with Wilson in London.", "label": 1, "match_id": 377, "predicate": "argued with"}
+{"s1": "The report says Wilson reported to Stewart in London.", "s2": "The report says Stewart reported to Wilson in London.", "label": 0, "match_id": 377, "predicate": "reported to"}
+{"s1": "The report says Wilson competed against Johnson in Vienna.", "s2": "The report says Johnson competed against Wilson in Vienna.", "label": 1, "match_id": 378, "predicate": "competed against"}
+{"s1": "The report says Wilson wrote to Johnson in Vienna.", "s2": "The report says Johnson wrote to Wilson in Vienna.", "label": 0, "match_id": 378, "predicate": "wrote to"}
+{"s1": "During 2013, Turner fought Campbell in Boston.", "s2": "During 2013, Campbell fought Turner in Boston.", "label": 1, "match_id": 379, "predicate": "fought"}
+{"s1": "During 2013, Turner trained Campbell in Boston.", "s2": "During 2013, Campbell trained Turner in Boston.", "label": 0, "match_id": 379, "predicate": "trained"}
+{"s1": "During 2003, Cooper competed against Harrison in Dublin.", "s2": "During 2003, Harrison competed against Cooper in Dublin.", "label": 1, "match_id": 380, "predicate": "competed against"}
+{"s1": "During 2003, Cooper wrote to Harrison in Dublin.", "s2": "During 2003, Harrison wrote to Cooper in Dublin.", "label": 0, "match_id": 380, "predicate": "wrote to"}
+{"s1": "During 2000, Parker argued with Morgan in Boston.", "s2": "During 2000, Morgan argued with Parker in Boston.", "label": 1, "match_id": 381, "predicate": "argued with"}
+{"s1": "During 2000, Parker reported to Morgan in Boston.", "s2": "During 2000, Morgan reported to Parker in Boston.", "label": 0, "match_id": 381, "predicate": "reported to"}
+{"s1": "Smith divorced Phillips at the conference in 2017.", "s2": "Phillips divorced Smith at the conference in 2017.", "label": 1, "match_id": 382, "predicate": "divorced"}
+{"s1": "Smith sued Phillips at the conference in 2017.", "s2": "Phillips sued Smith at the conference in 2017.", "label": 0, "match_id": 382, "predicate": "sued"}
+{"s1": "During 2014, Harris divorced Davies in Vienna.", "s2": "During 2014, Davies divorced Harris in Vienna.", "label": 1, "match_id": 383, "predicate": "divorced"}
+{"s1": "During 2014, Harris sued Davies in Vienna.", "s2": "During 2014, Davies sued Harris in Vienna.", "label": 0, "match_id": 383, "predicate": "sued"}
+{"s1": "Johnson competed against Morgan at the conference in 1995.", "s2": "Morgan competed against Johnson at the conference in 1995.", "label": 1, "match_id": 384, "predicate": "competed against"}
+{"s1": "Johnson wrote to Morgan at the conference in 1995.", "s2": "Morgan wrote to Johnson at the conference in 1995.", "label": 0, "match_id": 384, "predicate": "wrote to"}
+{"s1": "During 2002, Morris competed against Cooper in Boston.", "s2": "During 2002, Cooper competed against Morris in Boston.", "label": 1, "match_id": 385, "predicate": "competed against"}
+{"s1": "During 2002, Morris wrote to Cooper in Boston.", "s2": "During 2002, Cooper wrote to Morris in Boston.", "label": 0, "match_id": 385, "predicate": "wrote to"}
+{"s1": "During 2002, Wright argued with Morris in Tokyo.", "s2": "During 2002, Morris argued with Wright in Tokyo.", "label": 1, "match_id": 386, "predicate": "argued with"}
+{"s1": "During 2002, Wright reported to Morris in Tokyo.", "s2": "During 2002, Morris reported to Wright in Tokyo.", "label": 0, "match_id": 386, "predicate": "reported to"}
+{"s1": "During 1999, Anderson divorced Stewart in Boston.", "s2": "During 1999, Stewart divorced Anderson in Boston.", "label": 1, "match_id": 387, "predicate": "divorced"}
+{"s1": "During 1999, Anderson sued Stewart in Boston.", "s2": "During 1999, Stewart sued Anderson in Boston.", "label": 0, "match_id": 387, "predicate": "sued"}
+{"s1": "Allen worked with Lewis at the conference in 1999.", "s2": "Lewis worked with Allen at the conference in 1999.", "label": 1, "match_id": 388, "predicate": "worked with"}
+{"s1": "Allen worked for Lewis at the conference in 1999.", "s2": "Lewis worked for Allen at the conference in 1999.", "label": 0, "match_id": 388, "predicate": "worked for"}
+{"s1": "The report says Morris worked with Robinson in Boston.", "s2": "The report says Robinson worked with Morris in Boston.", "label": 1, "match_id": 389, "predicate": "worked with"}
+{"s1": "The report says Morris worked for Robinson in Boston.", "s2": "The report says Robinson worked for Morris in Boston.", "label": 0, "match_id": 389, "predicate": "worked for"}
+{"s1": "During 1998, Phillips argued with Parker in Berlin.", "s2": "During 1998, Parker argued with Phillips in Berlin.", "label": 1, "match_id": 390, "predicate": "argued with"}
+{"s1": "During 1998, Phillips reported to Parker in Berlin.", "s2": "During 1998, Parker reported to Phillips in Berlin.", "label": 0, "match_id": 390, "predicate": "reported to"}
+{"s1": "Earlier this year, Edwards met Stewart in private.", "s2": "Earlier this year, Stewart met Edwards in private.", "label": 1, "match_id": 391, "predicate": "met"}
+{"s1": "Earlier this year, Edwards defeated Stewart in private.", "s2": "Earlier this year, Stewart defeated Edwards in private.", "label": 0, "match_id": 391, "predicate": "defeated"}
+{"s1": "During 2008, Hughes worked with Harrison in Rome.", "s2": "During 2008, Harrison worked with Hughes in Rome.", "label": 1, "match_id": 392, "predicate": "worked with"}
+{"s1": "During 2008, Hughes worked for Harrison in Rome.", "s2": "During 2008, Harrison worked for Hughes in Rome.", "label": 0, "match_id": 392, "predicate": "worked for"}
+{"s1": "Johnson fought Morgan at the conference in 2004.", "s2": "Morgan fought Johnson at the conference in 2004.", "label": 1, "match_id": 393, "predicate": "fought"}
+{"s1": "Johnson trained Morgan at the conference in 2004.", "s2": "Morgan trained Johnson at the conference in 2004.", "label": 0, "match_id": 393, "predicate": "trained"}
+{"s1": "Clarke met Wright at the conference in 2015.", "s2": "Wright met Clarke at the conference in 2015.", "label": 1, "match_id": 394, "predicate": "met"}
+{"s1": "Clarke defeated Wright at the conference in 2015.", "s2": "Wright defeated Clarke at the conference in 2015.", "label": 0, "match_id": 394, "predicate": "defeated"}
+{"s1": "Last week, Garcia argued with Walker in London.", "s2": "Last week, Walker argued with Garcia in London.", "label": 1, "match_id": 395, "predicate": "argued with"}
+{"s1": "Last week, Garcia reported to Walker in London.", "s2": "Last week, Walker reported to Garcia in London.", "label": 0, "match_id": 395, "predicate": "reported to"}
+{"s1": "Earlier this year, Thompson worked with Harrison in private.", "s2": "Earlier this year, Harrison worked with Thompson in private.", "label": 1, "match_id": 396, "predicate": "worked with"}
+{"s1": "Earlier this year, Thompson worked for Harrison in private.", "s2": "Earlier this year, Harrison worked for Thompson in private.", "label": 0, "match_id": 396, "predicate": "worked for"}
+{"s1": "Last week, Jackson fought Murphy in Berlin.", "s2": "Last week, Murphy fought Jackson in Berlin.", "label": 1, "match_id": 397, "predicate": "fought"}
+{"s1": "Last week, Jackson trained Murphy in Berlin.", "s2": "Last week, Murphy trained Jackson in Berlin.", "label": 0, "match_id": 397, "predicate": "trained"}
+{"s1": "Thompson fought Hughes at the conference in 2014.", "s2": "Hughes fought Thompson at the conference in 2014.", "label": 1, "match_id": 398, "predicate": "fought"}
+{"s1": "Thompson trained Hughes at the conference in 2014.", "s2": "Hughes trained Thompson at the conference in 2014.", "label": 0, "match_id": 398, "predicate": "trained"}
+{"s1": "During 2001, Jackson competed against Thompson in Berlin.", "s2": "During 2001, Thompson competed against Jackson in Berlin.", "label": 1, "match_id": 399, "predicate": "competed against"}
+{"s1": "During 2001, Jackson wrote to Thompson in Berlin.", "s2": "During 2001, Thompson wrote to Jackson in Berlin.", "label": 0, "match_id": 399, "predicate": "wrote to"}

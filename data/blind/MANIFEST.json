@@ -1,0 +1,97 @@
+{
+  "hans": {
+    "n": 3000,
+    "sha256": "39fbc355f5fa7ea2c12a49bfd6c3b5b9b1cf91732b78183f41309a3547bfac3c",
+    "by_subcase": {
+      "ln_subject/object_swap": 1000,
+      "ln_passive": 1000,
+      "le_passive": 1000
+    }
+  },
+  "pawsx_en": {
+    "n": 2000,
+    "sha256": "3fbf7afae6828d308b0594f5ab5400e5e3c1a4bc0c34d108de0a3afc0b8a2ddd",
+    "by_label": {
+      "1": 907,
+      "0": 1093
+    }
+  },
+  "pawsx_de": {
+    "n": 2000,
+    "sha256": "938463c3e880ea722edc35407567d59c6737cc3dc7920f6d1ad8722acbab72a8",
+    "by_label": {
+      "1": 895,
+      "0": 1105
+    }
+  },
+  "pawsx_es": {
+    "n": 2000,
+    "sha256": "9dea5c6cc274cfbdd6ece40447464dbcd1341799a2d01119c95b668ad70268c1",
+    "by_label": {
+      "1": 907,
+      "0": 1093
+    }
+  },
+  "pawsx_fr": {
+    "n": 2000,
+    "sha256": "dcd215d6eae22881f2281ff686b9e5a63a7334277d7b9cf548a9c24c49776888",
+    "by_label": {
+      "1": 903,
+      "0": 1097
+    }
+  },
+  "pawsx_ja": {
+    "n": 2000,
+    "sha256": "f8669e1b274090c92387372145c3e82a53d75c6926b2f46aec951c647cc31d35",
+    "by_label": {
+      "1": 883,
+      "0": 1117
+    }
+  },
+  "pawsx_ko": {
+    "n": 2000,
+    "sha256": "ee4f07693620592b9c967c4937d53f83f08e5ccb38d087536463acc0629c5074",
+    "by_label": {
+      "1": 896,
+      "0": 1104
+    }
+  },
+  "pawsx_zh": {
+    "n": 2000,
+    "sha256": "08ceaeb03a16d5d922cfc07e9f4e7d89758b3ae31c664d5de4f34c9827ca38ee",
+    "by_label": {
+      "1": 894,
+      "0": 1106
+    }
+  },
+  "sickr": {
+    "n": 9927,
+    "sha256": "f4f092d9c089f57ea4e774219927c9c26abf2664500d6d9b7661370563c04f08",
+    "source": "mteb/sickr-sts"
+  },
+  "sts12": {
+    "n": 3108,
+    "sha256": "6a00465937963492dd447eafd723dbf3424af322293cb1231d2316b1a3dd5829",
+    "source": "mteb/sts12-sts"
+  },
+  "sts13": {
+    "n": 1500,
+    "sha256": "df807320108ce3bd53608d0f373f1fa38f326cc96c6308a1b6c0ae5f4e081b6e",
+    "source": "mteb/sts13-sts"
+  },
+  "sts14": {
+    "n": 3750,
+    "sha256": "eaa716317a5adc36d365eef61d0209f5c209e445be028a7e2f89c50e6a58cfe2",
+    "source": "mteb/sts14-sts"
+  },
+  "sts15": {
+    "n": 3000,
+    "sha256": "33ae49a21f2aeb338a09445a3e012551050b8c8b88e2f9bb859d17c0818d216a",
+    "source": "mteb/sts15-sts"
+  },
+  "sts16": {
+    "n": 1186,
+    "sha256": "65e8b13c8162a36ce7ba8668ec8a1aa4d9abd4bd6c207184fc9003863b6249f8",
+    "source": "mteb/sts16-sts"
+  }
+}

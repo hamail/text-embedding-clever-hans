@@ -1,0 +1,51 @@
+domain,model,original,same meaning / new words,opposite meaning / same words,d kept,d reversed,ratio,closer
+pharmacology,BGE-base,Ritonavir inhibits the metabolism of midazolam.,The metabolism of midazolam is slowed by ritonavir.,Midazolam inhibits the metabolism of ritonavir.,0.0987,0.0243,0.247,reversal
+pharmacology,E5-base,Ritonavir inhibits the metabolism of midazolam.,The metabolism of midazolam is slowed by ritonavir.,Midazolam inhibits the metabolism of ritonavir.,0.0863,0.0165,0.191,reversal
+pharmacology,Qwen3-0.6B,Ritonavir inhibits the metabolism of midazolam.,The metabolism of midazolam is slowed by ritonavir.,Midazolam inhibits the metabolism of ritonavir.,0.1211,0.0982,0.811,reversal
+pharmacology,Qwen3-8B,Ritonavir inhibits the metabolism of midazolam.,The metabolism of midazolam is slowed by ritonavir.,Midazolam inhibits the metabolism of ritonavir.,0.2303,0.1158,0.503,reversal
+pharmacology,unsup-SimCSE,Ritonavir inhibits the metabolism of midazolam.,The metabolism of midazolam is slowed by ritonavir.,Midazolam inhibits the metabolism of ritonavir.,0.3153,0.0163,0.052,reversal
+pharmacology,BGE-base,Rifampicin induces the enzyme that clears warfarin.,Warfarin is cleared faster because rifampicin induces the enzyme.,Warfarin induces the enzyme that clears rifampicin.,0.1413,0.0160,0.113,reversal
+pharmacology,E5-base,Rifampicin induces the enzyme that clears warfarin.,Warfarin is cleared faster because rifampicin induces the enzyme.,Warfarin induces the enzyme that clears rifampicin.,0.1479,0.0184,0.124,reversal
+pharmacology,Qwen3-0.6B,Rifampicin induces the enzyme that clears warfarin.,Warfarin is cleared faster because rifampicin induces the enzyme.,Warfarin induces the enzyme that clears rifampicin.,0.1693,0.0992,0.586,reversal
+pharmacology,Qwen3-8B,Rifampicin induces the enzyme that clears warfarin.,Warfarin is cleared faster because rifampicin induces the enzyme.,Warfarin induces the enzyme that clears rifampicin.,0.1804,0.1182,0.655,reversal
+pharmacology,unsup-SimCSE,Rifampicin induces the enzyme that clears warfarin.,Warfarin is cleared faster because rifampicin induces the enzyme.,Warfarin induces the enzyme that clears rifampicin.,0.2998,0.0146,0.049,reversal
+epidemiology,BGE-base,The virus was transmitted from the patient to the nurse.,The nurse caught the virus from the patient.,The virus was transmitted from the nurse to the patient.,0.1773,0.0036,0.020,reversal
+epidemiology,E5-base,The virus was transmitted from the patient to the nurse.,The nurse caught the virus from the patient.,The virus was transmitted from the nurse to the patient.,0.1100,0.0022,0.020,reversal
+epidemiology,Qwen3-0.6B,The virus was transmitted from the patient to the nurse.,The nurse caught the virus from the patient.,The virus was transmitted from the nurse to the patient.,0.1532,0.0203,0.132,reversal
+epidemiology,Qwen3-8B,The virus was transmitted from the patient to the nurse.,The nurse caught the virus from the patient.,The virus was transmitted from the nurse to the patient.,0.1686,0.0451,0.268,reversal
+epidemiology,unsup-SimCSE,The virus was transmitted from the patient to the nurse.,The nurse caught the virus from the patient.,The virus was transmitted from the nurse to the patient.,0.2259,0.0035,0.015,reversal
+molecular biology,BGE-base,The kinase phosphorylates the receptor.,The receptor is phosphorylated by the kinase.,The receptor phosphorylates the kinase.,0.0763,0.0304,0.399,reversal
+molecular biology,E5-base,The kinase phosphorylates the receptor.,The receptor is phosphorylated by the kinase.,The receptor phosphorylates the kinase.,0.0660,0.0167,0.254,reversal
+molecular biology,Qwen3-0.6B,The kinase phosphorylates the receptor.,The receptor is phosphorylated by the kinase.,The receptor phosphorylates the kinase.,0.0634,0.0493,0.777,reversal
+molecular biology,Qwen3-8B,The kinase phosphorylates the receptor.,The receptor is phosphorylated by the kinase.,The receptor phosphorylates the kinase.,0.0681,0.1488,2.186,paraphrase
+molecular biology,unsup-SimCSE,The kinase phosphorylates the receptor.,The receptor is phosphorylated by the kinase.,The receptor phosphorylates the kinase.,0.0595,0.0047,0.080,reversal
+law,BGE-base,The plaintiff sued the defendant for breach of contract.,The defendant was sued by the plaintiff for breach of contract.,The defendant sued the plaintiff for breach of contract.,0.0291,0.0112,0.383,reversal
+law,E5-base,The plaintiff sued the defendant for breach of contract.,The defendant was sued by the plaintiff for breach of contract.,The defendant sued the plaintiff for breach of contract.,0.0215,0.0049,0.229,reversal
+law,Qwen3-0.6B,The plaintiff sued the defendant for breach of contract.,The defendant was sued by the plaintiff for breach of contract.,The defendant sued the plaintiff for breach of contract.,0.0604,0.0235,0.390,reversal
+law,Qwen3-8B,The plaintiff sued the defendant for breach of contract.,The defendant was sued by the plaintiff for breach of contract.,The defendant sued the plaintiff for breach of contract.,0.0714,0.2164,3.032,paraphrase
+law,unsup-SimCSE,The plaintiff sued the defendant for breach of contract.,The defendant was sued by the plaintiff for breach of contract.,The defendant sued the plaintiff for breach of contract.,0.0192,0.0010,0.053,reversal
+clinical,BGE-base,The donor's kidney was transplanted into the recipient.,The recipient received a kidney from the donor.,The recipient's kidney was transplanted into the donor.,0.1109,0.0203,0.183,reversal
+clinical,E5-base,The donor's kidney was transplanted into the recipient.,The recipient received a kidney from the donor.,The recipient's kidney was transplanted into the donor.,0.0930,0.0095,0.103,reversal
+clinical,Qwen3-0.6B,The donor's kidney was transplanted into the recipient.,The recipient received a kidney from the donor.,The recipient's kidney was transplanted into the donor.,0.1495,0.0474,0.317,reversal
+clinical,Qwen3-8B,The donor's kidney was transplanted into the recipient.,The recipient received a kidney from the donor.,The recipient's kidney was transplanted into the donor.,0.1438,0.3733,2.596,paraphrase
+clinical,unsup-SimCSE,The donor's kidney was transplanted into the recipient.,The recipient received a kidney from the donor.,The recipient's kidney was transplanted into the donor.,0.1732,0.0027,0.016,reversal
+news,BGE-base,Germany defeated Brazil in the semi-final.,Brazil lost to Germany in the semi-final.,Brazil defeated Germany in the semi-final.,0.1458,0.0139,0.095,reversal
+news,E5-base,Germany defeated Brazil in the semi-final.,Brazil lost to Germany in the semi-final.,Brazil defeated Germany in the semi-final.,0.0940,0.0393,0.418,reversal
+news,Qwen3-0.6B,Germany defeated Brazil in the semi-final.,Brazil lost to Germany in the semi-final.,Brazil defeated Germany in the semi-final.,0.1365,0.1002,0.734,reversal
+news,Qwen3-8B,Germany defeated Brazil in the semi-final.,Brazil lost to Germany in the semi-final.,Brazil defeated Germany in the semi-final.,0.1691,0.1861,1.100,paraphrase
+news,unsup-SimCSE,Germany defeated Brazil in the semi-final.,Brazil lost to Germany in the semi-final.,Brazil defeated Germany in the semi-final.,0.0911,0.0075,0.083,reversal
+finance,BGE-base,Barclays acquired Lehman's brokerage arm.,Lehman's brokerage arm was bought by Barclays.,Lehman acquired Barclays' brokerage arm.,0.0561,0.0100,0.179,reversal
+finance,E5-base,Barclays acquired Lehman's brokerage arm.,Lehman's brokerage arm was bought by Barclays.,Lehman acquired Barclays' brokerage arm.,0.0382,0.0092,0.241,reversal
+finance,Qwen3-0.6B,Barclays acquired Lehman's brokerage arm.,Lehman's brokerage arm was bought by Barclays.,Lehman acquired Barclays' brokerage arm.,0.1342,0.1447,1.078,paraphrase
+finance,Qwen3-8B,Barclays acquired Lehman's brokerage arm.,Lehman's brokerage arm was bought by Barclays.,Lehman acquired Barclays' brokerage arm.,0.1054,0.1070,1.014,paraphrase
+finance,unsup-SimCSE,Barclays acquired Lehman's brokerage arm.,Lehman's brokerage arm was bought by Barclays.,Lehman acquired Barclays' brokerage arm.,0.0598,0.0177,0.297,reversal
+negation,BGE-base,The trial showed the drug reduces mortality.,Mortality fell in the group given the drug.,The trial showed the drug does not reduce mortality.,0.4501,0.2289,0.508,reversal
+negation,E5-base,The trial showed the drug reduces mortality.,Mortality fell in the group given the drug.,The trial showed the drug does not reduce mortality.,0.3828,0.2357,0.616,reversal
+negation,Qwen3-0.6B,The trial showed the drug reduces mortality.,Mortality fell in the group given the drug.,The trial showed the drug does not reduce mortality.,0.3153,0.2888,0.916,reversal
+negation,Qwen3-8B,The trial showed the drug reduces mortality.,Mortality fell in the group given the drug.,The trial showed the drug does not reduce mortality.,0.2456,0.3368,1.372,paraphrase
+negation,unsup-SimCSE,The trial showed the drug reduces mortality.,Mortality fell in the group given the drug.,The trial showed the drug does not reduce mortality.,0.5138,0.0677,0.132,reversal
+quantity,BGE-base,The dose was increased from 5 mg to 20 mg.,The dose went up to 20 mg from 5 mg.,The dose was increased from 20 mg to 5 mg.,0.0531,0.0019,0.035,reversal
+quantity,E5-base,The dose was increased from 5 mg to 20 mg.,The dose went up to 20 mg from 5 mg.,The dose was increased from 20 mg to 5 mg.,0.0616,0.0024,0.038,reversal
+quantity,Qwen3-0.6B,The dose was increased from 5 mg to 20 mg.,The dose went up to 20 mg from 5 mg.,The dose was increased from 20 mg to 5 mg.,0.0637,0.0228,0.357,reversal
+quantity,Qwen3-8B,The dose was increased from 5 mg to 20 mg.,The dose went up to 20 mg from 5 mg.,The dose was increased from 20 mg to 5 mg.,0.1030,0.0883,0.857,reversal
+quantity,unsup-SimCSE,The dose was increased from 5 mg to 20 mg.,The dose went up to 20 mg from 5 mg.,The dose was increased from 20 mg to 5 mg.,0.1001,0.0032,0.032,reversal

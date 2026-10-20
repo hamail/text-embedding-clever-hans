@@ -1,0 +1,129 @@
+{
+  "args": {
+    "cmd": "negatives",
+    "base": "retrained",
+    "kinds": [
+      "none",
+      "random",
+      "topic",
+      "shuffled",
+      "non-role swap",
+      "role swap"
+    ],
+    "seeds": [
+      1,
+      2
+    ],
+    "negatives": "negatives.jsonl",
+    "n_anchors": 20000,
+    "steps": 200,
+    "bs": 64,
+    "lr": 1e-05,
+    "temp": 0.05,
+    "seed": 7,
+    "triplets": "results/phase2_retrieval/unsup-simcse-bert-base-uncased/triplets.json"
+  },
+  "before": {
+    "stsb_rho": 0.8178990714953761,
+    "overlap_excess": 0.5095511302535191,
+    "fooled": 0.276
+  },
+  "after": {
+    "retrained_neg_none_s1": {
+      "stsb_rho": 0.8005365645655634,
+      "overlap_excess": 0.5103060739829258,
+      "fooled": 0.294,
+      "kind": "none",
+      "seed": 1,
+      "negative_overlap": 0.0
+    },
+    "retrained_neg_none_s2": {
+      "stsb_rho": 0.8032380070090381,
+      "overlap_excess": 0.5087342584711961,
+      "fooled": 0.274,
+      "kind": "none",
+      "seed": 2,
+      "negative_overlap": 0.0
+    },
+    "retrained_neg_random_s1": {
+      "stsb_rho": 0.7992516887788779,
+      "overlap_excess": 0.5067166556870774,
+      "fooled": 0.292,
+      "kind": "random",
+      "seed": 1,
+      "negative_overlap": 0.00493677799321825
+    },
+    "retrained_neg_random_s2": {
+      "stsb_rho": 0.7974057920894878,
+      "overlap_excess": 0.5071870683323343,
+      "fooled": 0.272,
+      "kind": "random",
+      "seed": 2,
+      "negative_overlap": 0.004975854400145388
+    },
+    "retrained_neg_topic_s1": {
+      "stsb_rho": 0.7787942239508385,
+      "overlap_excess": 0.5028191575659978,
+      "fooled": 0.254,
+      "kind": "topic",
+      "seed": 1,
+      "negative_overlap": 0.1367318492518546
+    },
+    "retrained_neg_topic_s2": {
+      "stsb_rho": 0.7825067052534695,
+      "overlap_excess": 0.5032580582687546,
+      "fooled": 0.248,
+      "kind": "topic",
+      "seed": 2,
+      "negative_overlap": 0.1367318492518546
+    },
+    "retrained_neg_shuffled_s1": {
+      "stsb_rho": 0.7055489632335543,
+      "overlap_excess": 0.5019713427987921,
+      "fooled": 0.26,
+      "kind": "shuffled",
+      "seed": 1,
+      "negative_overlap": 1.0
+    },
+    "retrained_neg_shuffled_s2": {
+      "stsb_rho": 0.714928378515724,
+      "overlap_excess": 0.511159949417557,
+      "fooled": 0.266,
+      "kind": "shuffled",
+      "seed": 2,
+      "negative_overlap": 1.0
+    },
+    "retrained_neg_non-role-swap_s1": {
+      "stsb_rho": 0.6468163923229474,
+      "overlap_excess": 0.4574671514365538,
+      "fooled": 0.296,
+      "kind": "non-role swap",
+      "seed": 1,
+      "negative_overlap": 0.99991151321875
+    },
+    "retrained_neg_non-role-swap_s2": {
+      "stsb_rho": 0.6449538118240004,
+      "overlap_excess": 0.4590021929090749,
+      "fooled": 0.304,
+      "kind": "non-role swap",
+      "seed": 2,
+      "negative_overlap": 0.99991151321875
+    },
+    "retrained_neg_role-swap_s1": {
+      "stsb_rho": 0.7294295008811085,
+      "overlap_excess": 0.3166460806065381,
+      "fooled": 0.15,
+      "kind": "role swap",
+      "seed": 1,
+      "negative_overlap": 0.9999577158135983
+    },
+    "retrained_neg_role-swap_s2": {
+      "stsb_rho": 0.7262144195540713,
+      "overlap_excess": 0.3369778291223189,
+      "fooled": 0.134,
+      "kind": "role swap",
+      "seed": 2,
+      "negative_overlap": 0.9999577158135983
+    }
+  }
+}

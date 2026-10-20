@@ -1,0 +1,16 @@
+% T13  The rank of the binding term grows with the vocabulary  (source: e5 decompose)
+\begin{table}[t]
+\centering
+\small
+\caption{The rank of the binding term grows with the vocabulary. Directions holding 90\% of the binding term, at a fixed item count (ceiling 435 in every column, so the rank is nowhere near the sample bound). Growth is sub-linear and will saturate; we cannot say where. Do not extrapolate to the embedding dimension.}
+\begin{tabular}{lrrrr}
+\toprule
+model & 30 entities & 60 entities & 90 entities & 120 entities \\
+\midrule
+a generic role axis would need & 1 & 1 & 1 & 1 \\
+unsup-SimCSE & 37 & 55 & 69 & 78 \\
+BGE-base & 26 & 46 & 62 & 75 \\
+Qwen3-0.6B & 23 & 41 & 56 & 68 \\
+\bottomrule
+\end{tabular}
+\end{table}

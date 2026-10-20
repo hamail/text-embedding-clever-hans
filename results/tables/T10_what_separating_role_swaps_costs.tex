@@ -1,0 +1,42 @@
+% T10  What separating role swaps costs  (source: e4 entanglement)
+\begin{table}[t]
+\centering
+\small
+\caption{What separating role swaps costs. Compare rows only at the same rank and lambda: each lambda removes a different amount, so a rate averaged across them is not a like-for-like comparison. Read with T09 and T14: the rank-64 edit lacked the capacity to span the binding, and the rank-768 edit had it and failed on cost instead.}
+\begin{tabular}{lrrrrrr}
+\toprule
+model & edit & rank & lambda & similarity removed & STS-B lost & STS-B per 0.01 removed \\
+\midrule
+retrained & control swaps & 768 & 1000 & 0.0036 & 0.0002 & 0.000 \\
+retrained & control swaps & 768 & 300 & 0.0052 & 0.0012 & 0.002 \\
+retrained & control swaps & 768 & 100 & 0.0138 & 0.0103 & 0.007 \\
+retrained & control swaps & 768 & 30 & 0.0390 & 0.0558 & 0.014 \\
+retrained & entity swaps & 768 & 30 & 0.0032 & 0.0109 & 0.034 \\
+retrained & control swaps & 768 & 10 & 0.0926 & 0.1611 & 0.017 \\
+retrained & entity swaps & 768 & 10 & 0.0118 & 0.0615 & 0.052 \\
+retrained & control swaps & 64 & 1000 & 0.0044 & 0.0006 & 0.001 \\
+retrained & control swaps & 64 & 300 & 0.0089 & 0.0035 & 0.004 \\
+retrained & control swaps & 64 & 100 & 0.0190 & 0.0180 & 0.009 \\
+retrained & control swaps & 64 & 30 & 0.0364 & 0.0524 & 0.014 \\
+retrained & entity swaps & 64 & 30 & 0.0054 & 0.0204 & 0.038 \\
+retrained & control swaps & 64 & 10 & 0.0652 & 0.1191 & 0.018 \\
+retrained & entity swaps & 64 & 10 & 0.0112 & 0.0555 & 0.050 \\
+unsup-SimCSE & control swaps & 768 & 1000 & 0.0072 & 0.0001 & 0.000 \\
+unsup-SimCSE & control swaps & 768 & 300 & 0.0105 & 0.0031 & 0.003 \\
+unsup-SimCSE & control swaps & 768 & 100 & 0.0250 & 0.0236 & 0.009 \\
+unsup-SimCSE & entity swaps & 768 & 100 & 0.0034 & 0.0057 & 0.017 \\
+unsup-SimCSE & control swaps & 768 & 30 & 0.0680 & 0.1132 & 0.017 \\
+unsup-SimCSE & entity swaps & 768 & 30 & 0.0166 & 0.0400 & 0.024 \\
+unsup-SimCSE & control swaps & 768 & 10 & 0.1398 & 0.2118 & 0.015 \\
+unsup-SimCSE & entity swaps & 768 & 10 & 0.0508 & 0.1322 & 0.026 \\
+unsup-SimCSE & control swaps & 64 & 1000 & 0.0089 & 0.0015 & 0.002 \\
+unsup-SimCSE & control swaps & 64 & 300 & 0.0172 & 0.0116 & 0.007 \\
+unsup-SimCSE & control swaps & 64 & 100 & 0.0335 & 0.0425 & 0.013 \\
+unsup-SimCSE & entity swaps & 64 & 100 & 0.0079 & 0.0148 & 0.019 \\
+unsup-SimCSE & control swaps & 64 & 30 & 0.0594 & 0.1018 & 0.017 \\
+unsup-SimCSE & entity swaps & 64 & 30 & 0.0208 & 0.0531 & 0.026 \\
+unsup-SimCSE & control swaps & 64 & 10 & 0.0988 & 0.1688 & 0.017 \\
+unsup-SimCSE & entity swaps & 64 & 10 & 0.0364 & 0.0985 & 0.027 \\
+\bottomrule
+\end{tabular}
+\end{table}

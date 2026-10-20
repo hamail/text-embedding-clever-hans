@@ -1,0 +1,277 @@
+{
+  "exchange_rates": {
+    "retrained": [
+      {
+        "edit": "entity swaps",
+        "rank": 64,
+        "lam": 10,
+        "removed": 0.011172910531361935,
+        "stsb_lost": 0.05546130792861559,
+        "points_per_001": 0.049639087123214506
+      },
+      {
+        "edit": "entity swaps",
+        "rank": 64,
+        "lam": 30,
+        "removed": 0.005351066589355469,
+        "stsb_lost": 0.020372242911361194,
+        "points_per_001": 0.03807136870971926
+      },
+      {
+        "edit": "control swaps",
+        "rank": 64,
+        "lam": 10,
+        "removed": 0.06516017516454065,
+        "stsb_lost": 0.11907027129806147,
+        "points_per_001": 0.018273473175507673
+      },
+      {
+        "edit": "control swaps",
+        "rank": 64,
+        "lam": 30,
+        "removed": 0.03644826014836633,
+        "stsb_lost": 0.05238813794667907,
+        "points_per_001": 0.01437328907701708
+      },
+      {
+        "edit": "control swaps",
+        "rank": 64,
+        "lam": 100,
+        "removed": 0.019034186999003055,
+        "stsb_lost": 0.017985895819251474,
+        "points_per_001": 0.009449258757515365
+      },
+      {
+        "edit": "control swaps",
+        "rank": 64,
+        "lam": 300,
+        "removed": 0.008903205394744873,
+        "stsb_lost": 0.003528117178609569,
+        "points_per_001": 0.003962749394383336
+      },
+      {
+        "edit": "control swaps",
+        "rank": 64,
+        "lam": 1000,
+        "removed": 0.004419267177581787,
+        "stsb_lost": 0.0005864460586905151,
+        "points_per_001": 0.0013270210537743886
+      },
+      {
+        "edit": "entity swaps",
+        "rank": 768,
+        "lam": 10,
+        "removed": 0.011824289957682255,
+        "stsb_lost": 0.061480457113852194,
+        "points_per_001": 0.051995051993720995
+      },
+      {
+        "edit": "entity swaps",
+        "rank": 768,
+        "lam": 30,
+        "removed": 0.0031673113505045203,
+        "stsb_lost": 0.010926379148193388,
+        "points_per_001": 0.034497332087206796
+      },
+      {
+        "edit": "control swaps",
+        "rank": 768,
+        "lam": 10,
+        "removed": 0.09258542458216346,
+        "stsb_lost": 0.16113782732179738,
+        "points_per_001": 0.017404232690945667
+      },
+      {
+        "edit": "control swaps",
+        "rank": 768,
+        "lam": 30,
+        "removed": 0.038988808790842655,
+        "stsb_lost": 0.05584818099384503,
+        "points_per_001": 0.014324156783923634
+      },
+      {
+        "edit": "control swaps",
+        "rank": 768,
+        "lam": 100,
+        "removed": 0.013833324114481571,
+        "stsb_lost": 0.01032045059281217,
+        "points_per_001": 0.007460571665495851
+      },
+      {
+        "edit": "control swaps",
+        "rank": 768,
+        "lam": 300,
+        "removed": 0.005164206027984619,
+        "stsb_lost": 0.0012092238077591189,
+        "points_per_001": 0.0023415483449079778
+      },
+      {
+        "edit": "control swaps",
+        "rank": 768,
+        "lam": 1000,
+        "removed": 0.0036403338114420203,
+        "stsb_lost": 0.0001815098916410074,
+        "points_per_001": 0.0004986078229158527
+      }
+    ],
+    "unsup-simcse": [
+      {
+        "edit": "entity swaps",
+        "rank": 64,
+        "lam": 10,
+        "removed": 0.036391278107961056,
+        "stsb_lost": 0.09851081968861719,
+        "points_per_001": 0.02706989828616838
+      },
+      {
+        "edit": "entity swaps",
+        "rank": 64,
+        "lam": 30,
+        "removed": 0.02080357074737549,
+        "stsb_lost": 0.05314423865018736,
+        "points_per_001": 0.02554572928634949
+      },
+      {
+        "edit": "entity swaps",
+        "rank": 64,
+        "lam": 100,
+        "removed": 0.007928669452667236,
+        "stsb_lost": 0.01483667570388214,
+        "points_per_001": 0.01871269295870447
+      },
+      {
+        "edit": "control swaps",
+        "rank": 64,
+        "lam": 10,
+        "removed": 0.09883968035380042,
+        "stsb_lost": 0.16876069621434753,
+        "points_per_001": 0.017074184741417836
+      },
+      {
+        "edit": "control swaps",
+        "rank": 64,
+        "lam": 30,
+        "removed": 0.05938917398452759,
+        "stsb_lost": 0.10182466609685448,
+        "points_per_001": 0.017145324520489617
+      },
+      {
+        "edit": "control swaps",
+        "rank": 64,
+        "lam": 100,
+        "removed": 0.03352852662404382,
+        "stsb_lost": 0.042460567543006866,
+        "points_per_001": 0.012664012355543756
+      },
+      {
+        "edit": "control swaps",
+        "rank": 64,
+        "lam": 300,
+        "removed": 0.017225146293640137,
+        "stsb_lost": 0.01156819576101209,
+        "points_per_001": 0.006715876639772456
+      },
+      {
+        "edit": "control swaps",
+        "rank": 64,
+        "lam": 1000,
+        "removed": 0.008945484956105587,
+        "stsb_lost": 0.001513180308628459,
+        "points_per_001": 0.0016915576025821424
+      },
+      {
+        "edit": "entity swaps",
+        "rank": 768,
+        "lam": 10,
+        "removed": 0.050830741723378536,
+        "stsb_lost": 0.13218195513898323,
+        "points_per_001": 0.0260043333340125
+      },
+      {
+        "edit": "entity swaps",
+        "rank": 768,
+        "lam": 30,
+        "removed": 0.01662921905517578,
+        "stsb_lost": 0.03997622673359191,
+        "points_per_001": 0.024039749913060085
+      },
+      {
+        "edit": "entity swaps",
+        "rank": 768,
+        "lam": 100,
+        "removed": 0.0034221609433492395,
+        "stsb_lost": 0.005671281760447289,
+        "points_per_001": 0.01657222396704947
+      },
+      {
+        "edit": "control swaps",
+        "rank": 768,
+        "lam": 10,
+        "removed": 0.13975546757380164,
+        "stsb_lost": 0.2117905300475521,
+        "points_per_001": 0.015154364528579923
+      },
+      {
+        "edit": "control swaps",
+        "rank": 768,
+        "lam": 30,
+        "removed": 0.06803292036056519,
+        "stsb_lost": 0.11317826963066369,
+        "points_per_001": 0.016635809403864235
+      },
+      {
+        "edit": "control swaps",
+        "rank": 768,
+        "lam": 100,
+        "removed": 0.025024374326070187,
+        "stsb_lost": 0.023584568972170872,
+        "points_per_001": 0.009424638820080574
+      },
+      {
+        "edit": "control swaps",
+        "rank": 768,
+        "lam": 300,
+        "removed": 0.01052922010421753,
+        "stsb_lost": 0.003103354525917479,
+        "points_per_001": 0.002947373590067146
+      },
+      {
+        "edit": "control swaps",
+        "rank": 768,
+        "lam": 1000,
+        "removed": 0.007150232791900635,
+        "stsb_lost": 0.00013440960534383262,
+        "points_per_001": 0.0001879793417300818
+      }
+    ]
+  },
+  "directions": {
+    "unsup-simcse": {
+      "n_names": 40,
+      "shared_axis": 0.08978619426488876,
+      "random_level": 0.029857510397188484,
+      "own_name": 0.6808425188064575,
+      "other_name": 0.08685770630836487,
+      "variance_top": 0.5343500971794128,
+      "top_k": 10
+    },
+    "retrained": {
+      "n_names": 40,
+      "shared_axis": 0.0957242026925087,
+      "random_level": 0.029857510397188484,
+      "own_name": 0.5268498063087463,
+      "other_name": 0.0890413150191307,
+      "variance_top": 0.5385709404945374,
+      "top_k": 10
+    },
+    "qwen3-0.6b": {
+      "n_names": 40,
+      "shared_axis": 0.09125913679599762,
+      "random_level": 0.025357681133173,
+      "own_name": 0.5414992570877075,
+      "other_name": 0.05557671934366226,
+      "variance_top": 0.5461422204971313,
+      "top_k": 10
+    }
+  }
+}

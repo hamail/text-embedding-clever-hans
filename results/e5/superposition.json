@@ -1,0 +1,161 @@
+{
+  "args": {
+    "cmd": "decompose",
+    "models": [
+      "unsup-simcse",
+      "bge-base",
+      "qwen3-0.6b"
+    ],
+    "per_pair": 2,
+    "n_names": 120,
+    "seed": 11,
+    "fixed_frame": true
+  },
+  "n_items": 7140,
+  "results": {
+    "unsup-simcse": {
+      "binding_fraction": 0.10000422596931458,
+      "binding_fraction_ci": [
+        0.09943989664316177,
+        0.10060672461986542
+      ],
+      "binding_fraction_sd": 0.02497740089893341,
+      "cos_with_reversal": 0.9792999029159546,
+      "variance_share": 0.010073828510940075,
+      "n_pairs": 7140,
+      "across_pairs": 0.14683625102043152,
+      "within_pair": NaN,
+      "random_level": 0.028800878069423243,
+      "rank_90": 96,
+      "top1_energy": 0.135808527469635,
+      "own_entity": 0.2876529097557068,
+      "other_entities": 0.08640196919441223,
+      "scaling": [
+        {
+          "n_names": 30,
+          "n_items": 435,
+          "max_possible": 435,
+          "rank_90": 37,
+          "top1_energy": 0.18150776624679565
+        },
+        {
+          "n_names": 60,
+          "n_items": 435,
+          "max_possible": 435,
+          "rank_90": 55,
+          "top1_energy": 0.16505658626556396
+        },
+        {
+          "n_names": 90,
+          "n_items": 435,
+          "max_possible": 435,
+          "rank_90": 69,
+          "top1_energy": 0.13929136097431183
+        },
+        {
+          "n_names": 120,
+          "n_items": 435,
+          "max_possible": 435,
+          "rank_90": 78,
+          "top1_energy": 0.13050980865955353
+        }
+      ]
+    },
+    "bge-base": {
+      "binding_fraction": 0.12070683389902115,
+      "binding_fraction_ci": [
+        0.1202550109475851,
+        0.12115657646209002
+      ],
+      "binding_fraction_sd": 0.018963556736707687,
+      "cos_with_reversal": 0.9708749055862427,
+      "variance_share": 0.014511584304273129,
+      "n_pairs": 7140,
+      "across_pairs": 0.11069530248641968,
+      "within_pair": NaN,
+      "random_level": 0.028800878069423243,
+      "rank_90": 86,
+      "top1_energy": 0.08939401805400848,
+      "own_entity": 0.47362256050109863,
+      "other_entities": 0.05724961683154106,
+      "scaling": [
+        {
+          "n_names": 30,
+          "n_items": 435,
+          "max_possible": 435,
+          "rank_90": 26,
+          "top1_energy": 0.13632412254810333
+        },
+        {
+          "n_names": 60,
+          "n_items": 435,
+          "max_possible": 435,
+          "rank_90": 46,
+          "top1_energy": 0.10585230588912964
+        },
+        {
+          "n_names": 90,
+          "n_items": 435,
+          "max_possible": 435,
+          "rank_90": 62,
+          "top1_energy": 0.0942324623465538
+        },
+        {
+          "n_names": 120,
+          "n_items": 435,
+          "max_possible": 435,
+          "rank_90": 75,
+          "top1_energy": 0.09150217473506927
+        }
+      ]
+    },
+    "qwen3-0.6b": {
+      "binding_fraction": 0.27730682492256165,
+      "binding_fraction_ci": [
+        0.2765254534780979,
+        0.2781107537448406
+      ],
+      "binding_fraction_sd": 0.03378121927380562,
+      "cos_with_reversal": 0.8568733334541321,
+      "variance_share": 0.07185014337301254,
+      "n_pairs": 7140,
+      "across_pairs": 0.08681541681289673,
+      "within_pair": NaN,
+      "random_level": 0.02493911163364368,
+      "rank_90": 76,
+      "top1_energy": 0.04043988883495331,
+      "own_entity": 0.6518644094467163,
+      "other_entities": 0.06604637205600739,
+      "scaling": [
+        {
+          "n_names": 30,
+          "n_items": 435,
+          "max_possible": 435,
+          "rank_90": 23,
+          "top1_energy": 0.09423379600048065
+        },
+        {
+          "n_names": 60,
+          "n_items": 435,
+          "max_possible": 435,
+          "rank_90": 41,
+          "top1_energy": 0.06143852695822716
+        },
+        {
+          "n_names": 90,
+          "n_items": 435,
+          "max_possible": 435,
+          "rank_90": 56,
+          "top1_energy": 0.05005859583616257
+        },
+        {
+          "n_names": 120,
+          "n_items": 435,
+          "max_possible": 435,
+          "rank_90": 68,
+          "top1_energy": 0.05262972041964531
+        }
+      ]
+    }
+  }
+}

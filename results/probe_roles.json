@@ -1,0 +1,142 @@
+{
+  "n_items": 3120,
+  "n_test": 624,
+  "models": [
+    "unsup-simcse",
+    "sup-simcse",
+    "bge-base",
+    "e5-base",
+    "qwen3-0.6b",
+    "retrained"
+  ],
+  "results": {
+    "control: bag of names": {
+      "linear": {
+        "presence": 1.0,
+        "agent_acc": 0.5,
+        "role_acc": 0.5,
+        "n_present": 624,
+        "p_vs_chance": 1.0
+      },
+      "mlp": {
+        "presence": 0.9871794871794872,
+        "agent_acc": 0.4935897435897436,
+        "role_acc": 0.5,
+        "n_present": 616,
+        "p_vs_chance": 1.0
+      }
+    },
+    "control: names by slot": {
+      "linear": {
+        "presence": 1.0,
+        "agent_acc": 1.0,
+        "role_acc": 1.0,
+        "n_present": 624,
+        "p_vs_chance": 2.872848349932294e-188
+      },
+      "mlp": {
+        "presence": 1.0,
+        "agent_acc": 1.0,
+        "role_acc": 1.0,
+        "n_present": 624,
+        "p_vs_chance": 2.872848349932294e-188
+      }
+    },
+    "unsup-simcse": {
+      "linear": {
+        "presence": 0.9182692307692307,
+        "agent_acc": 0.6778846153846154,
+        "role_acc": 0.7382198952879581,
+        "n_present": 573,
+        "p_vs_chance": 4.413159092736246e-31
+      },
+      "mlp": {
+        "presence": 0.9951923076923077,
+        "agent_acc": 0.47435897435897434,
+        "role_acc": 0.47665056360708535,
+        "n_present": 621,
+        "p_vs_chance": 0.2611655282151704
+      }
+    },
+    "sup-simcse": {
+      "linear": {
+        "presence": 0.9951923076923077,
+        "agent_acc": 0.8012820512820513,
+        "role_acc": 0.8051529790660226,
+        "n_present": 621,
+        "p_vs_chance": 1.2448791969465756e-55
+      },
+      "mlp": {
+        "presence": 0.9887820512820513,
+        "agent_acc": 0.5625,
+        "role_acc": 0.5688816855753647,
+        "n_present": 617,
+        "p_vs_chance": 0.0007078739586212649
+      }
+    },
+    "bge-base": {
+      "linear": {
+        "presence": 1.0,
+        "agent_acc": 0.8076923076923077,
+        "role_acc": 0.8076923076923077,
+        "n_present": 624,
+        "p_vs_chance": 7.104581910869102e-57
+      },
+      "mlp": {
+        "presence": 0.9935897435897436,
+        "agent_acc": 0.5544871794871795,
+        "role_acc": 0.5580645161290323,
+        "n_present": 620,
+        "p_vs_chance": 0.004314887042448783
+      }
+    },
+    "e5-base": {
+      "linear": {
+        "presence": 1.0,
+        "agent_acc": 0.8221153846153846,
+        "role_acc": 0.8221153846153846,
+        "n_present": 624,
+        "p_vs_chance": 1.1433584486454165e-62
+      },
+      "mlp": {
+        "presence": 0.9983974358974359,
+        "agent_acc": 0.5849358974358975,
+        "role_acc": 0.5858747993579454,
+        "n_present": 623,
+        "p_vs_chance": 2.075777577479221e-05
+      }
+    },
+    "qwen3-0.6b": {
+      "linear": {
+        "presence": 1.0,
+        "agent_acc": 0.9935897435897436,
+        "role_acc": 0.9935897435897436,
+        "n_present": 624,
+        "p_vs_chance": 1.8090807264495118e-178
+      },
+      "mlp": {
+        "presence": 1.0,
+        "agent_acc": 0.9807692307692307,
+        "role_acc": 0.9807692307692307,
+        "n_present": 624,
+        "p_vs_chance": 1.9166480735748213e-163
+      }
+    },
+    "retrained": {
+      "linear": {
+        "presence": 0.9471153846153846,
+        "agent_acc": 0.657051282051282,
+        "role_acc": 0.6937394247038917,
+        "n_present": 591,
+        "p_vs_chance": 2.092102295832394e-21
+      },
+      "mlp": {
+        "presence": 0.9935897435897436,
+        "agent_acc": 0.5096153846153846,
+        "role_acc": 0.5129032258064516,
+        "n_present": 620,
+        "p_vs_chance": 0.5469327195776823
+      }
+    }
+  }
+}

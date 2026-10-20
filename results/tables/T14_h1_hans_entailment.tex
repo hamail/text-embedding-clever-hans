@@ -1,0 +1,17 @@
+% T14  H1  HANS entailment  (source: e6 blind)
+\begin{table}[t]
+\centering
+\small
+\caption{H1  HANS entailment. H1: DOES NOT HOLD -- registered: every English encoder between 0.40 and 0.60 AUC. AUC is the probability a true entailment scores above a non-entailment. We predicted indifference; below 0.5 the similarity prefers the role-swapped non-entailment. Report the miss as a miss: the effect exceeded the prediction.}
+\begin{tabular}{lrrrr}
+\toprule
+model & overall AUC & 90\% CI & ln\_passive & ln\_subject/object\_swap \\
+\midrule
+unsup-SimCSE & 0.322 & 0.306-0.339 & 0.558 & 0.087 \\
+sup-SimCSE & 0.369 & 0.351-0.387 & 0.519 & 0.219 \\
+BGE-base & 0.321 & 0.305-0.336 & 0.501 & 0.141 \\
+E5-base & 0.572 & 0.553-0.589 & 0.656 & 0.489 \\
+retrained & 0.292 & 0.278-0.308 & 0.549 & 0.036 \\
+\bottomrule
+\end{tabular}
+\end{table}

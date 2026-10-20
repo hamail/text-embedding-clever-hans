@@ -1,0 +1,32 @@
+{
+  "unsup-simcse-bert-base-uncased": {
+    "n_matched": 400,
+    "cosine": {
+      "kept": 0.9904203465580941,
+      "reversed": 0.9896734938025474,
+      "diff": 0.0007468527555465699,
+      "frac_reversed_lower": 0.535,
+      "p": 0.018768332931162472
+    },
+    "per_cell": {
+      "n": 400,
+      "kept_median": 0.4917411859699064,
+      "reversed_median": 0.5374485123947352,
+      "log_ratio_diff": 0.07965731673402093,
+      "frac_reversed_higher": 0.6475,
+      "p": 2.8794228957764462e-08
+    },
+    "per_cell_frame": {
+      "n": 400,
+      "kept_median": 0.9211879303031394,
+      "reversed_median": 0.9347290158966925,
+      "log_ratio_diff": 0.025985913869125455,
+      "frac_reversed_higher": 0.5575,
+      "p": 0.07136490533010914
+    },
+    "displacement": {
+      "kept": 0.2834027777777778,
+      "reversed": 0.2834027777777778
+    }
+  }
+}

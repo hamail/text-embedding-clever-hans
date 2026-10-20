@@ -1,0 +1,576 @@
+{
+  "items": [
+    {
+      "domain": "pharmacology",
+      "original": "Ritonavir inhibits the metabolism of midazolam.",
+      "kept": "The metabolism of midazolam is slowed by ritonavir.",
+      "reversed": "Midazolam inhibits the metabolism of ritonavir."
+    },
+    {
+      "domain": "pharmacology",
+      "original": "Rifampicin induces the enzyme that clears warfarin.",
+      "kept": "Warfarin is cleared faster because rifampicin induces the enzyme.",
+      "reversed": "Warfarin induces the enzyme that clears rifampicin."
+    },
+    {
+      "domain": "epidemiology",
+      "original": "The virus was transmitted from the patient to the nurse.",
+      "kept": "The nurse caught the virus from the patient.",
+      "reversed": "The virus was transmitted from the nurse to the patient."
+    },
+    {
+      "domain": "molecular biology",
+      "original": "The kinase phosphorylates the receptor.",
+      "kept": "The receptor is phosphorylated by the kinase.",
+      "reversed": "The receptor phosphorylates the kinase."
+    },
+    {
+      "domain": "law",
+      "original": "The plaintiff sued the defendant for breach of contract.",
+      "kept": "The defendant was sued by the plaintiff for breach of contract.",
+      "reversed": "The defendant sued the plaintiff for breach of contract."
+    },
+    {
+      "domain": "clinical",
+      "original": "The donor's kidney was transplanted into the recipient.",
+      "kept": "The recipient received a kidney from the donor.",
+      "reversed": "The recipient's kidney was transplanted into the donor."
+    },
+    {
+      "domain": "news",
+      "original": "Germany defeated Brazil in the semi-final.",
+      "kept": "Brazil lost to Germany in the semi-final.",
+      "reversed": "Brazil defeated Germany in the semi-final."
+    },
+    {
+      "domain": "finance",
+      "original": "Barclays acquired Lehman's brokerage arm.",
+      "kept": "Lehman's brokerage arm was bought by Barclays.",
+      "reversed": "Lehman acquired Barclays' brokerage arm."
+    },
+    {
+      "domain": "negation",
+      "original": "The trial showed the drug reduces mortality.",
+      "kept": "Mortality fell in the group given the drug.",
+      "reversed": "The trial showed the drug does not reduce mortality."
+    },
+    {
+      "domain": "quantity",
+      "original": "The dose was increased from 5 mg to 20 mg.",
+      "kept": "The dose went up to 20 mg from 5 mg.",
+      "reversed": "The dose was increased from 20 mg to 5 mg."
+    }
+  ],
+  "results": {
+    "unsup-simcse": [
+      {
+        "domain": "pharmacology",
+        "original": "Ritonavir inhibits the metabolism of midazolam.",
+        "kept": "The metabolism of midazolam is slowed by ritonavir.",
+        "reversed": "Midazolam inhibits the metabolism of ritonavir.",
+        "d_kept": 0.31534868478775024,
+        "d_reversed": 0.016306579113006592,
+        "ratio": 0.051709678522940276,
+        "closer": "reversal"
+      },
+      {
+        "domain": "pharmacology",
+        "original": "Rifampicin induces the enzyme that clears warfarin.",
+        "kept": "Warfarin is cleared faster because rifampicin induces the enzyme.",
+        "reversed": "Warfarin induces the enzyme that clears rifampicin.",
+        "d_kept": 0.29977405071258545,
+        "d_reversed": 0.014632046222686768,
+        "ratio": 0.04881024954596735,
+        "closer": "reversal"
+      },
+      {
+        "domain": "epidemiology",
+        "original": "The virus was transmitted from the patient to the nurse.",
+        "kept": "The nurse caught the virus from the patient.",
+        "reversed": "The virus was transmitted from the nurse to the patient.",
+        "d_kept": 0.22588425874710083,
+        "d_reversed": 0.0034509897232055664,
+        "ratio": 0.01527769018676632,
+        "closer": "reversal"
+      },
+      {
+        "domain": "molecular biology",
+        "original": "The kinase phosphorylates the receptor.",
+        "kept": "The receptor is phosphorylated by the kinase.",
+        "reversed": "The receptor phosphorylates the kinase.",
+        "d_kept": 0.059450626373291016,
+        "d_reversed": 0.004745900630950928,
+        "ratio": 0.07982927885656536,
+        "closer": "reversal"
+      },
+      {
+        "domain": "law",
+        "original": "The plaintiff sued the defendant for breach of contract.",
+        "kept": "The defendant was sued by the plaintiff for breach of contract.",
+        "reversed": "The defendant sued the plaintiff for breach of contract.",
+        "d_kept": 0.019183635711669922,
+        "d_reversed": 0.001019120216369629,
+        "ratio": 0.053124456265069224,
+        "closer": "reversal"
+      },
+      {
+        "domain": "clinical",
+        "original": "The donor's kidney was transplanted into the recipient.",
+        "kept": "The recipient received a kidney from the donor.",
+        "reversed": "The recipient's kidney was transplanted into the donor.",
+        "d_kept": 0.17315983772277832,
+        "d_reversed": 0.002697885036468506,
+        "ratio": 0.01558031626703016,
+        "closer": "reversal"
+      },
+      {
+        "domain": "news",
+        "original": "Germany defeated Brazil in the semi-final.",
+        "kept": "Brazil lost to Germany in the semi-final.",
+        "reversed": "Brazil defeated Germany in the semi-final.",
+        "d_kept": 0.09108585119247437,
+        "d_reversed": 0.007536172866821289,
+        "ratio": 0.08273703070410499,
+        "closer": "reversal"
+      },
+      {
+        "domain": "finance",
+        "original": "Barclays acquired Lehman's brokerage arm.",
+        "kept": "Lehman's brokerage arm was bought by Barclays.",
+        "reversed": "Lehman acquired Barclays' brokerage arm.",
+        "d_kept": 0.05981254577636719,
+        "d_reversed": 0.017737984657287598,
+        "ratio": 0.2965596001147996,
+        "closer": "reversal"
+      },
+      {
+        "domain": "negation",
+        "original": "The trial showed the drug reduces mortality.",
+        "kept": "Mortality fell in the group given the drug.",
+        "reversed": "The trial showed the drug does not reduce mortality.",
+        "d_kept": 0.5137500762939453,
+        "d_reversed": 0.06770980358123779,
+        "ratio": 0.1317952185422104,
+        "closer": "reversal"
+      },
+      {
+        "domain": "quantity",
+        "original": "The dose was increased from 5 mg to 20 mg.",
+        "kept": "The dose went up to 20 mg from 5 mg.",
+        "reversed": "The dose was increased from 20 mg to 5 mg.",
+        "d_kept": 0.10014045238494873,
+        "d_reversed": 0.003221452236175537,
+        "ratio": 0.03216933975684462,
+        "closer": "reversal"
+      }
+    ],
+    "bge-base": [
+      {
+        "domain": "pharmacology",
+        "original": "Ritonavir inhibits the metabolism of midazolam.",
+        "kept": "The metabolism of midazolam is slowed by ritonavir.",
+        "reversed": "Midazolam inhibits the metabolism of ritonavir.",
+        "d_kept": 0.0987248420715332,
+        "d_reversed": 0.024340569972991943,
+        "ratio": 0.24654959645674046,
+        "closer": "reversal"
+      },
+      {
+        "domain": "pharmacology",
+        "original": "Rifampicin induces the enzyme that clears warfarin.",
+        "kept": "Warfarin is cleared faster because rifampicin induces the enzyme.",
+        "reversed": "Warfarin induces the enzyme that clears rifampicin.",
+        "d_kept": 0.14132070541381836,
+        "d_reversed": 0.015967726707458496,
+        "ratio": 0.11298929382429455,
+        "closer": "reversal"
+      },
+      {
+        "domain": "epidemiology",
+        "original": "The virus was transmitted from the patient to the nurse.",
+        "kept": "The nurse caught the virus from the patient.",
+        "reversed": "The virus was transmitted from the nurse to the patient.",
+        "d_kept": 0.17729699611663818,
+        "d_reversed": 0.0036275386810302734,
+        "ratio": 0.020460237683010876,
+        "closer": "reversal"
+      },
+      {
+        "domain": "molecular biology",
+        "original": "The kinase phosphorylates the receptor.",
+        "kept": "The receptor is phosphorylated by the kinase.",
+        "reversed": "The receptor phosphorylates the kinase.",
+        "d_kept": 0.07634443044662476,
+        "d_reversed": 0.03044295310974121,
+        "ratio": 0.3987580093485014,
+        "closer": "reversal"
+      },
+      {
+        "domain": "law",
+        "original": "The plaintiff sued the defendant for breach of contract.",
+        "kept": "The defendant was sued by the plaintiff for breach of contract.",
+        "reversed": "The defendant sued the plaintiff for breach of contract.",
+        "d_kept": 0.02910679578781128,
+        "d_reversed": 0.011154711246490479,
+        "ratio": 0.3832339130630658,
+        "closer": "reversal"
+      },
+      {
+        "domain": "clinical",
+        "original": "The donor's kidney was transplanted into the recipient.",
+        "kept": "The recipient received a kidney from the donor.",
+        "reversed": "The recipient's kidney was transplanted into the donor.",
+        "d_kept": 0.11090606451034546,
+        "d_reversed": 0.02025306224822998,
+        "ratio": 0.18261456068834495,
+        "closer": "reversal"
+      },
+      {
+        "domain": "news",
+        "original": "Germany defeated Brazil in the semi-final.",
+        "kept": "Brazil lost to Germany in the semi-final.",
+        "reversed": "Brazil defeated Germany in the semi-final.",
+        "d_kept": 0.14581280946731567,
+        "d_reversed": 0.013881087303161621,
+        "ratio": 0.09519799634800331,
+        "closer": "reversal"
+      },
+      {
+        "domain": "finance",
+        "original": "Barclays acquired Lehman's brokerage arm.",
+        "kept": "Lehman's brokerage arm was bought by Barclays.",
+        "reversed": "Lehman acquired Barclays' brokerage arm.",
+        "d_kept": 0.056078314781188965,
+        "d_reversed": 0.010036706924438477,
+        "ratio": 0.17897661446497698,
+        "closer": "reversal"
+      },
+      {
+        "domain": "negation",
+        "original": "The trial showed the drug reduces mortality.",
+        "kept": "Mortality fell in the group given the drug.",
+        "reversed": "The trial showed the drug does not reduce mortality.",
+        "d_kept": 0.45012998580932617,
+        "d_reversed": 0.22887754440307617,
+        "ratio": 0.5084698900731045,
+        "closer": "reversal"
+      },
+      {
+        "domain": "quantity",
+        "original": "The dose was increased from 5 mg to 20 mg.",
+        "kept": "The dose went up to 20 mg from 5 mg.",
+        "reversed": "The dose was increased from 20 mg to 5 mg.",
+        "d_kept": 0.053089022636413574,
+        "d_reversed": 0.0018538832664489746,
+        "ratio": 0.034920274934151875,
+        "closer": "reversal"
+      }
+    ],
+    "e5-base": [
+      {
+        "domain": "pharmacology",
+        "original": "Ritonavir inhibits the metabolism of midazolam.",
+        "kept": "The metabolism of midazolam is slowed by ritonavir.",
+        "reversed": "Midazolam inhibits the metabolism of ritonavir.",
+        "d_kept": 0.08628731966018677,
+        "d_reversed": 0.016460776329040527,
+        "ratio": 0.19076703731053057,
+        "closer": "reversal"
+      },
+      {
+        "domain": "pharmacology",
+        "original": "Rifampicin induces the enzyme that clears warfarin.",
+        "kept": "Warfarin is cleared faster because rifampicin induces the enzyme.",
+        "reversed": "Warfarin induces the enzyme that clears rifampicin.",
+        "d_kept": 0.147932767868042,
+        "d_reversed": 0.01840949058532715,
+        "ratio": 0.12444498166727104,
+        "closer": "reversal"
+      },
+      {
+        "domain": "epidemiology",
+        "original": "The virus was transmitted from the patient to the nurse.",
+        "kept": "The nurse caught the virus from the patient.",
+        "reversed": "The virus was transmitted from the nurse to the patient.",
+        "d_kept": 0.11003786325454712,
+        "d_reversed": 0.002199888229370117,
+        "ratio": 0.01999210239371138,
+        "closer": "reversal"
+      },
+      {
+        "domain": "molecular biology",
+        "original": "The kinase phosphorylates the receptor.",
+        "kept": "The receptor is phosphorylated by the kinase.",
+        "reversed": "The receptor phosphorylates the kinase.",
+        "d_kept": 0.06600350141525269,
+        "d_reversed": 0.016746580600738525,
+        "ratio": 0.2537226092806733,
+        "closer": "reversal"
+      },
+      {
+        "domain": "law",
+        "original": "The plaintiff sued the defendant for breach of contract.",
+        "kept": "The defendant was sued by the plaintiff for breach of contract.",
+        "reversed": "The defendant sued the plaintiff for breach of contract.",
+        "d_kept": 0.02147960662841797,
+        "d_reversed": 0.00491565465927124,
+        "ratio": 0.22885217333392532,
+        "closer": "reversal"
+      },
+      {
+        "domain": "clinical",
+        "original": "The donor's kidney was transplanted into the recipient.",
+        "kept": "The recipient received a kidney from the donor.",
+        "reversed": "The recipient's kidney was transplanted into the donor.",
+        "d_kept": 0.09296202659606934,
+        "d_reversed": 0.009530246257781982,
+        "ratio": 0.10251762581717366,
+        "closer": "reversal"
+      },
+      {
+        "domain": "news",
+        "original": "Germany defeated Brazil in the semi-final.",
+        "kept": "Brazil lost to Germany in the semi-final.",
+        "reversed": "Brazil defeated Germany in the semi-final.",
+        "d_kept": 0.0939827561378479,
+        "d_reversed": 0.03926962614059448,
+        "ratio": 0.4178386307696308,
+        "closer": "reversal"
+      },
+      {
+        "domain": "finance",
+        "original": "Barclays acquired Lehman's brokerage arm.",
+        "kept": "Lehman's brokerage arm was bought by Barclays.",
+        "reversed": "Lehman acquired Barclays' brokerage arm.",
+        "d_kept": 0.038230299949645996,
+        "d_reversed": 0.009201884269714355,
+        "ratio": 0.2406961044468489,
+        "closer": "reversal"
+      },
+      {
+        "domain": "negation",
+        "original": "The trial showed the drug reduces mortality.",
+        "kept": "Mortality fell in the group given the drug.",
+        "reversed": "The trial showed the drug does not reduce mortality.",
+        "d_kept": 0.3827891945838928,
+        "d_reversed": 0.23574745655059814,
+        "ratio": 0.6158675842636182,
+        "closer": "reversal"
+      },
+      {
+        "domain": "quantity",
+        "original": "The dose was increased from 5 mg to 20 mg.",
+        "kept": "The dose went up to 20 mg from 5 mg.",
+        "reversed": "The dose was increased from 20 mg to 5 mg.",
+        "d_kept": 0.061554133892059326,
+        "d_reversed": 0.0023695826530456543,
+        "ratio": 0.038495914136342645,
+        "closer": "reversal"
+      }
+    ],
+    "qwen3-0.6b": [
+      {
+        "domain": "pharmacology",
+        "original": "Ritonavir inhibits the metabolism of midazolam.",
+        "kept": "The metabolism of midazolam is slowed by ritonavir.",
+        "reversed": "Midazolam inhibits the metabolism of ritonavir.",
+        "d_kept": 0.12105250358581543,
+        "d_reversed": 0.09817200899124146,
+        "ratio": 0.8109870187166038,
+        "closer": "reversal"
+      },
+      {
+        "domain": "pharmacology",
+        "original": "Rifampicin induces the enzyme that clears warfarin.",
+        "kept": "Warfarin is cleared faster because rifampicin induces the enzyme.",
+        "reversed": "Warfarin induces the enzyme that clears rifampicin.",
+        "d_kept": 0.1693204641342163,
+        "d_reversed": 0.09916430711746216,
+        "ratio": 0.5856604966476879,
+        "closer": "reversal"
+      },
+      {
+        "domain": "epidemiology",
+        "original": "The virus was transmitted from the patient to the nurse.",
+        "kept": "The nurse caught the virus from the patient.",
+        "reversed": "The virus was transmitted from the nurse to the patient.",
+        "d_kept": 0.15316033363342285,
+        "d_reversed": 0.020285308361053467,
+        "ratio": 0.13244492147428163,
+        "closer": "reversal"
+      },
+      {
+        "domain": "molecular biology",
+        "original": "The kinase phosphorylates the receptor.",
+        "kept": "The receptor is phosphorylated by the kinase.",
+        "reversed": "The receptor phosphorylates the kinase.",
+        "d_kept": 0.06338351964950562,
+        "d_reversed": 0.04927682876586914,
+        "ratio": 0.7774391362038143,
+        "closer": "reversal"
+      },
+      {
+        "domain": "law",
+        "original": "The plaintiff sued the defendant for breach of contract.",
+        "kept": "The defendant was sued by the plaintiff for breach of contract.",
+        "reversed": "The defendant sued the plaintiff for breach of contract.",
+        "d_kept": 0.060353994369506836,
+        "d_reversed": 0.0235481858253479,
+        "ratio": 0.3901678102890461,
+        "closer": "reversal"
+      },
+      {
+        "domain": "clinical",
+        "original": "The donor's kidney was transplanted into the recipient.",
+        "kept": "The recipient received a kidney from the donor.",
+        "reversed": "The recipient's kidney was transplanted into the donor.",
+        "d_kept": 0.14953047037124634,
+        "d_reversed": 0.04743748903274536,
+        "ratio": 0.31724296001323393,
+        "closer": "reversal"
+      },
+      {
+        "domain": "news",
+        "original": "Germany defeated Brazil in the semi-final.",
+        "kept": "Brazil lost to Germany in the semi-final.",
+        "reversed": "Brazil defeated Germany in the semi-final.",
+        "d_kept": 0.13652855157852173,
+        "d_reversed": 0.1002187728881836,
+        "ratio": 0.7340499238398843,
+        "closer": "reversal"
+      },
+      {
+        "domain": "finance",
+        "original": "Barclays acquired Lehman's brokerage arm.",
+        "kept": "Lehman's brokerage arm was bought by Barclays.",
+        "reversed": "Lehman acquired Barclays' brokerage arm.",
+        "d_kept": 0.13424152135849,
+        "d_reversed": 0.1446933150291443,
+        "ratio": 1.0778581288775992,
+        "closer": "paraphrase"
+      },
+      {
+        "domain": "negation",
+        "original": "The trial showed the drug reduces mortality.",
+        "kept": "Mortality fell in the group given the drug.",
+        "reversed": "The trial showed the drug does not reduce mortality.",
+        "d_kept": 0.3152922987937927,
+        "d_reversed": 0.2888261675834656,
+        "ratio": 0.9160584279680218,
+        "closer": "reversal"
+      },
+      {
+        "domain": "quantity",
+        "original": "The dose was increased from 5 mg to 20 mg.",
+        "kept": "The dose went up to 20 mg from 5 mg.",
+        "reversed": "The dose was increased from 20 mg to 5 mg.",
+        "d_kept": 0.06372946500778198,
+        "d_reversed": 0.022775232791900635,
+        "ratio": 0.3573736699204922,
+        "closer": "reversal"
+      }
+    ],
+    "qwen3-8b": [
+      {
+        "domain": "pharmacology",
+        "original": "Ritonavir inhibits the metabolism of midazolam.",
+        "kept": "The metabolism of midazolam is slowed by ritonavir.",
+        "reversed": "Midazolam inhibits the metabolism of ritonavir.",
+        "d_kept": 0.23034119606018066,
+        "d_reversed": 0.11576688289642334,
+        "ratio": 0.5025887026573276,
+        "closer": "reversal"
+      },
+      {
+        "domain": "pharmacology",
+        "original": "Rifampicin induces the enzyme that clears warfarin.",
+        "kept": "Warfarin is cleared faster because rifampicin induces the enzyme.",
+        "reversed": "Warfarin induces the enzyme that clears rifampicin.",
+        "d_kept": 0.1803639531135559,
+        "d_reversed": 0.11815887689590454,
+        "ratio": 0.6551135903608883,
+        "closer": "reversal"
+      },
+      {
+        "domain": "epidemiology",
+        "original": "The virus was transmitted from the patient to the nurse.",
+        "kept": "The nurse caught the virus from the patient.",
+        "reversed": "The virus was transmitted from the nurse to the patient.",
+        "d_kept": 0.1685546636581421,
+        "d_reversed": 0.045108020305633545,
+        "ratio": 0.26761656620264385,
+        "closer": "reversal"
+      },
+      {
+        "domain": "molecular biology",
+        "original": "The kinase phosphorylates the receptor.",
+        "kept": "The receptor is phosphorylated by the kinase.",
+        "reversed": "The receptor phosphorylates the kinase.",
+        "d_kept": 0.06809616088867188,
+        "d_reversed": 0.14883148670196533,
+        "ratio": 2.1856075990140607,
+        "closer": "paraphrase"
+      },
+      {
+        "domain": "law",
+        "original": "The plaintiff sued the defendant for breach of contract.",
+        "kept": "The defendant was sued by the plaintiff for breach of contract.",
+        "reversed": "The defendant sued the plaintiff for breach of contract.",
+        "d_kept": 0.0713874101638794,
+        "d_reversed": 0.21643692255020142,
+        "ratio": 3.03186405072465,
+        "closer": "paraphrase"
+      },
+      {
+        "domain": "clinical",
+        "original": "The donor's kidney was transplanted into the recipient.",
+        "kept": "The recipient received a kidney from the donor.",
+        "reversed": "The recipient's kidney was transplanted into the donor.",
+        "d_kept": 0.14381366968154907,
+        "d_reversed": 0.3732743263244629,
+        "ratio": 2.595541349796688,
+        "closer": "paraphrase"
+      },
+      {
+        "domain": "news",
+        "original": "Germany defeated Brazil in the semi-final.",
+        "kept": "Brazil lost to Germany in the semi-final.",
+        "reversed": "Brazil defeated Germany in the semi-final.",
+        "d_kept": 0.16912895441055298,
+        "d_reversed": 0.1860973834991455,
+        "ratio": 1.1003283509185684,
+        "closer": "paraphrase"
+      },
+      {
+        "domain": "finance",
+        "original": "Barclays acquired Lehman's brokerage arm.",
+        "kept": "Lehman's brokerage arm was bought by Barclays.",
+        "reversed": "Lehman acquired Barclays' brokerage arm.",
+        "d_kept": 0.10544782876968384,
+        "d_reversed": 0.10695046186447144,
+        "ratio": 1.0142500145552509,
+        "closer": "paraphrase"
+      },
+      {
+        "domain": "negation",
+        "original": "The trial showed the drug reduces mortality.",
+        "kept": "Mortality fell in the group given the drug.",
+        "reversed": "The trial showed the drug does not reduce mortality.",
+        "d_kept": 0.245594322681427,
+        "d_reversed": 0.33683478832244873,
+        "ratio": 1.3715088551105248,
+        "closer": "paraphrase"
+      },
+      {
+        "domain": "quantity",
+        "original": "The dose was increased from 5 mg to 20 mg.",
+        "kept": "The dose went up to 20 mg from 5 mg.",
+        "reversed": "The dose was increased from 20 mg to 5 mg.",
+        "d_kept": 0.1030341386795044,
+        "d_reversed": 0.0883023738861084,
+        "ratio": 0.8570205469546334,
+        "closer": "reversal"
+      }
+    ]
+  }
+}

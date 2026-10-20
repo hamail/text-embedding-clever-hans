@@ -1,0 +1,4 @@
+model,|D|/|S|,variance share,across pairs,random level,own entity,other entities
+unsup-SimCSE,0.100,0.010,0.147,0.029,0.288,0.086
+BGE-base,0.121,0.015,0.111,0.029,0.474,0.057
+Qwen3-0.6B,0.277,0.072,0.087,0.025,0.652,0.066

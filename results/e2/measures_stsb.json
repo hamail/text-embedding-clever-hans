@@ -1,0 +1,42 @@
+{
+  "bge-base": {
+    "run": "../results/phase1_scale/stsb/bge-base-en-v1.5",
+    "n": 300,
+    "cosine": 0.5425938560627401,
+    "crosspos": 0.32178187058218355,
+    "percell": 0.5810866146509588,
+    "overlap_mass": 0.17966368048428302,
+    "mass_vs_score": 0.6447286916203774,
+    "faithfulness": 0.8966666666666666
+  },
+  "e5-base": {
+    "run": "../results/phase1_scale/stsb/e5-base-v2",
+    "n": 300,
+    "cosine": 0.5596902309094245,
+    "crosspos": 0.3168292782059578,
+    "percell": 0.5508641154371074,
+    "overlap_mass": 0.18248391093594965,
+    "mass_vs_score": 0.6392773124603156,
+    "faithfulness": 0.9433333333333334
+  },
+  "sup-simcse": {
+    "run": "../results/phase1_scale/stsb/sup-simcse-bert-base-uncased",
+    "n": 300,
+    "cosine": 0.5484582687945415,
+    "crosspos": 0.33605744075955396,
+    "percell": 0.6557229379167583,
+    "overlap_mass": 0.21574576771578133,
+    "mass_vs_score": 0.5145738442500847,
+    "faithfulness": 0.9433333333333334
+  },
+  "unsup-simcse": {
+    "run": "../results/phase1_scale/stsb/unsup-simcse-bert-base-uncased",
+    "n": 300,
+    "cosine": 0.5463324526573221,
+    "crosspos": 0.3637347108461618,
+    "percell": 0.7936429477489226,
+    "overlap_mass": 0.15917081231438254,
+    "mass_vs_score": 0.5339546472347101,
+    "faithfulness": 0.95
+  }
+}
