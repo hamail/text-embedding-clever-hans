@@ -1,0 +1,218 @@
+{
+ "BAAI/bge-base-en-v1.5": {
+  "model": "BAAI/bge-base-en-v1.5",
+  "n_directed": 5940,
+  "n_other": 1860,
+  "d_directed": 0.027759913355112076,
+  "d_other": 0.03027145192027092,
+  "rho_real": 0.917032778263092,
+  "ci90": [
+   0.8806247711181641,
+   0.9550571441650391
+  ],
+  "tost": {
+   "rho_geo": 0.9880704879760742,
+   "ci90": [
+    0.9510156358409944,
+    1.026569050449857
+   ],
+   "p_not_further": 5.4689644457112914e-24,
+   "p_alike": 5.4689644457112914e-24,
+   "df": 2875.22021484375,
+   "equivalent": true
+  },
+  "rho_real_stratified": 0.8807821273803711
+ },
+ "intfloat/e5-base-v2": {
+  "model": "intfloat/e5-base-v2",
+  "n_directed": 5940,
+  "n_other": 1860,
+  "d_directed": 0.03969266265630722,
+  "d_other": 0.04161521792411804,
+  "rho_real": 0.9538016319274902,
+  "ci90": [
+   0.9183608889579773,
+   0.991493284702301
+  ],
+  "tost": {
+   "rho_geo": 1.0152183771133423,
+   "ci90": [
+    0.9743291343029523,
+    1.057823765346851
+   ],
+   "p_not_further": 6.319368338996838e-17,
+   "p_alike": 6.319368338996838e-17,
+   "df": 2913.705810546875,
+   "equivalent": true
+  },
+  "rho_real_stratified": 0.909391462802887
+ },
+ "thenlper/gte-base": {
+  "model": "thenlper/gte-base",
+  "n_directed": 5940,
+  "n_other": 1860,
+  "d_directed": 0.032772064208984375,
+  "d_other": 0.03501162305474281,
+  "rho_real": 0.9360338449478149,
+  "ci90": [
+   0.8985403776168823,
+   0.9742743968963623
+  ],
+  "tost": {
+   "rho_geo": 0.9968761801719666,
+   "ci90": [
+    0.9573371050695884,
+    1.0380481423971228
+   ],
+   "p_not_further": 3.34565449355908e-20,
+   "p_alike": 3.34565449355908e-20,
+   "df": 2904.848388671875,
+   "equivalent": true
+  },
+  "rho_real_stratified": 0.8959661722183228
+ },
+ "sentence-transformers/all-mpnet-base-v2": {
+  "model": "sentence-transformers/all-mpnet-base-v2",
+  "n_directed": 5940,
+  "n_other": 1860,
+  "d_directed": 0.05340340733528137,
+  "d_other": 0.05401696264743805,
+  "rho_real": 0.9886414408683777,
+  "ci90": [
+   0.9485570192337036,
+   1.030883550643921
+  ],
+  "tost": {
+   "rho_geo": 1.0659888982772827,
+   "ci90": [
+    1.0171658654536309,
+    1.117155266092758
+   ],
+   "p_not_further": 1.2504359372194391e-08,
+   "p_alike": 1.2504359372194391e-08,
+   "df": 2897.603759765625,
+   "equivalent": true
+  },
+  "rho_real_stratified": 0.940809965133667
+ },
+ "princeton-nlp/unsup-simcse-bert-base-uncased": {
+  "model": "princeton-nlp/unsup-simcse-bert-base-uncased",
+  "n_directed": 5940,
+  "n_other": 1860,
+  "d_directed": 0.021010564640164375,
+  "d_other": 0.02410818263888359,
+  "rho_real": 0.8715117573738098,
+  "ci90": [
+   0.8283478021621704,
+   0.9181514382362366
+  ],
+  "tost": {
+   "rho_geo": 0.9256464838981628,
+   "ci90": [
+    0.887296304102299,
+    0.9656542227074113
+   ],
+   "p_not_further": 3.6363244137040253e-31,
+   "p_alike": 7.699723636456213e-09,
+   "df": 3013.652587890625,
+   "equivalent": true
+  },
+  "rho_real_stratified": 0.8257297873497009
+ },
+ "princeton-nlp/sup-simcse-bert-base-uncased": {
+  "model": "princeton-nlp/sup-simcse-bert-base-uncased",
+  "n_directed": 5940,
+  "n_other": 1860,
+  "d_directed": 0.026421284303069115,
+  "d_other": 0.030170608311891556,
+  "rho_real": 0.8757292628288269,
+  "ci90": [
+   0.838712215423584,
+   0.915532648563385
+  ],
+  "tost": {
+   "rho_geo": 0.9234252572059631,
+   "ci90": [
+    0.8876524482894476,
+    0.9606397163818897
+   ],
+   "p_not_further": 7.238200474497441e-36,
+   "p_alike": 1.284752193519978e-09,
+   "df": 3007.405029296875,
+   "equivalent": true
+  },
+  "rho_real_stratified": 0.8339755535125732
+ },
+ "mixedbread-ai/mxbai-embed-large-v1": {
+  "model": "mixedbread-ai/mxbai-embed-large-v1",
+  "n_directed": 5940,
+  "n_other": 1860,
+  "d_directed": 0.03759729489684105,
+  "d_other": 0.03992551192641258,
+  "rho_real": 0.9416859745979309,
+  "ci90": [
+   0.9031417369842529,
+   0.9817970991134644
+  ],
+  "tost": {
+   "rho_geo": 1.0369206666946411,
+   "ci90": [
+    0.9938330778239776,
+    1.0818761776571424
+   ],
+   "p_not_further": 2.7736459185543633e-13,
+   "p_alike": 2.7736459185543633e-13,
+   "df": 2801.45263671875,
+   "equivalent": true
+  },
+  "rho_real_stratified": 0.8947999477386475
+ },
+ "Qwen/Qwen3-Embedding-0.6B": {
+  "model": "Qwen/Qwen3-Embedding-0.6B",
+  "n_directed": 5940,
+  "n_other": 1860,
+  "d_directed": 0.052908264100551605,
+  "d_other": 0.05293114855885506,
+  "rho_real": 0.9995676279067993,
+  "ci90": [
+   0.9623134732246399,
+   1.0377657413482666
+  ],
+  "tost": {
+   "rho_geo": 1.1050530672073364,
+   "ci90": [
+    1.0584184272342283,
+    1.1537423992241833
+   ],
+   "p_not_further": 1.3417340342132319e-06,
+   "p_alike": 1.3417340342132319e-06,
+   "df": 2807.701904296875,
+   "equivalent": true
+  },
+  "rho_real_stratified": 0.9462687969207764
+ },
+ "Qwen/Qwen3-Embedding-4B": {
+  "model": "Qwen/Qwen3-Embedding-4B",
+  "n_directed": 5940,
+  "n_other": 1860,
+  "d_directed": 0.05467171594500542,
+  "d_other": 0.054066650569438934,
+  "rho_real": 1.0111911296844482,
+  "ci90": [
+   0.9748015403747559,
+   1.0500155687332153
+  ],
+  "tost": {
+   "rho_geo": 1.1229546070098877,
+   "ci90": [
+    1.0763024276613558,
+    1.1716288408983309
+   ],
+   "p_not_further": 1.6671680916928792e-05,
+   "p_alike": 1.6671680916928792e-05,
+   "df": 2754.381103515625,
+   "equivalent": true
+  },
+  "rho_real_stratified": 0.9551329016685486
+ }
+}

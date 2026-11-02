@@ -1,0 +1,19 @@
+\stable{stab:predicates}{\textbf{Ordering a role reversal depends on the predicate rather than on the model.} For each of the eight pairs, the distance ratio $\rho$ and the share of that pair's items on which the role reversal is the closer of the two. The symmetric predicate leaves the name transposition meaning-preserving; the asymmetric one makes the identical transposition a role reversal, therefore a role-sensitive score would put $\rho$ above one on every row. None does. The spread runs in both directions: some pairs are separated decisively and well above the margin, while on others the reversal is the closer of the two in every item. No model is therefore role-sensitive across predicates, and which case a given relation falls into cannot be read off the model. The \emph{worked with} and \emph{worked for} pair differs by one preposition, so it holds lexical content almost exactly, and the three models agree there.}{%
+\begin{tabular}{lrrrrrr}
+\toprule
+predicate pair & \multicolumn{2}{c}{unsup-SimCSE} & \multicolumn{2}{c}{BGE-base} & \multicolumn{2}{c}{Qwen3-0.6B} \\
+\cmidrule(lr){2-3} \cmidrule(lr){4-5} \cmidrule(lr){6-7}
+ & $\rho$ & closer & $\rho$ & closer & $\rho$ & closer \\
+\midrule
+\emph{met} / \emph{defeated} & $0.891$ & $65\%$ & $2.577$ & $2\%$ & $2.323$ & $4\%$ \\
+\emph{married} / \emph{hired} & $0.967$ & $52\%$ & $1.529$ & $15\%$ & $0.476$ & $93\%$ \\
+\emph{divorced} / \emph{sued} & $0.954$ & $57\%$ & $0.628$ & $92\%$ & $0.670$ & $98\%$ \\
+\emph{fought} / \emph{trained} & $1.512$ & $20\%$ & $0.976$ & $57\%$ & $0.372$ & $98\%$ \\
+\emph{worked with} / \emph{worked for} & $1.276$ & $5\%$ & $1.343$ & $7\%$ & $1.281$ & $12\%$ \\
+\emph{argued with} / \emph{reported to} & $1.737$ & $0\%$ & $1.680$ & $5\%$ & $0.791$ & $95\%$ \\
+\emph{played against} / \emph{voted for} & $0.743$ & $85\%$ & $0.369$ & $100\%$ & $0.575$ & $100\%$ \\
+\emph{competed against} / \emph{wrote to} & $1.045$ & $44\%$ & $0.526$ & $93\%$ & $0.343$ & $100\%$ \\
+\midrule
+rows with $\rho>1$ & \multicolumn{2}{c}{4 of 8} & \multicolumn{2}{c}{4 of 8} & \multicolumn{2}{c}{2 of 8} \\
+\bottomrule
+\end{tabular}}
